@@ -1,0 +1,2773 @@
+,hike_name,region,difficulty_level,stars,num_reviews,distance,elevation,route_type,hike_attributes,user_ratings
+0,Vizcaya de Lado,coahuila de zaragoza,fácil,5.0,1,"
+Distancia:  5.6 km 
+","
+Desnivel:
+
+            327 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'flores silvestres', 'fauna']",[{'JuanCarlos Leon': '5'}]
+1,Ajusco via Valle de las Cantimploras Loop,ciudad de méxico,difícil,5.0,1,"
+Distancia:  6.4 km 
+","
+Desnivel:
+
+            506 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'senderismo', 'trail running', 'vistas', 'fauna', 'nieve']",[{'Jose F.': '5'}]
+2,Las Canastas Loop,chiapas,moderada,5.0,5,"
+Distancia:  7.2 km 
+","
+Desnivel:
+
+            341 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'bosque', 'río', 'vistas', 'fauna']","[{'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}]"
+3,Ruta del Peregrino Talpa,jalisco,difícil,5.0,2,"
+Distancia:  72.3 km 
+","
+Desnivel:
+
+            2,022 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['mochilear', 'acampada', 'senderismo', 'paseo', 'parcialmente pavimentado', 'vistas', 'recorrido de bares']","[{'Dany Vic': '5'}, {'Dany Vic': '5'}]"
+4,"Tierras Altas, Alta Tension, Muro, Disney and F1",ciudad de méxico,difícil,5.0,1,"
+Distancia:  23.0 km 
+","
+Desnivel:
+
+            1,134 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'bosque', 'vistas', 'rocoso']",[{'Pedro Perusquia': '5'}]
+5,Cerro Gordo e Izar Loop,estado de méxico,moderada,5.0,1,"
+Distancia:  16.7 km 
+","
+Desnivel:
+
+            862 m
+        
+","
+Tipo de ruta:
+Circular
+","['ciclismo de montaña', 'bosque', 'parcialmente pavimentado', 'vistas', 'fauna']",[{'Pedro Perusquia': '5'}]
+6,Cuatlapanga via San Jose Teacalco,tlaxcala,moderada,5.0,1,"
+Distancia:  5.6 km 
+","
+Desnivel:
+
+            349 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'apto para niños', 'mochilear', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'lugar histórico']",[{'Jorge Carrillo': '5'}]
+7,Alligator Cove,baja california,moderada,4.0,1,"
+Distancia:  8.5 km 
+","
+Desnivel:
+
+            263 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'observación de aves', 'playa', 'vistas']",[{'Donna Miller': '4'}]
+8,Las Amapas-La Noria,nayarit,difícil,5.0,2,"
+Distancia:  14.3 km 
+","
+Desnivel:
+
+            1,263 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['apto para perros', 'mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'observación de aves', 'bosque', 'vistas', 'fauna']","[{'C Hdez V': '5'}, {'Adrián Hernández': '5'}]"
+9,Yelapa Upper Cascada Trail,jalisco,moderada,4.7,3,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            163 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'playa', 'río', 'vistas', 'cascada']","[{'Sharon D.': '5'}, {'Ross Hutcheon': '4'}, {'Hayley Crabtree': '5'}]"
+10,Villa del Palmar ,baja california sur,moderada,5.0,6,"
+Distancia:  9.5 km 
+","
+Desnivel:
+
+            358 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'playa', 'vistas', 'fauna', 'rocoso', 'no hay sombra']","[{'Martin Ruiz': '5'}, {'Carrie Butler': '5'}, {'Jeff Remillard': '5'}, {'Jeff Remillard': '5'}, {'Teresa Howes': '5'}, {'Teresa Howes': '5'}]"
+11,Sierra Santa Rosa,guanajuato,moderada,4.5,2,"
+Distancia:  8.5 km 
+","
+Desnivel:
+
+            353 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'ciclismo en carretera', 'observación de aves', 'bosque', 'lago', 'cascada', 'flores silvestres', 'fauna', 'no se admiten perros']","[{'Sergio Cobo': '5'}, {'Jorge Carrillo': '4'}]"
+12,Cima Sur,sonora,moderada,5.0,2,"
+Distancia:  3.7 km 
+","
+Desnivel:
+
+            227 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'paseo', 'vistas', 'no hay sombra']","[{'Andrea Aello': '5'}, {'Daniela Salido': '5'}]"
+13,Chichen Itza and The Sacred Cenote Trail,yucatán,fácil,5.0,5,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            103 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'paseo', 'vistas', 'lugar histórico']","[{'Tatiana Ocasio': '5'}, {'Jason R.': '5'}, {'Conner Davis': '5'}, {'Joseph Schimmel': '5'}, {'George Wailand': '5'}]"
+14,Juventino Rosas a Naranjillo,guanajuato,moderada,3.8,12,"
+Distancia:  20.9 km 
+","
+Desnivel:
+
+            535 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'parcialmente pavimentado', 'vistas']","[{'Salvador  Pantoja': '4'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '4'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '2'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '5'}]"
+15,Ursulo Galvan Canyon,baja california,moderada,4.0,1,"
+Distancia:  6.9 km 
+","
+Desnivel:
+
+            107 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'playa', 'parcialmente pavimentado', 'vistas']",[{'sergio chairez': '4'}]
+16,Dona Petra MTB Loop,baja california,moderada,2.0,1,"
+Distancia:  6.8 km 
+","
+Desnivel:
+
+            229 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo']",[{'Octavio Guzmán': '2'}]
+17,Punta Gorda,baja california sur,moderada,5.0,1,"
+Distancia:  6.0 km 
+","
+Desnivel:
+
+            133 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas']",[{'Monica Crowe': '5'}]
+18,Mega Carrito,michoacán,moderada,5.0,1,"
+Distancia:  100.9 km 
+","
+Desnivel:
+
+            869 m
+        
+","
+Tipo de ruta:
+Circular
+","['ciclismo de montaña', 'excursiones por la naturaleza', 'vistas']",[{'Rag Alva': '5'}]
+19,Nicolas Copernico Trail Loop,oaxaca,fácil,4.5,2,"
+Distancia:  6.6 km 
+","
+Desnivel:
+
+            299 m
+        
+","
+Tipo de ruta:
+Circular
+","['perros con correa', 'apto para niños', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'vistas', 'lugar histórico']","[{'KT M.': '4'}, {'Jose Garcia': '5'}]"
+20,Palm Beach Trail,baja california sur,fácil,4.5,4,"
+Distancia:  2.6 km 
+","
+Desnivel:
+
+            19 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'pesca', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'bosque', 'vistas', 'fauna']","[{'Bill Crain': '5'}, {'Andrew D.': '4'}, {'Bill Crain': '4'}, {'Denise Crain': '5'}]"
+21,Campo 9 to Playa Escondido,baja california,moderada,4.0,3,"
+Distancia:  9.8 km 
+","
+Desnivel:
+
+            278 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas', 'no hay sombra']","[{'Edde Barragan': '4'}, {'Mariel Carrasco': '4'}, {'Donna Miller': '4'}]"
+22,The Jesuit Cave - North Approach,guanajuato,moderada,5.0,3,"
+Distancia:  6.9 km 
+","
+Desnivel:
+
+            250 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'apto para niños', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'vistas', 'flores silvestres', 'fauna', 'lugar histórico']","[{'Adriana D.': '5'}, {'Olivet Vollmet': '5'}, {'Robert Baines': '5'}]"
+23,Bravo Valley Dam Trail ,estado de méxico,moderada,3.0,1,"
+Distancia:  7.6 km 
+","
+Desnivel:
+
+            504 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'lago', 'vistas', 'cascada', 'flores silvestres', 'fauna']",[{'Caum Jones': '3'}]
+24,Cascada Ensenada,baja california,moderada,3.3,3,"
+Distancia:  10.3 km 
+","
+Desnivel:
+
+            460 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'flores silvestres', 'no hay sombra']","[{'Ken Tramp': '2'}, {'Carlos Morales': '3'}, {'Donna Miller': '5'}]"
+25,Mirador Peña del Cuervo y Dos Aguas,estado de hidalgo,moderada,4.5,2,"
+Distancia:  9.3 km 
+","
+Desnivel:
+
+            556 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'vistas']","[{'Rob Shearer': '5'}, {'Chiara Costanzo': '4'}]"
+26,San Judas Canyon (Huasteca) Pass,nuevo león,difícil,4.0,2,"
+Distancia:  12.7 km 
+","
+Desnivel:
+
+            807 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'flores silvestres', 'fauna']","[{'Manuel Solis': '4'}, {'Marcelo Vasqiez': '4'}]"
+27,Balandra Beach Trail ,baja california sur,fácil,5.0,3,"
+Distancia:  4.3 km 
+","
+Desnivel:
+
+            128 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas', 'fauna']","[{'Randy Rucker': '5'}, {'Maxine Thevenot': '5'}, {'Mike Hart': '5'}]"
+28,Santa Catarina River Trail ,nuevo león,moderada,5.0,1,"
+Distancia:  54.4 km 
+","
+Desnivel:
+
+            566 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'paseo', 'río', 'vistas', 'flores silvestres', 'fauna']",[{'Douglas Serrano': '5'}]
+29,El Ocotal Loop,ciudad de méxico,moderada,4.3,4,"
+Distancia:  3.7 km 
+","
+Desnivel:
+
+            111 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'bosque']","[{'Miguel Espinoza': '4'}, {'Pablo Santos': '5'}, {'saul arizmendi martinez': '5'}, {'ELI BERLIN': '3'}]"
+30,Liz'a Arroyo Crossing to Fig Tree Trail,baja california sur,fácil,5.0,1,"
+Distancia:  1.6 km 
+","
+Desnivel:
+
+            24 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']",[{'Midori Midori': '5'}]
+31,Sierra Chincua,michoacán,fácil,5.0,1,"
+Distancia:  4.2 km 
+","
+Desnivel:
+
+            180 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'fauna']",[{'Alex Lusak': '5'}]
+32,Todos Santos Sugar Port Trail,baja california sur,moderada,4.7,15,"
+Distancia:  6.9 km 
+","
+Desnivel:
+
+            268 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'senderismo', 'ciclismo de montaña', 'trail running', 'playa', 'vistas', 'rocoso', 'trepar', 'lugar histórico']","[{'Kathryn User': '4'}, {'Cy Wakeman': '5'}, {'Kha Hoang': '5'}, {'Adventure A.': '5'}, {'Rosina Ebneter': '4'}, {'Doug Garman': '5'}, {'Steph Gregerson': '5'}, {'Bill Crain': '5'}, {'Neset Pirkul': '5'}, {'Alicia Carr': '4'}, {'Andrea Mota': '4'}, {'Chris Lankford': '5'}, {'Heather Mastakas': '5'}, {'Eric Howery': '4'}, {'Bill Crain': '5'}]"
+33,Costa Azul Canyon,baja california sur,fácil,4.0,5,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            84 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'senderismo', 'paseos a caballo', 'conducción todoterreno', 'trail running', 'paseo', 'playa', 'vistas', 'fauna', 'fangoso', 'erosionado']","[{'Todd Boley': '5'}, {'Sebastian  Perezpavon': '5'}, {'Sebastian  Perezpavon': '5'}, {'Fernando Soto': '3'}, {'Xerchx Leon': '2'}]"
+34,The Lioness Waterfall ,ciudad de méxico,moderada,5.0,1,"
+Distancia:  8.9 km 
+","
+Desnivel:
+
+            522 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'flores silvestres', 'fauna']",[{'Julien Blaise': '5'}]
+35,Laguna Zempoala,estado de méxico,fácil,5.0,1,"
+Distancia:  4.5 km 
+","
+Desnivel:
+
+            265 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'lago', 'vistas']",[{'Katherine Fisher': '5'}]
+36,Brecha El Empalme,nuevo león,moderada,5.0,1,"
+Distancia:  13.4 km 
+","
+Desnivel:
+
+            725 m
+        
+","
+Tipo de ruta:
+Circular
+","['ciclismo de montaña', 'bosque', 'vistas', 'fauna']",[{'Douglas Serrano': '5'}]
+37,Mirador Picacho,baja california,fácil,5.0,4,"
+Distancia:  8.4 km 
+","
+Desnivel:
+
+            369 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'observación de aves', 'vistas', 'flores silvestres', 'fauna']","[{'Lou Zar': '5'}, {'Clau Esco': '5'}, {'Donna Miller': '5'}, {'Gustavo Pelosi Ambrozio': '5'}]"
+38,Ruta Escuelas via Misión Taraumara,chihuahua,fácil,5.0,1,"
+Distancia:  7.1 km 
+","
+Desnivel:
+
+            223 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'trail running', 'bosque', 'vistas', 'fauna']",[{'David Covarrubias': '5'}]
+39, Ruta Escénica Isla Cozumel,quintana roo,moderada,4.0,3,"
+Distancia:  44.1 km 
+","
+Desnivel:
+
+            835 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['ciclismo en carretera', 'conducción panorámica', 'playa', 'vistas']","[{'John Miller': '4'}, {'Cecilia Rodriguez': '5'}, {'edgar lorenzana': '3'}]"
+40,Cascada de Tamasopo via Paso Ancho,san luis potosí,moderada,3.0,2,"
+Distancia:  5.1 km 
+","
+Desnivel:
+
+            89 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'conducción panorámica', 'paseo', 'observación de aves', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'no se admiten perros']","[{'Alicia Watt': '1'}, {'Jorge Carrillo': '5'}]"
+41,Cerro del Mirador,nuevo león,moderada,5.0,1,"
+Distancia:  7.6 km 
+","
+Desnivel:
+
+            432 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']",[{'Carmen Equihua': '5'}]
+42,El Salto Canyon Trail,baja california,difícil,4.0,4,"
+Distancia:  7.9 km 
+","
+Desnivel:
+
+            380 m
+        
+","
+Tipo de ruta:
+Circular
+","['acampada', 'senderismo', 'escalada', 'vistas', 'cascada', 'lleno de maleza', 'rocoso', 'trepar', 'no hay sombra']","[{'Nikole Hendricks': '4'}, {'Fer Ramos': '5'}, {'Melissa Basso': '4'}, {'John Dill': '3'}]"
+43,Cerrito de La Cruz,jalisco,fácil,5.0,3,"
+Distancia:  1.0 km 
+","
+Desnivel:
+
+            82 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'no hay sombra']","[{'Victor Correa': '5'}, {'Gloria Hernandez': '5'}, {'Gloria Hernandez': '5'}]"
+44,Cañon de La Zorra,baja california sur,moderada,4.8,10,"
+Distancia:  3.2 km 
+","
+Desnivel:
+
+            102 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'cascada', 'no hay sombra']","[{'Dori Per': '5'}, {'Jen Gubrud': '4'}, {'Dale Borgeson': '5'}, {'Rosina Ebneter': '5'}, {'Yasmin Karimi': '5'}, {'Alex Baum': '5'}, {'Cameron Martin': '5'}, {'Vittorio Callori': '5'}, {'Yannick Ménard': '4'}, {'Chris  Glass': '5'}]"
+45,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,moderada,4.0,4,"
+Distancia:  208.1 km 
+","
+Desnivel:
+
+            421 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['apto para niños', 'excursiones por la naturaleza', 'conducción panorámica', 'paseo', 'observación de aves', 'vistas']","[{'Julie Martinez': '5'}, {'Mp Mp': '5'}, {'S Carrizal': '1'}, {'Bryan Sandell': '5'}]"
+46,Cerro del Centinela,baja california,difícil,4.6,7,"
+Distancia:  8.0 km 
+","
+Desnivel:
+
+            807 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'trail running', 'vistas', 'fauna', 'trepar', 'no hay sombra']","[{'Erica Cervantes': '3'}, {'Alberto Rivera': '5'}, {'Angel Molina German': '5'}, {'Fabiola Ibarra': '5'}, {'Memo L': '5'}, {'Gaby Rodriguez': '5'}, {'Gaby Rodriguez': '4'}]"
+47,Santa Rita Hot Springs Loop,baja california sur,fácil,5.0,1,"
+Distancia:  1.8 km 
+","
+Desnivel:
+
+            38 m
+        
+","
+Tipo de ruta:
+Circular
+","['acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'termas', 'vistas']",[{'Dori Per': '5'}]
+48,Pico del Águila,ciudad de méxico,difícil,4.1,9,"
+Distancia:  6.0 km 
+","
+Desnivel:
+
+            711 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'trail running', 'vistas', 'fauna', 'rocoso']","[{'Kamila  Zakoutska': '4'}, {'Ceci Portillo': '5'}, {'Lizeth Zertuche': '4'}, {'Daniel Després': '5'}, {'Victor Bibbins': '1'}, {'Jonas Kublickas': '5'}, {'Genesis Leang': '5'}, {'Luis Zepeda': '4'}, {'Jaime de la Fuente Valles': '4'}]"
+49,Playa Palmares to El Nogalito ,jalisco,moderada,4.5,6,"
+Distancia:  6.4 km 
+","
+Desnivel:
+
+            234 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'bosque', 'vistas']","[{'Jessica Meyer': '5'}, {'Francisco S': '4'}, {'Manuel de la Serna': '3'}, {'Paula Valenzuela': '5'}, {'Leo W.': '5'}, {'Mary Bayer': '5'}]"
+50,Rio Florido,chihuahua,fácil,5.0,1,"
+Distancia:  2.7 km 
+","
+Desnivel:
+
+            25 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'río', 'vistas']",[{'Roberto Sanchez': '5'}]
+51,El Salto Loop,baja california,moderada,4.0,5,"
+Distancia:  6.1 km 
+","
+Desnivel:
+
+            495 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']","[{'w g': '5'}, {'Cameron Birchall': '2'}, {'Michael Cimino': '3'}, {'Veronika Magana': '5'}, {'Claudia Ulloa ': '5'}]"
+52,Volcán Cuautzin,morelos,moderada,5.0,1,"
+Distancia:  24.3 km 
+","
+Desnivel:
+
+            742 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'rocoso', 'no hay sombra']",[{'Jose F.': '5'}]
+53,Ascenso a la Rumorosa,baja california,difícil,5.0,1,"
+Distancia:  11.6 km 
+","
+Desnivel:
+
+            1,016 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['senderismo', 'trail running', 'no hay sombra']",[{'Alberto Rincon Jr': '5'}]
+54,Cerro de La Silleta,san luis potosí,difícil,4.0,1,"
+Distancia:  7.1 km 
+","
+Desnivel:
+
+            692 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'escalada', 'cueva', 'bosque', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'rocoso', 'no se admiten perros']",[{'Jorge Carrillo': '4'}]
+55,"Barandales, Medio Muro, Punto Rojo, Disney and F1 Loop",ciudad de méxico,moderada,4.0,2,"
+Distancia:  10.9 km 
+","
+Desnivel:
+
+            516 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'bosque', 'vistas']","[{'Katsuya Imanishi': '3'}, {'Hector  Hernandez Pons Riba ': '5'}]"
+56,La Huasteca ,nuevo león,fácil,5.0,3,"
+Distancia:  12.9 km 
+","
+Desnivel:
+
+            278 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'vistas']","[{'Abraham Orozco': '5'}, {'Douglas Serrano': '5'}, {'Douglas Serrano': '5'}]"
+57,Playa Grande a Playa Chica,jalisco,fácil,5.0,2,"
+Distancia:  7.2 km 
+","
+Desnivel:
+
+            62 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'playa', 'vistas']","[{'Gabyotta Snap': '5'}, {'Gabyotta Snap': '5'}]"
+58,"Junior's, Nasty, Bench Trail Loop",baja california sur,fácil,5.0,3,"
+Distancia:  8.0 km 
+","
+Desnivel:
+
+            246 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo', 'observación de aves']","[{'Courtenay K': '5'}, {'Daniel Lees': '5'}, {'Debranne Cingari': '5'}]"
+59,Fundidora Park,nuevo león,fácil,4.0,3,"
+Distancia:  3.5 km 
+","
+Desnivel:
+
+            41 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'lago', 'pavimentado']","[{'Manuel Solis': '5'}, {'Alberto R.': '2'}, {'Manuel Solis': '5'}]"
+60,K21 Valle de Bravo: Adventure Marathon Series Course,estado de méxico,difícil,5.0,1,"
+Distancia:  20.4 km 
+","
+Desnivel:
+
+            960 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'bosque', 'parcialmente pavimentado', 'vistas']",[{'Buzz LightRich': '5'}]
+61,Playa del Carmen Day Trip to Tulum,quintana roo,fácil,4.0,10,"
+Distancia:  76.0 km 
+","
+Desnivel:
+
+            180 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['perros con correa', 'apto para niños', 'excursiones por la naturaleza', 'conducción panorámica', 'observación de aves', 'playa', 'vistas', 'flores silvestres', 'fauna']","[{'John Miller': '4'}, {'Mat BuenaVista': '1'}, {'Eric Gholston': '5'}, {'Pat Ribotto': '4'}, {'Ken Burneau': '5'}, {'Breck Tuttle': '5'}, {'yona kopolovich': '5'}, {'Matthew Kent': '5'}, {'Grayson Boyd': '5'}, {'Steve  Hazlehurst': '1'}]"
+62,El Chico Hidalgo,estado de hidalgo,fácil,3.0,1,"
+Distancia:  3.5 km 
+","
+Desnivel:
+
+            294 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'lago', 'vistas']",[{'Hector Rode Haza': '3'}]
+63,Los Picachos,guanajuato,moderada,4.3,11,"
+Distancia:  7.7 km 
+","
+Desnivel:
+
+            387 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'escalada', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'lugar histórico', 'no se admiten perros']","[{'Erika Ganey': '5'}, {'Venisha Jeff': '5'}, {'Callie Houghland': '3'}, {'Jorge Carrillo': '4'}, {'Lani Elizabeth': '5'}, {'martin Banachiewicz': '3'}, {'Stephen Strand': '4'}, {'Jeff Pulford': '4'}, {'Paul Kortman': '4'}, {'Ben Debono': '5'}, {'Rob Cornelius': '5'}]"
+64,Punta Canoas,baja california,moderada,5.0,1,"
+Distancia:  139.5 km 
+","
+Desnivel:
+
+            3,233 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['conducción panorámica', 'playa', 'vistas', 'fauna', 'no hay sombra']",[{'Ivan Alfredo': '5'}]
+65,Malecón de Mazatlan,sinaloa,fácil,4.5,13,"
+Distancia:  9.8 km 
+","
+Desnivel:
+
+            57 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'ciclismo en carretera', 'trail running', 'paseo', 'playa', 'pavimentado', 'vistas', 'paseo urbano']","[{'Alejandra Flores': '5'}, {'Irma Karns': '4'}, {'David Covarrubias': '5'}, {'Greg Webb': '5'}, {'Teresa M.': '5'}, {'Dennis Galloway': '4'}, {'Janelle Pacheco': '4'}, {'Frank Hands': '4'}, {'Spencer N.': '5'}, {'Tony Sierra': '4'}, {'Tony Sierra': '5'}, {'Fernando Mendez': '5'}, {'James Y': '4'}]"
+66,Sendero Cerro Viejo,jalisco,difícil,5.0,1,"
+Distancia:  17.9 km 
+","
+Desnivel:
+
+            1,137 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas', 'rocoso']",[{'Dany Vic': '5'}]
+67,Ciclovia Revolucion y Ciclovia Patriotismo,ciudad de méxico,fácil,5.0,1,"
+Distancia:  7.7 km 
+","
+Desnivel:
+
+            104 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['perros con correa', 'ciclismo en carretera', 'pavimentado']",[{'Enrique Huato': '5'}]
+68,Carretera La Venta Santa Rosa Loop,ciudad de méxico,moderada,2.0,1,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            353 m
+        
+","
+Tipo de ruta:
+Circular
+","['perros con correa', 'senderismo', 'ciclismo de montaña', 'trail running', 'bosque', 'parcialmente pavimentado', 'vistas']",[{'Buzz LightRich': '2'}]
+69,Paseo del Rio Atoyac via Periférico Ecológico,puebla,moderada,5.0,1,"
+Distancia:  26.1 km 
+","
+Desnivel:
+
+            442 m
+        
+","
+Tipo de ruta:
+Circular
+","['trail running', 'paseo', 'parcialmente pavimentado', 'río']",[{'Cesar Pigeon': '5'}]
+70,Cuatro Palos to Mision de Bucareli,querétaro,difícil,5.0,1,"
+Distancia:  23.2 km 
+","
+Desnivel:
+
+            1,861 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'mochilear', 'acampada', 'senderismo', 'río', 'vistas', 'flores silvestres', 'fauna', 'insectos', 'fangoso', 'rocoso', 'no hay sombra']",[{'Eduardo 44': '5'}]
+71,Presa El Rejón Scenic Trail,chihuahua,moderada,4.7,3,"
+Distancia:  6.6 km 
+","
+Desnivel:
+
+            112 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'lago']","[{'Edgar Maldonado': '5'}, {'Amador Yair': '4'}, {'Alex Lebaron': '5'}]"
+72,San Felipe 250 OHV Course,baja california,difícil,4.0,1,"
+Distancia:  370.0 km 
+","
+Desnivel:
+
+            5,051 m
+        
+","
+Tipo de ruta:
+Circular
+","['conducción todoterreno', 'playa', 'vistas', 'no hay sombra']",[{'Gerardo Nuno': '4'}]
+73,Cerro “El Chupón” Hike,nuevo león,moderada,4.0,4,"
+Distancia:  4.2 km 
+","
+Desnivel:
+
+            388 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'bosque', 'vistas', 'rocoso']","[{'Dulce Acevedo': '2'}, {'Darren Hughes': '4'}, {'Sandra Mireles': '5'}, {'Jorge Llaguno': '5'}]"
+74,Cerro de el Mezcalillo,jalisco,moderada,4.0,1,"
+Distancia:  10.6 km 
+","
+Desnivel:
+
+            381 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas']",[{'Eduardo 44': '4'}]
+75,Peña de Bernal,querétaro,moderada,4.8,12,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            198 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'vistas', 'rocoso']","[{'Donald Grimm': '5'}, {'Adriana D.': '4'}, {'Brooklynn Jai': '5'}, {'Jay Fuentes': '5'}, {'Miguel Espinoza': '4'}, {'Magdalena Esparza Rgz': '5'}, {'Callie Houghland': '5'}, {'Adrián Morales': '5'}, {'Micajah Spoden': '5'}, {'Daniel Chow': '5'}, {'Jorge Quintero': '5'}, {'Jorge Carrillo': '5'}]"
+76,Brecha del Chile y Las Florida ,nuevo león,fácil,4.3,3,"
+Distancia:  4.2 km 
+","
+Desnivel:
+
+            298 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'bosque', 'vistas', 'fauna']","[{'Enjalin Zwanzigmorgan': '4'}, {'miguel velarde': '5'}, {'Jorge Antonio Garza Peña (George': '4'}]"
+77,Malecon Coatza,veracruz de ignacio de la llave,fácil,3.5,2,"
+Distancia:  2.7 km 
+","
+Desnivel:
+
+            16 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['trail running', 'paseo', 'observación de aves', 'playa', 'vistas']","[{'Freddy joel  Dominguez carcaño ': '3'}, {'Freddy joel  Dominguez carcaño ': '4'}]"
+78,Camino Cabo Este Scenic Drive,baja california sur,moderada,5.0,4,"
+Distancia:  103.6 km 
+","
+Desnivel:
+
+            1,508 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['apto para perros', 'apto para niños', 'acampada', 'pesca', 'conducción todoterreno', 'conducción panorámica', 'playa', 'vistas', 'fauna']","[{'Sandra Koch': '5'}, {'Bill Crain': '5'}, {'Betsy Lynch': '5'}, {'Maxine Gnazzo': '5'}]"
+79,Cerro Pinacate Loop,sonora,difícil,5.0,2,"
+Distancia:  17.1 km 
+","
+Desnivel:
+
+            1,008 m
+        
+","
+Tipo de ruta:
+Circular
+","['mochilear', 'senderismo', 'excursiones por la naturaleza', 'observación de aves', 'vistas', 'flores silvestres', 'fauna']","[{'Jesse Boersma': '5'}, {'Bruno Panara': '5'}]"
+80,Trail Mineral del Chico Race Route,estado de hidalgo,difícil,5.0,1,"
+Distancia:  20.3 km 
+","
+Desnivel:
+
+            1,217 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'observación de aves', 'bosque', 'vistas', 'flores silvestres']",[{'Buzz LightRich': '5'}]
+81,The Walled City,quintana roo,fácil,4.6,11,"
+Distancia:  1.3 km 
+","
+Desnivel:
+
+            26 m
+        
+","
+Tipo de ruta:
+Circular
+","['excursiones por la naturaleza', 'paseo', 'playa', 'vistas', 'lugar histórico', 'no se admiten perros']","[{'V Urena': '5'}, {'Amanda Page': '5'}, {'Jacqueline Cox': '4'}, {'yona kopolovich': '5'}, {'Hai Van': '4'}, {'Paula Valenzuela': '5'}, {'Conner Davis': '5'}, {'Eric Haight': '5'}, {'Conner Davis': '5'}, {'Denise Neves': '3'}, {'Steph Connell': '5'}]"
+82,Sendero del Pelado,morelos,moderada,5.0,3,"
+Distancia:  12.7 km 
+","
+Desnivel:
+
+            658 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'vistas']","[{'Edgar Jardon': '5'}, {'Edgar Jardon': '5'}, {'Edgar Jardon': '5'}]"
+83,El Tepalo Loop,jalisco,moderada,4.2,12,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            339 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'bosque', 'vistas', 'cascada', 'trepar', 'no hay sombra', 'paseo urbano', 'lugar histórico']","[{'Lamorna Hollingsworth': '3'}, {'Gabyotta Snap': '5'}, {'John Connie Reimer': '4'}, {'Mike Greschner': '5'}, {'Martin Roldan Araujo': '4'}, {'Gabyotta Snap': '4'}, {'Gabyotta Snap': '3'}, {'Mike Greschner': '4'}, {'Gabyotta Snap': '5'}, {'Phillip Whitley': '4'}, {'Erick R.': '4'}, {'D Busch': '5'}]"
+84,Presa Paso de Tablas,querétaro,moderada,4.0,1,"
+Distancia:  5.6 km 
+","
+Desnivel:
+
+            167 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'río', 'vistas']",[{'Celeste Aviles': '4'}]
+85,Alameda Central to Chapultepec via Ciclovia Juárez,ciudad de méxico,moderada,5.0,2,"
+Distancia:  12.4 km 
+","
+Desnivel:
+
+            265 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'ciclismo en carretera', 'paseo', 'lago', 'pavimentado', 'paseo urbano']","[{'David Covarrubias': '5'}, {'Anthony Virdone': '5'}]"
+86,Volcán Tacaná,chiapas,moderada,4.0,1,"
+Distancia:  18.3 km 
+","
+Desnivel:
+
+            2,049 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'vistas']",[{'Mario Gomez': '4'}]
+87,Blue Bottle Saddle Hike,baja california,difícil,5.0,3,"
+Distancia:  13.7 km 
+","
+Desnivel:
+
+            470 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'vistas', 'flores silvestres', 'fauna']","[{'Lou Zar': '5'}, {'Alberto Rincon Jr': '5'}, {'Donna Miller': '5'}]"
+88,Camino a la Cueva desde los llanos de Lapuente,san luis potosí,fácil,4.0,1,"
+Distancia:  2.3 km 
+","
+Desnivel:
+
+            102 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'paseo', 'cueva', 'bosque']",[{'Michel Rivial': '4'}]
+89,Paso del Caballero,nuevo león,difícil,5.0,1,"
+Distancia:  8.7 km 
+","
+Desnivel:
+
+            507 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'bosque', 'vistas']",[{'Daniel Hernández-Cantú': '5'}]
+90,Cerro de la Silla (Antenas),nuevo león,difícil,4.5,18,"
+Distancia:  10.3 km 
+","
+Desnivel:
+
+            1,174 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'senderismo', 'trail running', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso']","[{'James Carfield': '4'}, {'Veronica CoPe': '4'}, {'Leandro da Costa': '5'}, {'Hannah Pinkerton': '5'}, {'George Doran III': '5'}, {'Leticia  Flores': '5'}, {'Rick Glisson': '4'}, {'ToCatchAHacker User': '4'}, {'Megan Lipovsky': '5'}, {'Felix Lustig': '5'}, {'Samantha Bueno': '5'}, {'Brian Schumann': '4'}, {'Erick Rocha': '5'}, {'Antonio Cueto': '4'}, {'Perla Tijerina': '5'}, {'Adela Fernandez': '5'}, {'Eduardo Zarate': '4'}, {'Sergio Garca': '3'}]"
+91,Batea-Cerro de San Juan,nayarit,moderada,5.0,3,"
+Distancia:  4.0 km 
+","
+Desnivel:
+
+            423 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'acampada', 'senderismo', 'trail running', 'paseo', 'observación de aves', 'bosque', 'vistas', 'fauna']","[{'Bere JV': '5'}, {'C Hdez V': '5'}, {'Stephanie Rosales': '5'}]"
+92,Cañon de la Murcielaguera,veracruz de ignacio de la llave,moderada,4.0,1,"
+Distancia:  4.3 km 
+","
+Desnivel:
+
+            182 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas', 'flores silvestres']",[{'Jorge Carrillo': '4'}]
+93,Nevado de Toluca Rim Crater Trail,estado de méxico,difícil,4.8,5,"
+Distancia:  7.9 km 
+","
+Desnivel:
+
+            679 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'escalada', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'trepar', 'nieve', 'no hay sombra', 'no se admiten perros']","[{'LINDSAY SWIFT': '5'}, {'Jorge Carrillo': '4'}, {'Julien Blaise': '5'}, {'Caum Jones': '5'}, {'Mikey Swift': '5'}]"
+94,Camino el Chupón,nuevo león,fácil,5.0,1,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            332 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'bosque', 'vistas']",[{'Carmen Equihua': '5'}]
+95,Cuauhtinchan,estado de méxico,fácil,4.5,2,"
+Distancia:  1.4 km 
+","
+Desnivel:
+
+            112 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'lugar histórico']","[{'Fernanda Pdr': '5'}, {'Francisco Ferrer': '4'}]"
+96,Punta Brava Trail,baja california,fácil,5.0,1,"
+Distancia:  1.8 km 
+","
+Desnivel:
+
+            90 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'paseo', 'playa', 'vistas']",[{'Donna Miller': '5'}]
+97,Cerro de la Venta,querétaro,moderada,4.0,1,"
+Distancia:  4.5 km 
+","
+Desnivel:
+
+            231 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'vistas', 'no hay sombra']",[{'Jc Zotomaior': '4'}]
+98,Antenas Cantú Sendero,baja california,moderada,4.5,2,"
+Distancia:  19.2 km 
+","
+Desnivel:
+
+            913 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'observación de aves', 'vistas', 'no hay sombra']","[{'Ken Tramp': '4'}, {'Donna Miller': '5'}]"
+99,Tires and Virgin Tail ,ciudad de méxico,difícil,4.0,1,"
+Distancia:  14.6 km 
+","
+Desnivel:
+
+            804 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'paseo', 'observación de aves', 'vistas', 'flores silvestres']",[{'Erich Lindner': '4'}]
+100,Parque Nacional el Cimatario ,querétaro,moderada,4.6,12,"
+Distancia:  6.0 km 
+","
+Desnivel:
+
+            241 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'no hay sombra', 'no se admiten perros']","[{'Donald Grimm': '5'}, {'Priscilla Guerrero': '5'}, {'Daniel Gonzalez': '4'}, {'Magdalena Esparza Rgz': '4'}, {'Callie Houghland': '4'}, {'Francisco S': '5'}, {'Bernardo Cassina': '4'}, {'Luis  Salcedo Martinez': '5'}, {'Adrián Morales': '5'}, {'Fermín Montoya Olvera': '5'}, {'The Crazy Seis': '4'}, {'Micajah Spoden': '5'}]"
+101,Liz's Arroyo to E-Loop Trail,baja california sur,moderada,5.0,1,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            86 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']",[{'Daniel Lees': '5'}]
+102,San Nicolás Totolapan Trail ,ciudad de méxico,moderada,4.3,3,"
+Distancia:  12.4 km 
+","
+Desnivel:
+
+            575 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'vistas', 'flores silvestres', 'fauna']","[{'Rodrigo Gutierrez Villarreal': '4'}, {'Eduardo Nevado': '5'}, {'Celeste Aviles': '4'}]"
+103,Boca de Tomatlan to Quimixto Waterfall,jalisco,moderada,4.8,11,"
+Distancia:  15.4 km 
+","
+Desnivel:
+
+            486 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'playa', 'bosque', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'fangoso', 'rocoso']","[{'Lindsay N': '4'}, {'Mark Smith': '5'}, {'Evgenia Kostiaeva': '5'}, {'Zbigniew Lewandowski': '5'}, {'Nicole Bracco': '5'}, {'Lia Winter': '5'}, {'Tee Isais': '5'}, {'Mike Battistel': '5'}, {'Charles  Christman': '5'}, {'Marcus Naidu': '4'}, {'Tommy Loe': '5'}]"
+104,Sendero La Cruz,jalisco,fácil,5.0,1,"
+Distancia:  0.6 km 
+","
+Desnivel:
+
+            70 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'paseo', 'vistas', 'no hay sombra']",[{'Rubi Garcia': '5'}]
+105,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,moderada,4.5,66,"
+Distancia:  2.6 km 
+","
+Desnivel:
+
+            130 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas', 'flores silvestres', 'rocoso', 'trepar', 'no hay sombra', 'propiedad privada']","[{'Ryan Munson': '5'}, {'Abby  F': '5'}, {'lawrence tafoya': '5'}, {'Ian Barker': '5'}, {'Chris Sherman': '5'}, {'Laura Benjamin': '5'}, {'Enrique Morales': '5'}, {'Jessica Rizo': '5'}, {'Gregg Nordin': '5'}, {'Desiree Macke': '5'}, {'Natalie Whiting': '5'}, {'Silvi Steigerwald': '1'}, {'DAWN BULL': '3'}, {'Michael Lerner': '4'}, {'Gloria Gamboa': '5'}, {'Clarissa Peterson': '5'}, {'Heather Salyer': '5'}]"
+106,Puente de Dios-Rio Escanela,querétaro,fácil,4.8,5,"
+Distancia:  6.4 km 
+","
+Desnivel:
+
+            157 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'cueva', 'bosque', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'no se admiten perros']","[{'Donald Grimm': '5'}, {'Kelly  Giffin ': '5'}, {'Jorge Carrillo': '5'}, {'Mario Gomez': '4'}, {'Cesar Orduna': '5'}]"
+107,Coba Ruins,quintana roo,fácil,4.8,17,"
+Distancia:  5.8 km 
+","
+Desnivel:
+
+            40 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'paseo', 'bosque', 'vistas', 'lugar histórico']","[{'Charleyne H.': '5'}, {'Julie Martinez': '5'}, {'Jake Dieffenbach': '5'}, {'Diane Philips': '4'}, {'Kurt Bentz': '5'}, {'Bradly Hogan': '4'}, {'María Mendoza Arcos': '5'}, {'The Hiking Hiker': '5'}, {'Kalie Olberding': '5'}, {'Joel Hernandez': '5'}, {'Jason R.': '5'}, {'V Urena': '5'}, {'Victoria Arceneaux': '4'}, {'Jolina De La Cruz': '5'}, {'Fernando Mendez': '5'}, {'Colemen Wilson': '5'}, {'Amy Bullion': '5'}]"
+108,Botanical Garden Trail ,quintana roo,fácil,5.0,1,"
+Distancia:  1.8 km 
+","
+Desnivel:
+
+            72 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'flores silvestres', 'fauna']",[{'Peter M.': '5'}]
+109,Canyon San Lorenzo,coahuila de zaragoza,moderada,4.8,4,"
+Distancia:  7.9 km 
+","
+Desnivel:
+
+            491 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'escalada', 'vistas', 'rocoso', 'no hay sombra']","[{'Arturo Garcia Bobadilla': '5'}, {'Cesar Sanchez': '4'}, {'Andrew Villareal': '5'}, {'Emilio Ortiz': '5'}]"
+110,El Paseo Rural,baja california,moderada,4.0,2,"
+Distancia:  46.8 km 
+","
+Desnivel:
+
+            648 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo']","[{'Jorge Chau': '3'}, {'Hike Revolution': '5'}]"
+111,Piedra Herrada,estado de méxico,moderada,4.7,3,"
+Distancia:  3.9 km 
+","
+Desnivel:
+
+            323 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas', 'flores silvestres', 'fauna']","[{'Enrique Horcasitas': '4'}, {'Fran Ky': '5'}, {'Alex Lusak': '5'}]"
+112,Bosque de Chapultepec Main Loop,ciudad de méxico,fácil,4.4,7,"
+Distancia:  3.7 km 
+","
+Desnivel:
+
+            77 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'trail running', 'paseo', 'observación de aves', 'bosque', 'lago', 'pavimentado', 'vistas', 'flores silvestres']","[{'Jeff Harris': '3'}, {'N G': '4'}, {'William Masterson': '5'}, {'Carlos Schnapauff': '4'}, {'Becca Brennan': '5'}, {'Carly Baker': '5'}, {'Chino Lemus': '5'}]"
+113,Hierve el Agua,oaxaca,fácil,5.0,1,"
+Distancia:  2.6 km 
+","
+Desnivel:
+
+            190 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'excursiones por la naturaleza', 'paseo', 'vistas']",[{'Nancy G.': '5'}]
+114,Paricutin,michoacán,moderada,5.0,4,"
+Distancia:  21.1 km 
+","
+Desnivel:
+
+            817 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'vistas', 'rocoso', 'no hay sombra']","[{'Maddie Stocker': '5'}, {'Juan Patiño Flores': '5'}, {'Pat Buechs': '5'}, {'Adam Arney': '5'}]"
+115,Pico de Orizaba and Refugio Piedra Grande,puebla,difícil,5.0,1,"
+Distancia:  24.5 km 
+","
+Desnivel:
+
+            2,226 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'acampada', 'senderismo', 'vistas', 'rocoso', 'trepar', 'nieve', 'no hay sombra']",[{'Jordan Goethel': '5'}]
+116,Parque Jardines de la Hacienda,querétaro,fácil,4.5,2,"
+Distancia:  0.6 km 
+","
+Desnivel:
+
+            9 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'trail running', 'paseo']","[{'Hassan Velázquez': '5'}, {'Paula Valenzuela': '4'}]"
+117,"Bench, Nasty, Bluff Trail Loop",baja california sur,moderada,4.7,3,"
+Distancia:  9.7 km 
+","
+Desnivel:
+
+            248 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas']","[{'Daniel Lees': '5'}, {'Andrew D.': '4'}, {'Jeff Schwein': '5'}]"
+118,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,moderada,4.0,6,"
+Distancia:  28.5 km 
+","
+Desnivel:
+
+            1,217 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'ciclismo de montaña', 'trail running', 'bosque', 'vistas']","[{'Chiara Costanzo': '3'}, {'Michael Grealy': '5'}, {'Chucho Ares': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '1'}, {'Pedro Perusquia': '5'}]"
+119,Old Port Trail,baja california sur,moderada,3.0,2,"
+Distancia:  1.6 km 
+","
+Desnivel:
+
+            132 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas', 'rocoso']","[{'Denise Crain': '2'}, {'Bill Crain': '4'}]"
+120,Cumbres del Ajusco,ciudad de méxico,difícil,4.5,2,"
+Distancia:  6.0 km 
+","
+Desnivel:
+
+            648 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'senderismo', 'trail running', 'bosque', 'vistas', 'fauna']","[{'Santiago De León': '5'}, {'Rodolfo Velez': '4'}]"
+121,Cofre de Perote via El Conejo,veracruz de ignacio de la llave,moderada,5.0,2,"
+Distancia:  12.4 km 
+","
+Desnivel:
+
+            893 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'escalada', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'no se admiten perros']","[{'Jorge Carrillo': '5'}, {'Liliana Arrazola': '5'}]"
+122,The Stripe Trail ,nuevo león,fácil,4.5,2,"
+Distancia:  1.4 km 
+","
+Desnivel:
+
+            169 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'río', 'vistas', 'fauna']","[{'Alicia Watt': '5'}, {'Jorge Llaguno': '4'}]"
+123,Cerritos Corner Beach Walk,baja california sur,fácil,5.0,1,"
+Distancia:  3.5 km 
+","
+Desnivel:
+
+            36 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas', 'fauna']",[{'Bill Crain': '5'}]
+124,Dzibilchaltun Ruins,yucatán,fácil,4.0,1,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            13 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'paseo', 'lugar histórico']",[{'Manny Delcharco': '4'}]
+125,Pérez T2 Monte Alto Loop,estado de méxico,moderada,4.0,1,"
+Distancia:  15.3 km 
+","
+Desnivel:
+
+            679 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas', 'fauna']",[{'Michael Grealy': '4'}]
+126,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,moderada,4.4,5,"
+Distancia:  19.3 km 
+","
+Desnivel:
+
+            478 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'vistas']","[{'Eduardo 44': '4'}, {'Matthew Coombs': '3'}, {'Rafa Rguez': '5'}, {'Rafa Rguez': '5'}, {'Rafa Rguez': '5'}]"
+127,Valle de Guadalupe Hot Springs and Ruins,baja california,fácil,4.5,6,"
+Distancia:  8.7 km 
+","
+Desnivel:
+
+            116 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'termas', 'vistas', 'lugar histórico']","[{'Monica Arellano': '4'}, {'Omar Santiago': '5'}, {'Jen Baker': '4'}, {'Paulo Ernesto Moraes': '5'}, {'Louis Murillo': '4'}, {'Gustavo Pelosi Ambrozio': '5'}]"
+128,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,difícil,5.0,6,"
+Distancia:  7.1 km 
+","
+Desnivel:
+
+            1,311 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'escalada', 'paseo', 'vistas', 'rocoso', 'trepar']","[{'Jared Beutler': '5'}, {'Jan C.': '5'}, {'Chris Bowler': '5'}, {'Logan Deans': '5'}, {'Arthur Kuritsyn': '5'}, {'Jonas Kublickas': '5'}]"
+129,Sotano del Barro,querétaro,difícil,5.0,1,"
+Distancia:  9.8 km 
+","
+Desnivel:
+
+            901 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['acampada', 'senderismo', 'paseos a caballo', 'escalada', 'observación de aves', 'cueva', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'no se admiten perros']",[{'Jorge Carrillo': '5'}]
+130,Parque México,ciudad de méxico,fácil,3.7,3,"
+Distancia:  1.3 km 
+","
+Desnivel:
+
+            16 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'trail running', 'paseo', 'lago']","[{'Paula Valenzuela': '5'}, {'Paula Valenzuela': '5'}, {'Paula Valenzuela': '1'}]"
+131,Parque Hundido,ciudad de méxico,fácil,4.0,1,"
+Distancia:  1.4 km 
+","
+Desnivel:
+
+            27 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'trail running', 'paseo']",[{'N G': '4'}]
+132,Cerro Grande Trail,baja california,moderada,3.0,1,"
+Distancia:  11.3 km 
+","
+Desnivel:
+
+            714 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'río', 'vistas', 'lleno de maleza', 'rocoso']",[{'Jose Alfredo Quintero': '3'}]
+133,Sendero El Descanso,baja california,moderada,4.5,2,"
+Distancia:  19.3 km 
+","
+Desnivel:
+
+            438 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'playa', 'vistas', 'no hay sombra']","[{'J R': '4'}, {'Lilian Apodaca': '5'}]"
+134,Monkey Mountain via Camino Patzcuaro Sur,nayarit,moderada,4.2,6,"
+Distancia:  8.0 km 
+","
+Desnivel:
+
+            363 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'bosque', 'vistas', 'fauna']","[{'Lara Church': '2'}, {'Chris Anderson': '4'}, {'Kirsten Postnikoff': '4'}, {'Laura Dietrich': '5'}, {'George R.': '5'}, {'Fee Isabelle': '5'}]"
+135,Brecha del Chile y Camino a Chipinque,nuevo león,moderada,5.0,3,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            357 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'bosque', 'parcialmente pavimentado', 'vistas', 'fauna']","[{'Marco Garza': '5'}, {'Joaquin Beltran': '5'}, {'Joaquin Beltran': '5'}]"
+136,Rancho Lara Trail ,baja california,fácil,4.0,1,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            105 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'flores silvestres', 'fauna']",[{'Ramses Lopez': '4'}]
+137,Los Ocotillos,jalisco,fácil,4.5,2,"
+Distancia:  3.5 km 
+","
+Desnivel:
+
+            317 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'paseo', 'bosque', 'vistas']","[{'Jessica Gilbert': '5'}, {'Daniel Ochoa': '4'}]"
+138,Nevado de Colima ,jalisco,difícil,4.7,6,"
+Distancia:  11.1 km 
+","
+Desnivel:
+
+            669 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'nieve']","[{'María Fernanda  Rébora Téllez-Sill': '4'}, {'kermity boi': '4'}, {'Dany Vic': '5'}, {'Mauricio Herrera': '5'}, {'Jessica Gilbert': '5'}, {'Gabriel Garcia rulfo': '5'}]"
+139,Mira Cielo de Ruiz,baja california,difícil,5.0,3,"
+Distancia:  16.9 km 
+","
+Desnivel:
+
+            1,078 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'rocoso', 'no hay sombra']","[{'Arlene Bautista': '5'}, {'Alberto Rincon Jr': '5'}, {'Donna Miller': '5'}]"
+140,Laguna Salada via Mex 5,baja california,moderada,5.0,1,"
+Distancia:  37.7 km 
+","
+Desnivel:
+
+            294 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['mochilear', 'senderismo', 'conducción todoterreno', 'vistas', 'no hay sombra']",[{'Armando Molina': '5'}]
+141,El Salto Waterfall Trail,baja california,fácil,3.8,11,"
+Distancia:  3.4 km 
+","
+Desnivel:
+
+            90 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'río', 'cascada', 'rocoso']","[{'Clau Esco': '5'}, {'francisco otanez': '5'}, {'Jon-Mark Overvold': '4'}, {'Carlos Morales': '4'}, {'Jen Baker': '3'}, {'Geo Bru': '1'}, {'Tom Werder': '4'}, {'Jeremiah Shivers': '5'}, {'Claudia Ulloa ': '5'}, {'Tony Rdz': '5'}, {'Shelly Manjarrez': '1'}]"
+142,Iztaccihuatl,estado de méxico,difícil,5.0,23,"
+Distancia:  13.4 km 
+","
+Desnivel:
+
+            1,387 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['acampada', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'vistas', 'fauna', 'caído', 'rocoso', 'fuera del sendero', 'no hay sombra']","[{'Emmett Hume': '5'}, {'Miguel Vega': '5'}, {'Jorge Carrillo': '5'}, {'Freeman  Smith': '5'}, {'Mychal Wooldridge': '5'}, {'Dennis Van Laerhoven': '4'}, {'Elmer Pinzon': '5'}, {'Jorge Carrillo': '5'}, {'JUAN D.': '5'}, {'Alejandro Reyes Rucker': '5'}, {'Andres Obregon': '5'}, {'Aaron Murray': '5'}, {'Jesus Hache': '5'}, {'Gabrielle Wentling': '5'}, {'Jorge C.': '5'}, {'Rachel Williams': '5'}, {'Enrique Horcasitas': '5'}, {'Mike Pratt': '5'}, {'Jonas Kublickas': '5'}, {'Juan Lopez': '5'}, {'Jorge Gomez': '5'}, {'Zimu Zhou': '5'}, {'George Nunes': '5'}]"
+143,Sendero Jaguar,jalisco,moderada,5.0,2,"
+Distancia:  1.4 km 
+","
+Desnivel:
+
+            66 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'vistas', 'fauna', 'rocoso']","[{'Lorie Fischer': '5'}, {'Spencer N.': '5'}]"
+144,San Carlos Hot Springs,baja california,fácil,4.5,4,"
+Distancia:  2.9 km 
+","
+Desnivel:
+
+            67 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'río']","[{'Donna Miller': '5'}, {'Marcos Guzman': '5'}, {'Donna Miller': '5'}, {'Mayra Reyes': '3'}]"
+145,Ruiz Summit Trail to Miracielo Mountain,baja california,difícil,5.0,1,"
+Distancia:  16.4 km 
+","
+Desnivel:
+
+            1,057 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'vistas', 'flores silvestres', 'fauna']",[{'Alberto Rincon Jr': '5'}]
+146,"Agave Ridge Trail, Tortilla Rock, Turtle Pond, and Levi's Ridge Loop",jalisco,moderada,3.5,2,"
+Distancia:  7.2 km 
+","
+Desnivel:
+
+            490 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'vistas', 'no hay sombra']","[{'María Fernanda  Rébora Téllez-Sill': '2'}, {'Cassia Johnson': '5'}]"
+147,Sayulita to San Pancho,nayarit,fácil,3.7,11,"
+Distancia:  6.4 km 
+","
+Desnivel:
+
+            259 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'observación de aves', 'playa', 'bosque', 'vistas', 'fauna']","[{'Adriana D.': '5'}, {'Chris Anderson': '4'}, {'Sharon D.': '4'}, {'Bianca Bianca Hawkins': '3'}, {'Batya Bejar': '5'}, {'Hillary Clark': '3'}, {'Bronwyn Crossman': '4'}, {'Yves Pearson': '3'}, {'Yves Pearson': '3'}, {'Yves Pearson': '3'}, {'Mike Battistel': '4'}]"
+148,Backside and Coyote Loop Trail,baja california sur,moderada,4.3,4,"
+Distancia:  4.3 km 
+","
+Desnivel:
+
+            171 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'trail running', 'paseo', 'vistas']","[{'Jackie Smith': '5'}, {'Bill Crain': '4'}, {'Julian Higareda': '5'}, {'Michael Laprise': '3'}]"
+149,Isla La Roqueta,estado de guerrero,fácil,5.0,2,"
+Distancia:  3.2 km 
+","
+Desnivel:
+
+            90 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas', 'no hay sombra']","[{'Liam Price': '5'}, {'Chris Turner': '5'}]"
+150,Cañón Westman,baja california,moderada,5.0,3,"
+Distancia:  6.6 km 
+","
+Desnivel:
+
+            293 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'rocoso']","[{'Ignacio Liera Jr.': '5'}, {'David Meakin': '5'}, {'Donna Miller': '5'}]"
+151,Parque Natural Mexiquillo Falls,durango,fácil,4.0,2,"
+Distancia:  4.0 km 
+","
+Desnivel:
+
+            112 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'bosque', 'río', 'vistas', 'cascada']","[{'Hector Carrillo': '5'}, {'Hector Carrillo': '3'}]"
+152,Arroyo El Coyote y Rio Grande,tamaulipas,fácil,4.0,2,"
+Distancia:  6.1 km 
+","
+Desnivel:
+
+            37 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'río', 'no hay sombra']","[{'Aide Ab': '5'}, {'Aide Ab': '3'}]"
+153,Copper Canyon via Ruta Lomo y Ruta Canon,chihuahua,difícil,3.0,3,"
+Distancia:  10.9 km 
+","
+Desnivel:
+
+            851 m
+        
+","
+Tipo de ruta:
+Circular
+","['mochilear', 'senderismo', 'excursiones por la naturaleza', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'no hay sombra']","[{'David Covarrubias': '5'}, {'martin Banachiewicz': '2'}, {'martin Banachiewicz': '2'}]"
+154,Copete del Águila Loop,nuevo león,moderada,4.0,1,"
+Distancia:  11.6 km 
+","
+Desnivel:
+
+            1,169 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas', 'fauna']",[{'Raquel H': '4'}]
+155,Ajusco (Las Llantas) to 4 Dinamo Loop,ciudad de méxico,moderada,5.0,1,"
+Distancia:  23.7 km 
+","
+Desnivel:
+
+            1,137 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'vistas', 'rocoso']",[{'Jorge Quintero': '5'}]
+156,Mirador Cuatro Palos,querétaro,fácil,5.0,5,"
+Distancia:  2.3 km 
+","
+Desnivel:
+
+            105 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'apto para niños', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'vistas', 'flores silvestres']","[{'Brooklynn Jai': '5'}, {'Derek K': '5'}, {'Alfredo Ac': '5'}, {'Jorge Carrillo': '5'}, {'Nick Lucero': '5'}]"
+157,Dona Petra Canyon,baja california,moderada,4.3,3,"
+Distancia:  21.4 km 
+","
+Desnivel:
+
+            684 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves']","[{'Travel Brunch': '4'}, {'Jen Baker': '4'}, {'Mariana Espinosa': '5'}]"
+158,Nevado de Toluca from Parque de los Venados,estado de méxico,difícil,5.0,3,"
+Distancia:  23.5 km 
+","
+Desnivel:
+
+            1,284 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'escalada', 'trail running', 'observación de aves', 'vistas', 'rocoso', 'trepar']","[{'Cristina Prieto': '5'}, {'Benjamin Diaz': '5'}, {'Laura Vale': '5'}]"
+159,Sendero Parque Metropolitano SP-PM-3,baja california,fácil,4.8,4,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            73 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'ciclismo de montaña', 'trail running', 'paseo', 'vistas', 'flores silvestres', 'fauna', 'erosionado', 'fuera del sendero', 'no hay sombra', 'no se admiten perros']","[{'Steve Yap': '5'}, {'Barbara Murphy': '4'}, {'Vane Vp': '5'}, {'Monica Vejar Corona': '5'}]"
+160,Santa Cruz Trail,baja california,moderada,4.5,2,"
+Distancia:  8.2 km 
+","
+Desnivel:
+
+            147 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'vistas']","[{'Fernando Becerra': '4'}, {'Fernando Becerra': '5'}]"
+161,Monkey Mountain via Hiquera Blanca,nayarit,moderada,5.0,9,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            325 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'bosque', 'vistas', 'fauna']","[{'David Gonzalez': '5'}, {'Hallie Richmond': '5'}, {'Henry Heyman': '5'}, {'John Berg': '5'}, {'Mariya Santiago': '5'}, {'Lara Church': '5'}, {'Travis Mendoza': '5'}, {'Taylor Moore': '5'}, {'Nicolas Sanchez': '5'}]"
+162,Velo de Novia Trail ,estado de méxico,fácil,3.0,4,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            124 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna']","[{'Bernardo Cassina': '3'}, {'Pedro Perusquia': '5'}, {'Fran Ky': '2'}, {'Roberto Villaseñor': '2'}]"
+163,Toniná Pyramid Hike,chiapas,moderada,4.0,1,"
+Distancia:  2.9 km 
+","
+Desnivel:
+
+            87 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas', 'lugar histórico']",[{'Jorge Carrillo': '4'}]
+164,Cerrito de La Mina,jalisco,moderada,5.0,1,"
+Distancia:  4.8 km 
+","
+Desnivel:
+
+            124 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'vistas', 'rocoso', 'no hay sombra']",[{'Rubi Garcia': '5'}]
+165,Cerró de las Torres,baja california sur,moderada,3.8,5,"
+Distancia:  5.3 km 
+","
+Desnivel:
+
+            251 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'vistas']","[{'Mariana Medina': '5'}, {'elaine Zuckerman': '2'}, {'Lawrence Pritika': '3'}, {'Raquel Goodman': '4'}, {'Walter lewis': '5'}]"
+166,Sierra de Las Mitras,nuevo león,moderada,3.3,3,"
+Distancia:  3.9 km 
+","
+Desnivel:
+
+            554 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'observación de aves', 'bosque', 'vistas', 'fauna', 'rocoso']","[{'Víctor Hernández': '4'}, {'Boris Pineda': '4'}, {'Víctor Hernández': '2'}]"
+167,Nevado de Toluca El Fraile Loop Trail,estado de méxico,difícil,4.4,8,"
+Distancia:  6.8 km 
+","
+Desnivel:
+
+            644 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'paseo', 'bosque', 'lago', 'vistas', 'trepar', 'nieve']","[{'Dennis Van Laerhoven': '4'}, {'Jorge Carrillo': '4'}, {'Flo Sch': '5'}, {'East West Nutrition User': '5'}, {'Fran Ky': '5'}, {'Craig Minoff': '4'}, {'Gilberto Romero': '4'}, {'Kasia Tadajewska': '4'}]"
+168,Mission Santa Rosalia de Mulege,baja california sur,fácil,4.0,1,"
+Distancia:  0.3 km 
+","
+Desnivel:
+
+            9 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'paseo', 'vistas', 'no hay sombra', 'lugar histórico']",[{'Heather Salyer': '4'}]
+169,Picacho del Diablo,baja california,difícil,4.8,5,"
+Distancia:  31.9 km 
+","
+Desnivel:
+
+            2,631 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'vistas', 'fauna']","[{'yuri rubi felix': '5'}, {'Emilio Borraz Ortega': '4'}, {'saul borbon': '5'}, {'Betty Barreiro': '5'}, {'Jose Alfredo Quintero': '5'}]"
+170,El Cienpies,baja california,fácil,4.8,4,"
+Distancia:  5.0 km 
+","
+Desnivel:
+
+            154 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'vistas', 'rocoso', 'no hay sombra']","[{'Daniel Gonzalez Castellot': '5'}, {'Daniel Gonzalez Castellot': '4'}, {""C'sar Saul S"": '5'}, {'Daniel Gonzalez Castellot': '5'}]"
+171,Camino al Convento Trail,ciudad de méxico,fácil,4.8,17,"
+Distancia:  9.8 km 
+","
+Desnivel:
+
+            429 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'observación de aves', 'bosque', 'río', 'vistas', 'fauna']","[{'Diego Escobedo': '5'}, {'Alan Hibbard': '5'}, {'Benjamin Diaz': '5'}, {'Raul R': '4'}, {'Ronja B.': '5'}, {'Cristina Prieto': '5'}, {'Annabelle Benin': '5'}, {'Liliana Arrazola': '5'}, {'Fernando Oca': '5'}, {'Benjamin Diaz': '5'}, {'Mau Zepe': '5'}, {'Mau Zepe': '4'}, {'Buzz LightRich': '5'}, {'Iveth Pompa': '5'}, {'Christine  Paulig': '5'}, {'Brenda Guereca': '5'}, {'Raul Rivas': '4'}]"
+172,Cora Waterfalls,nayarit,moderada,5.0,1,"
+Distancia:  16.6 km 
+","
+Desnivel:
+
+            507 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'mochilear', 'pesca', 'paseos a caballo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'escalada', 'trail running', 'paseo', 'observación de aves', 'cueva', 'bosque', 'parcialmente pavimentado', 'río', 'cascada', 'flores silvestres', 'fauna']",[{'Alexandre Mollien': '5'}]
+173,El Faro Lighthouse,sinaloa,moderada,4.9,7,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            89 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'observación de aves', 'vistas', 'lugar histórico']","[{'Israel Santillan': '5'}, {'Alejandra Flores': '5'}, {'Karen Wallace': '4'}, {'Tina Lazzarone': '5'}, {'Irma Karns': '5'}, {'Dinorah Inzunza': '5'}, {'Gabino Rodriguez': '5'}]"
+174,Coahuila Ruta Circular,nuevo león,difícil,5.0,1,"
+Distancia:  47.3 km 
+","
+Desnivel:
+
+            2,382 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'vistas', 'rocoso']",[{'Francisco Garza': '5'}]
+175,La Ventana Beach Walk,baja california sur,fácil,5.0,2,"
+Distancia:  4.0 km 
+","
+Desnivel:
+
+            11 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'paseo', 'playa']","[{'Bill Crain': '5'}, {'Geoffrey Yandl': '5'}]"
+176,Santa Maria Oasis Trail,baja california,difícil,4.0,2,"
+Distancia:  54.6 km 
+","
+Desnivel:
+
+            1,085 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'senderismo', 'vistas', 'flores silvestres', 'fauna', 'no hay sombra']","[{'Ivan Alfredo': '3'}, {'Edgar Garcia': '5'}]"
+177,El Carrizo,baja california,moderada,4.2,6,"
+Distancia:  6.1 km 
+","
+Desnivel:
+
+            168 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'trail running', 'lago', 'vistas']","[{'ramon balderrama': '5'}, {'Wilson R.': '5'}, {'Claudia Lara': '1'}, {'Maria Sandoval': '5'}, {'Fernando Becerra': '5'}, {'Fernando Becerra': '4'}]"
+178,Raul Zertuche,coahuila de zaragoza,fácil,3.0,1,"
+Distancia:  8.5 km 
+","
+Desnivel:
+
+            205 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'acampada', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas', 'lleno de maleza', 'rocoso']",[{'Raul Zertuche': '3'}]
+179,Peña Rosa,estado de hidalgo,fácil,5.0,1,"
+Distancia:  3.7 km 
+","
+Desnivel:
+
+            182 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'bosque', 'vistas']",[{'Chiara Costanzo': '5'}]
+180,Mount Sieani Trail ,baja california,moderada,5.0,1,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            574 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'flores silvestres', 'fauna']",[{'Jaydon La Valla': '5'}]
+181,Banco de Arena de Bahía Adaír,sonora,fácil,4.8,4,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            39 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'acampada', 'pesca', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas', 'fauna']","[{'Beau Comeaux': '4'}, {'Kaitlin Simek': '5'}, {'Kaitlin Simek': '5'}, {'Kaitlin Simek': '5'}]"
+182,Nevado de Toluca Lagoons Loop Trail,estado de méxico,moderada,4.7,10,"
+Distancia:  10.6 km 
+","
+Desnivel:
+
+            538 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'bosque', 'lago', 'vías verdes', 'vistas', 'flores silvestres', 'fauna']","[{'Alan Hibbard': '4'}, {'Brenton Ezeofor': '5'}, {'JuanCarlos Leon': '5'}, {'Danya Sanchez': '5'}, {'Josh Baltzer': '5'}, {'Peter Scholz': '5'}, {'JUAN D.': '5'}, {'Jorge Carrillo': '4'}, {'Radka Kleckova': '4'}, {'Claudia Ulloa ': '5'}]"
+183,La Raiz Trail,puebla,fácil,5.0,1,"
+Distancia:  5.1 km 
+","
+Desnivel:
+
+            186 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'no hay sombra']",[{'Aldo Iván': '5'}]
+184,El Mezcalero to La Escondida Loop,chihuahua,moderada,3.7,3,"
+Distancia:  10.9 km 
+","
+Desnivel:
+
+            249 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'lago', 'no hay sombra']","[{'Veronica Martinez': '3'}, {'Adrián López': '5'}, {'Jimmy Steeler': '3'}]"
+185,Las Piedras Niñas y Jiquilpan Jalisco,jalisco,moderada,5.0,2,"
+Distancia:  15.6 km 
+","
+Desnivel:
+
+            674 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'parcialmente pavimentado', 'vistas']","[{'David Ramirez': '5'}, {'David Ramirez': '5'}]"
+186,Tetakawi Summit ,sonora,difícil,4.6,5,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            316 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'escalada', 'trail running', 'playa', 'vistas', 'insectos', 'rocoso', 'trepar', 'no hay sombra']","[{'Liz Garcia': '5'}, {'Andoni Gonzalez': '5'}, {'Zulema Dorame chavez': '5'}, {'Jeff Wellman': '4'}, {'Leonardo Arrieta': '4'}]"
+187,Patriotism and Revolution Bicycle Path ,ciudad de méxico,fácil,3.5,2,"
+Distancia:  11.1 km 
+","
+Desnivel:
+
+            249 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'ciclismo en carretera', 'paseo', 'pavimentado', 'vistas', 'paseo urbano', 'lugar histórico']","[{'Enrique Huato': '5'}, {'Roberto Albores': '2'}]"
+188,Cerro del Bachoco,sonora,moderada,4.3,4,"
+Distancia:  3.7 km 
+","
+Desnivel:
+
+            266 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'fauna', 'rocoso', 'no hay sombra']","[{'Javier  Vazquez ': '5'}, {'Javier  Vazquez ': '4'}, {'Daniela Salido': '5'}, {'Javier  Vazquez ': '3'}]"
+189,Boca de Tomatlan Trail,jalisco,moderada,4.9,27,"
+Distancia:  8.0 km 
+","
+Desnivel:
+
+            247 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas']","[{'Eileen Rittenhouse': '5'}, {'Dan Klingberg': '5'}, {'Tanya Morosoli': '5'}, {'Holly Vest': '5'}, {'Tom P.': '5'}, {'Laura Balboa': '5'}, {'Kaitlin Haefner': '5'}, {'Anna T': '5'}, {'Lia Winter': '5'}, {'Emily White': '5'}, {'Rodolfo F': '5'}, {'Jesus Ibarra': '5'}, {'Riche W.': '4'}, {'Leo Alcala': '5'}, {'Matthew Cummins': '5'}, {'Dany Vic': '5'}, {'Kevin Casey': '5'}, {'C.  Petersman': '4'}, {'Brian Jesmer': '3'}, {'F User': '5'}, {'Christine Wushke': '5'}, {'Jonno Schmidt': '5'}, {'Gerardo Fojo': '5'}, {'Tommy Loe': '5'}, {'Mike Miller': '5'}, {'T Abba': '5'}, {'Ben Riordan': '5'}]"
+190,Playa la Cachora Beach Walk,baja california sur,fácil,3.3,3,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            11 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'lago', 'vistas']","[{'Bill Crain': '4'}, {'Denise Crain': '2'}, {'Bill Crain': '4'}]"
+191,Cerro Zapotecas,puebla,moderada,4.0,3,"
+Distancia:  8.5 km 
+","
+Desnivel:
+
+            279 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'vistas']","[{'Sadie  Birks': '2'}, {'Ari Gutierrez': '5'}, {'Arzy KatzLvtrov': '5'}]"
+192,Sayulita to Playa Malpasos Loop,nayarit,fácil,4.0,1,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            54 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'playa', 'bosque', 'vistas', 'no hay sombra']",[{'George R.': '4'}]
+193,Punta Brava,baja california,fácil,4.0,2,"
+Distancia:  5.8 km 
+","
+Desnivel:
+
+            239 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'playa', 'vistas']","[{'David Coher': '4'}, {'Monica Arellano': '4'}]"
+194,Pico Pirámide,nuevo león,difícil,4.5,4,"
+Distancia:  7.4 km 
+","
+Desnivel:
+
+            1,380 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'senderismo', 'trail running', 'vistas', 'fauna']","[{'Jorge Camargo': '4'}, {'JuanCarlos Leon': '5'}, {'Jorge Camargo': '5'}, {'Francisco Francisco Bujanos': '4'}]"
+195,Juanacatlán a La Manzanilla,jalisco,moderada,4.0,1,"
+Distancia:  35.4 km 
+","
+Desnivel:
+
+            1,097 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'no hay sombra']",[{'Eduardo 44': '4'}]
+196,Cerro Ostotl Tlaxcala,tlaxcala,moderada,2.5,2,"
+Distancia:  4.3 km 
+","
+Desnivel:
+
+            214 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'observación de aves', 'vistas', 'flores silvestres']","[{'Jorge Carrillo': '4'}, {'Daniel Gaisbacher': '1'}]"
+197,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,difícil,4.8,9,"
+Distancia:  3.9 km 
+","
+Desnivel:
+
+            848 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'acampada', 'senderismo', 'escalada', 'vistas', 'nieve', 'fuera del sendero', 'no hay sombra']","[{'Sara Atlas': '5'}, {'pepe cernicchiaro': '5'}, {'Wilson R.': '5'}, {'JUAN D.': '5'}, {'Wilson R.': '4'}, {'yona kopolovich': '5'}, {'Nate Beam': '4'}, {'Manuel López': '5'}, {'Jorge Carrillo': '5'}]"
+198,Malinche,tlaxcala,difícil,4.8,29,"
+Distancia:  12.2 km 
+","
+Desnivel:
+
+            1,275 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'escalada', 'paseo', 'observación de aves', 'bosque', 'vistas', 'flores silvestres', 'fauna', 'rocoso']","[{'Nelson Gonzalez': '5'}, {'Breck Tuttle': '5'}, {'Nelson Gonzalez': '5'}, {'Mercedes Alejandra López Serrano': '5'}, {'Lachie B': '5'}, {'Mychal Wooldridge': '5'}, {'Aldo Silva': '5'}, {'Claudio Sodi': '5'}, {'Saúl RC': '5'}, {'Jorge Carrillo': '4'}, {'JUAN D.': '5'}, {'Vincent Leroy': '5'}, {'Jorge C.': '5'}, {'Para Varios': '2'}, {'Valeria  Lopez': '5'}, {'Miguel Gallo': '5'}, {'Logan Deans': '5'}, {'Chris Bowler': '5'}, {'Ricardo Camargo': '5'}, {'Mathieu Roy': '5'}, {'Oscar Josue Flores Villa': '4'}, {'luke botanist': '5'}, {'Frank Walsh': '5'}, {'Nabor Contreras': '5'}, {'Lucia CT': '5'}, {'Luis Zepeda': '5'}, {'Santiago De León': '5'}, {'Mariel DoSu': '5'}, {'Juan Patiño Flores': '5'}]"
+199,La Bufadora Paddle,baja california,difícil,5.0,3,"
+Distancia:  5.0 km 
+","
+Desnivel:
+
+            31 m
+        
+","
+Tipo de ruta:
+Circular
+","['excursiones por la naturaleza', 'deportes de remo', 'playa', 'vistas']","[{'Jeetu J': '5'}, {'Elizabeth Navarro': '5'}, {'Jeetu J': '5'}]"
+200,Sendero Teinidad de Melina ,nuevo león,fácil,3.0,1,"
+Distancia:  12.7 km 
+","
+Desnivel:
+
+            237 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['excursiones por la naturaleza', 'conducción todoterreno', 'vistas', 'fauna', 'rocoso', 'no hay sombra']",[{'Alfredo Flores': '3'}]
+201,Mirador El Pinal,nuevo león,difícil,4.9,8,"
+Distancia:  10.0 km 
+","
+Desnivel:
+
+            612 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'trail running', 'bosque', 'fauna']","[{'David Chong': '5'}, {'Julio Santiago': '5'}, {'quentin jacques': '5'}, {'Felipe Garcia': '5'}, {'Jaciel Castro': '5'}, {'Josue Montiel': '5'}, {'Joaquin Beltran': '5'}, {'Eduardo Zarate': '4'}]"
+202,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,fácil,4.6,5,"
+Distancia:  4.8 km 
+","
+Desnivel:
+
+            74 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'paseo', 'vistas', 'lugar histórico']","[{'su l.': '3'}, {'Ezveidy Pastrana': '5'}, {'Javier Alvarez': '5'}, {'Mikey Swift': '5'}, {'Jorge Carrillo': '5'}]"
+203,Desierto de los Leones Loop,ciudad de méxico,difícil,5.0,2,"
+Distancia:  23.2 km 
+","
+Desnivel:
+
+            1,123 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'senderismo', 'ciclismo de montaña', 'trail running', 'bosque', 'vistas']","[{'Petya Lazarova': '5'}, {'Juan Hanna': '5'}]"
+204,Cerro Grande,chihuahua,fácil,5.0,1,"
+Distancia:  4.0 km 
+","
+Desnivel:
+
+            369 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'vistas', 'no hay sombra']",[{'Alejandro Guerra': '5'}]
+205,Hacienda Tres Rios to Mangrove,quintana roo,fácil,3.7,3,"
+Distancia:  9.2 km 
+","
+Desnivel:
+
+            30 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'playa', 'vistas', 'fauna']","[{'Corbin Chau': '2'}, {'Dmitri Kniazev': '5'}, {'Scott Titterington': '4'}]"
+206,Backside and Bench Trail,baja california sur,moderada,3.4,5,"
+Distancia:  6.9 km 
+","
+Desnivel:
+
+            270 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['pesca', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']","[{'Bill Crain': '4'}, {'Debranne Cingari': '1'}, {'Francisco Ferrer': '3'}, {'Midori Midori': '4'}, {'Alec Michaud': '5'}]"
+207,Ek' Balam,yucatán,fácil,4.5,4,"
+Distancia:  1.6 km 
+","
+Desnivel:
+
+            20 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'paseo', 'bosque', 'vistas']","[{'Scott Densmore': '5'}, {'George Wailand': '5'}, {'Conner Davis': '5'}, {'Bryana m': '3'}]"
+208,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,moderada,4.8,5,"
+Distancia:  14.3 km 
+","
+Desnivel:
+
+            759 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'bosque', 'vistas']","[{'Ssoleey Tristán': '5'}, {'Alicia Watt': '4'}, {'Carlos Ruiz Favela': '5'}, {'Samantha Bueno': '5'}, {'Ricardo Del Valle': '5'}]"
+209,Cerritos Beach Walk,baja california sur,fácil,4.7,3,"
+Distancia:  13.4 km 
+","
+Desnivel:
+
+            114 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'excursiones por la naturaleza', 'surf', 'trail running', 'paseo', 'observación de aves', 'playa', 'vistas', 'fauna']","[{'Teresa M.': '5'}, {'Bill Crain': '5'}, {'Bill Crain': '4'}]"
+210,Puerto Penasco to Golfo de Santa Clara,sonora,moderada,5.0,1,"
+Distancia:  353.9 km 
+","
+Desnivel:
+
+            658 m
+        
+","
+Tipo de ruta:
+Circular
+","['conducción todoterreno', 'playa', 'vistas', 'fauna']",[{'Sandra Griffin': '5'}]
+211,Cascadas de Micos,san luis potosí,fácil,5.0,1,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            134 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'río', 'cascada']",[{'Victor  Avalos': '5'}]
+212,Cerro El Coronel,baja california,difícil,4.8,26,"
+Distancia:  4.5 km 
+","
+Desnivel:
+
+            359 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'trail running', 'vistas', 'no hay sombra']","[{'Mario Ruiz': '4'}, {'Charly Barajas': '5'}, {'Carlos Moreno': '5'}, {'Carlos Moreno': '5'}, {'Leo Aguilar': '5'}, {'Marie Barthel': '5'}, {'Beatriz Aragón': '5'}, {'Carol Romero': '5'}, {'Beatriz Aragón': '5'}, {'Ana Segedincev': '5'}, {'Michael Garcia': '5'}, {'Janeth Castro': '5'}, {'Kailee G': '5'}, {'francisco otanez': '4'}, {'Claudia Ulloa ': '5'}, {'Mariel Carrasco': '5'}, {'Thalina Irais': '5'}, {'Lupita Real': '5'}, {'Jen Baker': '4'}, {'Manuel Cabrera': '4'}, {'Jonathan Gonzalez-Garcia ': '4'}]"
+213,Pozo de Cota Beach Walk,baja california sur,fácil,5.0,1,"
+Distancia:  5.5 km 
+","
+Desnivel:
+
+            22 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'playa', 'vistas']",[{'Morgan Oakland': '5'}]
+214,Cabo Banda: Lighthouse Trail,baja california,fácil,4.7,3,"
+Distancia:  7.7 km 
+","
+Desnivel:
+
+            246 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas', 'no hay sombra']","[{'Ashley Mercado': '4'}, {'Donna Miller': '5'}, {'Donna Miller': '5'}]"
+215,San Juan Amecac a Tecuanipa,puebla,moderada,1.0,1,"
+Distancia:  17.4 km 
+","
+Desnivel:
+
+            448 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'conducción todoterreno', 'trail running', 'vistas', 'flores silvestres', 'fauna', 'rocoso', 'no hay sombra']",[{'Casey  LeTellier': '1'}]
+216,Picachos Sendero,baja california,moderada,4.0,1,"
+Distancia:  1.8 km 
+","
+Desnivel:
+
+            44 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'escalada', 'paseo', 'vistas', 'rocoso']",[{'Cocko Perez': '4'}]
+217,El San Miguel,ciudad de méxico,difícil,4.5,11,"
+Distancia:  14.0 km 
+","
+Desnivel:
+
+            758 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'trail running', 'bosque', 'vistas', 'fauna', 'rocoso']","[{'Diego Escobedo': '4'}, {'Federico Antoni': '5'}, {'Morten Hellberg': '4'}, {'Leslie Patino': '5'}, {'Rick Glisson': '4'}, {'Jesus Levy': '5'}, {'Radka Kleckova': '4'}, {'Miguel Gallo': '5'}, {'José Ignacio Aldama V.': '5'}, {'saul arizmendi martinez': '5'}, {'Oscar Teuffer': '4'}]"
+218,Cerro de el Colli [PRIVATE PROPERTY],jalisco,moderada,3.0,2,"
+Distancia:  9.7 km 
+","
+Desnivel:
+
+            327 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'observación de aves', 'vistas', 'propiedad privada']","[{'Taylor Blackburn': '1'}, {'Eduardo 44': '5'}]"
+219,Camino a La Entrega Loop,oaxaca,moderada,4.0,2,"
+Distancia:  6.3 km 
+","
+Desnivel:
+
+            175 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'playa', 'parcialmente pavimentado', 'vistas']","[{'Matt Altschul': '3'}, {'Jan Potocki': '5'}]"
+220,Circuito San Miguel,ciudad de méxico,difícil,4.9,7,"
+Distancia:  27.2 km 
+","
+Desnivel:
+
+            1,274 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para perros', 'senderismo', 'ciclismo de montaña', 'bosque', 'vistas', 'rocoso', 'trepar']","[{'Julien Blaise': '5'}, {'Gabriel De Cárcer': '4'}, {'Katsuya Imanishi': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}]"
+221,Cerro Prieto,baja california,moderada,4.7,3,"
+Distancia:  2.3 km 
+","
+Desnivel:
+
+            103 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']","[{'Sofia Velazquez': '5'}, {""Muddyface D'solis"": '5'}, {'Luis Lozano': '4'}]"
+222,Puente de Dios via Paso Ancho,san luis potosí,moderada,5.0,1,"
+Distancia:  6.1 km 
+","
+Desnivel:
+
+            165 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'bosque', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'no se admiten perros']",[{'Jorge Carrillo': '5'}]
+223,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,moderada,3.8,4,"
+Distancia:  8.2 km 
+","
+Desnivel:
+
+            377 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'senderismo', 'ciclismo de montaña', 'trail running', 'bosque', 'vistas']","[{'Chiara Costanzo': '3'}, {'Miguel Gallo': '5'}, {'P Carlos LV': '4'}, {'Michael Grealy': '3'}]"
+224,Yelapa Waterfall Trail ,jalisco,fácil,4.8,6,"
+Distancia:  4.0 km 
+","
+Desnivel:
+
+            110 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'playa', 'bosque', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna']","[{'Nicole Bracco': '5'}, {'Evgenia Kostiaeva': '5'}, {'Mary Humphrey': '5'}, {'Maggie Tilley': '4'}, {'Bryan Hindle': '5'}, {'Kelly Naff': '5'}]"
+225,Jicalán,michoacán,fácil,5.0,2,"
+Distancia:  2.6 km 
+","
+Desnivel:
+
+            248 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'trail running', 'paseo', 'vistas']","[{'Liz S. Ortiz': '5'}, {'Liz S. Ortiz': '5'}]"
+226,Devils Peak via Devil's Canyon Trail,baja california,difícil,5.0,1,"
+Distancia:  52.5 km 
+","
+Desnivel:
+
+            2,923 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'vistas']",[{'Federico Godinez': '5'}]
+227,El Charco del Ingenio ,guanajuato,fácil,4.7,3,"
+Distancia:  1.6 km 
+","
+Desnivel:
+
+            39 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para niños', 'senderismo', 'excursiones por la naturaleza', 'vistas', 'fauna']","[{'Adriana D.': '5'}, {'Adriana D.': '5'}, {'Edward Hug': '4'}]"
+228,Old Filters Trail ,michoacán,moderada,4.5,2,"
+Distancia:  10.1 km 
+","
+Desnivel:
+
+            441 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'lago', 'vistas', 'flores silvestres', 'fauna']","[{'Orlando Torres': '5'}, {'Pedro Guzman': '4'}]"
+229,Bosque de Chapultepec Loop,ciudad de méxico,fácil,4.0,2,"
+Distancia:  4.2 km 
+","
+Desnivel:
+
+            118 m
+        
+","
+Tipo de ruta:
+Circular
+","['apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'excursiones por la naturaleza', 'ciclismo en carretera', 'paseo', 'bosque', 'lago', 'parcialmente pavimentado']","[{'Bernardo Cassina': '3'}, {'Ho De': '5'}]"
+230,El Pinal via Brecha El Empalme y Vereda de Cabras,nuevo león,moderada,5.0,3,"
+Distancia:  10.8 km 
+","
+Desnivel:
+
+            615 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'vistas']","[{'Marco Garza': '5'}, {'Marco Garza': '5'}, {'Ben Heath': '5'}]"
+231,Paseo de Las Garzas,estado de guerrero,fácil,5.0,1,"
+Distancia:  12.6 km 
+","
+Desnivel:
+
+            369 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas']",[{'Donal Clancy': '5'}]
+232,La Pila ,ciudad de méxico,difícil,4.3,10,"
+Distancia:  19.8 km 
+","
+Desnivel:
+
+            823 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'trail running', 'paseo', 'observación de aves', 'bosque', 'vistas']","[{'Julien Blaise': '4'}, {'Ernesto Ba': '4'}, {'Liliana Arrazola': '5'}, {'Pablo Santos': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Emiliano Aguilar P.': '5'}, {'Juan Leonardo Gonzalez Gomez': '5'}, {'Faafeu Kapeneta': '1'}, {'Michael Grealy': '4'}]"
+233,Camino Colonia Mexico,chihuahua,moderada,4.6,7,"
+Distancia:  15.3 km 
+","
+Desnivel:
+
+            187 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'rocoso', 'no hay sombra']","[{'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '3'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '4'}]"
+234,Milpalta a Tepoztlán,ciudad de méxico,moderada,5.0,1,"
+Distancia:  36.2 km 
+","
+Desnivel:
+
+            1,356 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'rocoso']",[{'Daniel Escamilla': '5'}]
+235,Sayulita to Playa Malpasos,nayarit,fácil,4.0,1,"
+Distancia:  1.3 km 
+","
+Desnivel:
+
+            36 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'playa', 'vistas', 'no hay sombra']",[{'Roger R.': '4'}]
+236,Tepozteco,morelos,moderada,4.6,25,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            263 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas', 'rocoso', 'lugar histórico']","[{'Taylor Elise': '5'}, {'Patricia G.': '5'}, {'David Peña-Chavez': '5'}, {'Freeman  Smith': '4'}, {'Petr Hofman': '5'}, {'Elfa Guirado': '5'}, {'Hector Manuel Perez Sanchez': '5'}, {'Lucio Ramirez': '5'}, {'Cezary Oniszczuk': '5'}, {'Katherine White': '5'}, {'Roberto Rozalen': '5'}, {'Janeth Castro': '4'}, {'Beatriz Martinez': '5'}, {'Chris A': '3'}, {'Antonio Cueto': '3'}, {'Mau Zepe': '5'}, {'Uriel  Chavez ': '5'}, {'Ixchel Tucker': '5'}, {'Fran Ky': '5'}, {'Robchik Sk': '5'}, {'Patricio Reynaud': '4'}, {'Mario Aguilar Estrada': '5'}, {'Rob Shearer': '4'}, {'Carlos Villarespe': '5'}, {'Bernat Rubio': '4'}]"
+237,Rio Grande de Santiago via La Barranca ,jalisco,moderada,4.4,10,"
+Distancia:  10.5 km 
+","
+Desnivel:
+
+            651 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'trail running', 'paseo', 'río', 'vistas', 'flores silvestres', 'fauna']","[{'Tania Vasco': '4'}, {'Maverikc Vargas': '5'}, {'Raul Arellano': '5'}, {'Shelby Witherby': '4'}, {'Sonny Cruz': '4'}, {'Lindsey Meere': '4'}, {'Don Wiens': '4'}, {'Julien Roy': '5'}, {'Mathieu Roy': '5'}, {'Alex Quevedo': '4'}]"
+238,Cascada Ensenada Ruta Circular,baja california,moderada,4.0,5,"
+Distancia:  15.4 km 
+","
+Desnivel:
+
+            772 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'excursiones por la naturaleza', 'vistas', 'cascada']","[{'Kyle Watson': '3'}, {'Jen Baker': '4'}, {'Edde Barragan': '5'}, {'Javier Guadiana': '4'}, {'Javier Guadiana': '4'}]"
+239,Pila Trail,baja california sur,moderada,4.0,1,"
+Distancia:  1.3 km 
+","
+Desnivel:
+
+            127 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']",[{'Debranne Cingari': '4'}]
+240,Tecolote Beach Walk,baja california sur,fácil,4.3,3,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            5 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'pesca', 'excursiones por la naturaleza', 'paseo', 'playa', 'vistas']","[{'Bill Crain': '4'}, {'Denise Crain': '5'}, {'Bill Crain': '4'}]"
+241,Monte Tlaloc via Rio Frio,estado de méxico,difícil,4.3,3,"
+Distancia:  21.6 km 
+","
+Desnivel:
+
+            1,176 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'senderismo', 'paseos a caballo', 'ciclismo de montaña', 'excursiones por la naturaleza', 'escalada', 'bosque', 'río', 'vistas', 'cascada', 'flores silvestres', 'fauna', 'lugar histórico']","[{'Jorge Carrillo': '5'}, {'Jorge Carrillo': '4'}, {'Mau Zepe': '4'}]"
+242,Cerro San Isidro,baja california,moderada,3.8,5,"
+Distancia:  7.2 km 
+","
+Desnivel:
+
+            505 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'senderismo', 'ciclismo de montaña', 'escalada', 'trail running', 'paseo', 'cueva', 'vistas', 'flores silvestres', 'fauna', 'insectos', 'lleno de maleza', 'rocoso', 'no hay sombra']","[{'Jose Alfredo Quintero': '3'}, {'Jose Covarrubias': '5'}, {'Jose Covarrubias': '5'}, {'Jeremiah Shivers': '3'}, {'Jose Alfredo Quintero': '3'}]"
+243,"Devils Canyon, Wall Street, Devil's Peak ",baja california,difícil,5.0,1,"
+Distancia:  42.5 km 
+","
+Desnivel:
+
+            3,287 m
+        
+","
+Tipo de ruta:
+De punto a punto
+","['mochilear', 'acampada', 'senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']","[{""C'sar Saul S"": '5'}]"
+244,Valle de Guadelupe Hot Springs,baja california,fácil,5.0,3,"
+Distancia:  5.8 km 
+","
+Desnivel:
+
+            101 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'termas']","[{'Clau Esco': '5'}, {'Gustavo Pelosi Ambrozio': '5'}, {'Mirna Gonzalez': '5'}]"
+245,Sendero Cerra del Borrego ,veracruz de ignacio de la llave,fácil,5.0,1,"
+Distancia:  2.4 km 
+","
+Desnivel:
+
+            255 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'bosque', 'vistas', 'fauna']",[{'Dominic R.': '5'}]
+246,Parque Guadiana,durango,fácil,2.0,1,"
+Distancia:  2.1 km 
+","
+Desnivel:
+
+            27 m
+        
+","
+Tipo de ruta:
+Circular
+","['perros con correa', 'apto para sillas de ruedas', 'apto para niños', 'apto para silla de paseo', 'trail running', 'paseo', 'pavimentado']",[{'Alan Chaparro': '2'}]
+247,El Pabellon - Cerro del Mirador,jalisco,moderada,5.0,1,"
+Distancia:  2.9 km 
+","
+Desnivel:
+
+            215 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'vistas']",[{'César Uyoa': '5'}]
+248,La Moneda Trail,coahuila de zaragoza,moderada,4.0,1,"
+Distancia:  16.1 km 
+","
+Desnivel:
+
+            846 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['senderismo', 'vistas', 'rocoso']",[{'Janneth Masters': '4'}]
+249,Baker-Milton Trail Loop,sonora,moderada,3.7,3,"
+Distancia:  20.0 km 
+","
+Desnivel:
+
+            228 m
+        
+","
+Tipo de ruta:
+Circular
+","['senderismo', 'observación de aves', 'vistas', 'fauna', 'no hay sombra', 'no se admiten perros']","[{'Caroline Rohe': '5'}, {'Mary Raines': '4'}, {'Timothy Ivey': '2'}]"
+250,La Paz Beachwalk,baja california sur,fácil,4.7,3,"
+Distancia:  4.7 km 
+","
+Desnivel:
+
+            27 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['perros con correa', 'apto para niños', 'pesca', 'senderismo', 'excursiones por la naturaleza', 'ciclismo en carretera', 'trail running', 'paseo', 'observación de aves', 'playa', 'vistas', 'fauna', 'paseo urbano']","[{'Bill Crain': '4'}, {'Bill Crain': '5'}, {'Denise Crain': '5'}]"
+251,Fisherman's Beach Walk,baja california sur,fácil,4.0,2,"
+Distancia:  5.3 km 
+","
+Desnivel:
+
+            40 m
+        
+","
+Tipo de ruta:
+Ida y vuelta
+","['apto para perros', 'apto para niños', 'excursiones por la naturaleza', 'paseo', 'observación de aves', 'playa', 'vistas']","[{'Bill Crain': '4'}, {'Denise Crain': '4'}]"

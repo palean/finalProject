@@ -1,0 +1,971 @@
+hikeID,hike_name,region,distance_kms,elevation_mts,difficulty_level,stars,num_reviews,userID,user,rating,route_type_De punto a punto,route_type_Ida y vuelta,dog_friendly,kid_friendly,camping,trekking,near_water,mountain_biking,great_views,bird_watching,climbing,forests,trail_running,historic_place
+247,Vizcaya de Lado,coahuila de zaragoza,5.6,327.0,1,5.0,1,user_360,JuanCarlos Leon,5.0,0,1,0,1,0,1,0,0,1,1,0,1,1,0
+3,Ajusco via Valle de las Cantimploras Loop,ciudad de méxico,6.4,506.0,3,5.0,1,user_350,Jose F.,5.0,0,0,1,0,0,1,0,0,1,1,0,0,1,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,user_156,David Benjamin ,5.0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,user_156,David Benjamin ,5.0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,user_156,David Benjamin ,5.0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,user_156,David Benjamin ,5.0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,user_156,David Benjamin ,5.0,0,0,0,0,0,1,1,0,1,1,0,1,0,0
+204,Ruta del Peregrino Talpa,jalisco,72.3,2022.0,3,5.0,2,user_153,Dany Vic,5.0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+204,Ruta del Peregrino Talpa,jalisco,72.3,2022.0,3,5.0,2,user_153,Dany Vic,5.0,1,0,0,0,1,1,0,0,1,0,0,0,0,0
+237,"Tierras Altas, Alta Tension, Muro, Disney and F1",ciudad de méxico,23.0,1134.0,3,5.0,1,user_523,Pedro Perusquia,5.0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+49,Cerro Gordo e Izar Loop,estado de méxico,16.7,862.0,2,5.0,1,user_523,Pedro Perusquia,5.0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+81,Cuatlapanga via San Jose Teacalco,tlaxcala,5.6,349.0,2,5.0,1,user_343,Jorge Carrillo,5.0,0,1,1,1,0,1,0,0,1,1,1,1,1,1
+5,Alligator Cove,baja california,8.5,263.0,2,4.0,1,user_179,Donna Miller,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+129,Las Amapas-La Noria,nayarit,14.3,1263.0,3,5.0,2,user_84,C Hdez V,5.0,1,0,1,0,1,1,0,0,1,1,0,1,1,0
+129,Las Amapas-La Noria,nayarit,14.3,1263.0,3,5.0,2,user_6,Adrián Hernández,5.0,1,0,1,0,1,1,0,0,1,1,0,1,1,0
+250,Yelapa Upper Cascada Trail,jalisco,7.4,163.0,2,4.7,3,user_579,Sharon D.,5.0,0,1,0,0,0,1,1,0,1,0,0,0,0,0
+250,Yelapa Upper Cascada Trail,jalisco,7.4,163.0,2,4.7,3,user_561,Ross Hutcheon,4.0,0,1,0,0,0,1,1,0,1,0,0,0,0,0
+250,Yelapa Upper Cascada Trail,jalisco,7.4,163.0,2,4.7,3,user_270,Hayley Crabtree,5.0,0,1,0,0,0,1,1,0,1,0,0,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_447,Martin Ruiz,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_99,Carrie Butler,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_314,Jeff Remillard,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_314,Jeff Remillard,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_601,Teresa Howes,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,user_601,Teresa Howes,5.0,0,0,0,0,0,1,0,0,1,1,1,0,0,0
+226,Sierra Santa Rosa,guanajuato,8.5,353.0,2,4.5,2,user_577,Sergio Cobo,5.0,0,0,0,1,0,1,1,1,0,1,0,1,0,0
+226,Sierra Santa Rosa,guanajuato,8.5,353.0,2,4.5,2,user_343,Jorge Carrillo,4.0,0,0,0,1,0,1,1,1,0,1,0,1,0,0
+72,Cima Sur,sonora,3.7,227.0,2,5.0,2,user_36,Andrea Aello,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+72,Cima Sur,sonora,3.7,227.0,2,5.0,2,user_152,Daniela Salido,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,user_596,Tatiana Ocasio,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,user_304,Jason R.,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,user_132,Conner Davis,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,user_352,Joseph Schimmel,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,user_256,George Wailand,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,1
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,2.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,user_566,Salvador  Pantoja,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+242,Ursulo Galvan Canyon,baja california,6.9,107.0,2,4.0,1,user_655,sergio chairez,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+91,Dona Petra MTB Loop,baja california,6.8,229.0,2,2.0,1,user_506,Octavio Guzmán,2.0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+196,Punta Gorda,baja california sur,6.0,133.0,2,5.0,1,user_488,Monica Crowe,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+139,Mega Carrito,michoacán,100.9,869.0,2,5.0,1,user_534,Rag Alva,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+156,Nicolas Copernico Trail Loop,oaxaca,6.6,299.0,1,4.5,2,user_366,KT M.,4.0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+156,Nicolas Copernico Trail Loop,oaxaca,6.6,299.0,1,4.5,2,user_351,Jose Garcia,5.0,0,0,1,1,0,1,0,0,1,0,0,0,1,1
+159,Palm Beach Trail,baja california sur,2.6,19.0,1,4.5,4,user_69,Bill Crain,5.0,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+159,Palm Beach Trail,baja california sur,2.6,19.0,1,4.5,4,user_39,Andrew D.,4.0,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+159,Palm Beach Trail,baja california sur,2.6,19.0,1,4.5,4,user_69,Bill Crain,4.0,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+159,Palm Beach Trail,baja california sur,2.6,19.0,1,4.5,4,user_165,Denise Crain,5.0,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+34,Campo 9 to Playa Escondido,baja california,9.8,278.0,2,4.0,3,user_186,Edde Barragan,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+34,Campo 9 to Playa Escondido,baja california,9.8,278.0,2,4.0,3,user_439,Mariel Carrasco,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+34,Campo 9 to Playa Escondido,baja california,9.8,278.0,2,4.0,3,user_179,Donna Miller,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+233,The Jesuit Cave - North Approach,guanajuato,6.9,250.0,2,5.0,3,user_5,Adriana D.,5.0,0,0,1,1,0,1,0,0,1,1,0,1,1,1
+233,The Jesuit Cave - North Approach,guanajuato,6.9,250.0,2,5.0,3,user_507,Olivet Vollmet,5.0,0,0,1,1,0,1,0,0,1,1,0,1,1,1
+233,The Jesuit Cave - North Approach,guanajuato,6.9,250.0,2,5.0,3,user_550,Robert Baines,5.0,0,0,1,1,0,1,0,0,1,1,0,1,1,1
+23,Bravo Valley Dam Trail ,estado de méxico,7.6,504.0,2,3.0,1,user_102,Caum Jones,3.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+37,Cascada Ensenada,baja california,10.3,460.0,2,3.3,3,user_381,Ken Tramp,2.0,0,1,0,0,0,1,0,0,1,0,0,1,1,0
+37,Cascada Ensenada,baja california,10.3,460.0,2,3.3,3,user_90,Carlos Morales,3.0,0,1,0,0,0,1,0,0,1,0,0,1,1,0
+37,Cascada Ensenada,baja california,10.3,460.0,2,3.3,3,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,0,0,1,1,0
+144,Mirador Peña del Cuervo y Dos Aguas,estado de hidalgo,9.3,556.0,2,4.5,2,user_548,Rob Shearer,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+144,Mirador Peña del Cuervo y Dos Aguas,estado de hidalgo,9.3,556.0,2,4.5,2,user_113,Chiara Costanzo,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+208,San Judas Canyon (Huasteca) Pass,nuevo león,12.7,807.0,3,4.0,2,user_429,Manuel Solis,4.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+208,San Judas Canyon (Huasteca) Pass,nuevo león,12.7,807.0,3,4.0,2,user_431,Marcelo Vasqiez,4.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+12,Balandra Beach Trail ,baja california sur,4.3,128.0,1,5.0,3,user_536,Randy Rucker,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+12,Balandra Beach Trail ,baja california sur,4.3,128.0,1,5.0,3,user_463,Maxine Thevenot,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+12,Balandra Beach Trail ,baja california sur,4.3,128.0,1,5.0,3,user_482,Mike Hart,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+210,Santa Catarina River Trail ,nuevo león,54.4,566.0,2,5.0,1,user_182,Douglas Serrano,5.0,0,1,0,1,0,1,1,1,1,1,0,1,1,0
+100,El Ocotal Loop,ciudad de méxico,3.7,111.0,2,4.3,4,user_477,Miguel Espinoza,4.0,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+100,El Ocotal Loop,ciudad de méxico,3.7,111.0,2,4.3,4,user_513,Pablo Santos,5.0,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+100,El Ocotal Loop,ciudad de méxico,3.7,111.0,2,4.3,4,user_653,saul arizmendi martinez,5.0,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+100,El Ocotal Loop,ciudad de méxico,3.7,111.0,2,4.3,4,user_184,ELI BERLIN,3.0,0,0,1,0,0,1,0,0,0,0,0,1,1,0
+132,Liz'a Arroyo Crossing to Fig Tree Trail,baja california sur,1.6,24.0,1,5.0,1,user_476,Midori Midori,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+225,Sierra Chincua,michoacán,4.2,180.0,1,5.0,1,user_24,Alex Lusak,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_376,Kathryn User,4.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_137,Cy Wakeman,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_383,Kha Hoang,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_9,Adventure A.,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_560,Rosina Ebneter,4.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_181,Doug Garman,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_588,Steph Gregerson,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_69,Bill Crain,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_501,Neset Pirkul,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_29,Alicia Carr,4.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_37,Andrea Mota,4.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_119,Chris Lankford,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_271,Heather Mastakas,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_210,Eric Howery,4.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,user_69,Bill Crain,5.0,0,1,1,1,0,1,0,1,1,0,1,0,1,1
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,user_609,Todd Boley,5.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,user_576,Sebastian  Perezpavon,5.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,user_576,Sebastian  Perezpavon,5.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,user_233,Fernando Soto,3.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,user_635,Xerchx Leon,2.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+234,The Lioness Waterfall ,ciudad de méxico,8.9,522.0,2,5.0,1,user_363,Julien Blaise,5.0,0,1,0,0,0,1,0,1,1,1,0,1,1,0
+128,Laguna Zempoala,estado de méxico,4.5,265.0,1,5.0,1,user_374,Katherine Fisher,5.0,0,1,0,0,0,1,1,0,1,0,0,0,0,0
+24,Brecha El Empalme,nuevo león,13.4,725.0,2,5.0,1,user_182,Douglas Serrano,5.0,0,0,0,0,0,0,0,1,1,1,0,1,0,0
+145,Mirador Picacho,baja california,8.4,369.0,1,5.0,4,user_415,Lou Zar,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+145,Mirador Picacho,baja california,8.4,369.0,1,5.0,4,user_126,Clau Esco,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+145,Mirador Picacho,baja california,8.4,369.0,1,5.0,4,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+145,Mirador Picacho,baja california,8.4,369.0,1,5.0,4,user_265,Gustavo Pelosi Ambrozio,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+203,Ruta Escuelas via Misión Taraumara,chihuahua,7.1,223.0,1,5.0,1,user_159,David Covarrubias,5.0,0,1,1,0,0,1,0,0,1,1,0,1,1,0
+0, Ruta Escénica Isla Cozumel,quintana roo,44.1,835.0,2,4.0,3,user_333,John Miller,4.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+0, Ruta Escénica Isla Cozumel,quintana roo,44.1,835.0,2,4.0,3,user_104,Cecilia Rodriguez,5.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+0, Ruta Escénica Isla Cozumel,quintana roo,44.1,835.0,2,4.0,3,user_642,edgar lorenzana,3.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+39,Cascada de Tamasopo via Paso Ancho,san luis potosí,5.1,89.0,2,3.0,2,user_30,Alicia Watt,1.0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+39,Cascada de Tamasopo via Paso Ancho,san luis potosí,5.1,89.0,2,3.0,2,user_343,Jorge Carrillo,5.0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+64,Cerro del Mirador,nuevo león,7.6,432.0,2,5.0,1,user_96,Carmen Equihua,5.0,0,1,0,0,0,1,0,1,1,1,0,0,0,0
+104,El Salto Canyon Trail,baja california,7.9,380.0,3,4.0,4,user_505,Nikole Hendricks,4.0,0,0,0,0,1,1,1,0,1,0,1,0,0,0
+104,El Salto Canyon Trail,baja california,7.9,380.0,3,4.0,4,user_227,Fer Ramos,5.0,0,0,0,0,1,1,1,0,1,0,1,0,0,0
+104,El Salto Canyon Trail,baja california,7.9,380.0,3,4.0,4,user_466,Melissa Basso,4.0,0,0,0,0,1,1,1,0,1,0,1,0,0,0
+104,El Salto Canyon Trail,baja california,7.9,380.0,3,4.0,4,user_332,John Dill,3.0,0,0,0,0,1,1,1,0,1,0,1,0,0,0
+44,Cerrito de La Cruz,jalisco,1.0,82.0,1,5.0,3,user_627,Victor Correa,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+44,Cerrito de La Cruz,jalisco,1.0,82.0,1,5.0,3,user_261,Gloria Hernandez,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+44,Cerrito de La Cruz,jalisco,1.0,82.0,1,5.0,3,user_261,Gloria Hernandez,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_180,Dori Per,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_318,Jen Gubrud,4.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_141,Dale Borgeson,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_560,Rosina Ebneter,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_637,Yasmin Karimi,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_22,Alex Baum,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_89,Cameron Martin,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_630,Vittorio Callori,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_636,Yannick Ménard,4.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,user_115,Chris  Glass,5.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+184,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,208.1,421.0,2,4.0,4,user_362,Julie Martinez,5.0,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+184,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,208.1,421.0,2,4.0,4,user_492,Mp Mp,5.0,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+184,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,208.1,421.0,2,4.0,4,user_564,S Carrizal,1.0,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+184,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,208.1,421.0,2,4.0,4,user_81,Bryan Sandell,5.0,1,0,0,1,0,1,0,0,1,1,0,0,0,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_211,Erica Cervantes,3.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_15,Alberto Rivera,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_41,Angel Molina German,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_221,Fabiola Ibarra,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_467,Memo L,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_248,Gaby Rodriguez,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,user_248,Gaby Rodriguez,4.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+213,Santa Rita Hot Springs Loop,baja california sur,1.8,38.0,1,5.0,1,user_180,Dori Per,5.0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_371,Kamila  Zakoutska,4.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_103,Ceci Portillo,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_412,Lizeth Zertuche,4.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_144,Daniel Després,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_626,Victor Bibbins,1.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_336,Jonas Kublickas,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_250,Genesis Leang,5.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_421,Luis Zepeda,4.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,user_294,Jaime de la Fuente Valles,4.0,0,1,1,0,0,1,0,0,1,1,1,0,1,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_322,Jessica Meyer,5.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_239,Francisco S,4.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_430,Manuel de la Serna,3.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_520,Paula Valenzuela,5.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_400,Leo W.,5.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,user_448,Mary Bayer,5.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+200,Rio Florido,chihuahua,2.7,25.0,1,5.0,1,user_553,Roberto Sanchez,5.0,0,1,0,0,0,1,1,1,1,0,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,user_657,w g,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,user_88,Cameron Birchall,2.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,user_470,Michael Cimino,3.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,user_624,Veronika Magana,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,user_128,Claudia Ulloa ,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+248,Volcán Cuautzin,morelos,24.3,742.0,2,5.0,1,user_350,Jose F.,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+8,Ascenso a la Rumorosa,baja california,11.6,1016.0,3,5.0,1,user_14,Alberto Rincon Jr,5.0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+57,Cerro de La Silleta,san luis potosí,7.1,692.0,3,4.0,1,user_343,Jorge Carrillo,4.0,0,1,0,0,0,1,1,0,1,1,1,1,0,0
+14,"Barandales, Medio Muro, Punto Rojo, Disney and F1 Loop",ciudad de méxico,10.9,516.0,2,4.0,2,user_377,Katsuya Imanishi,3.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+14,"Barandales, Medio Muro, Punto Rojo, Disney and F1 Loop",ciudad de méxico,10.9,516.0,2,4.0,2,user_273,Hector  Hernandez Pons Riba ,5.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+121,La Huasteca ,nuevo león,12.9,278.0,1,5.0,3,user_2,Abraham Orozco,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+121,La Huasteca ,nuevo león,12.9,278.0,1,5.0,3,user_182,Douglas Serrano,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+121,La Huasteca ,nuevo león,12.9,278.0,1,5.0,3,user_182,Douglas Serrano,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+182,Playa Grande a Playa Chica,jalisco,7.2,62.0,1,5.0,2,user_249,Gabyotta Snap,5.0,0,1,0,0,0,1,0,1,1,0,0,0,0,0
+182,Playa Grande a Playa Chica,jalisco,7.2,62.0,1,5.0,2,user_249,Gabyotta Snap,5.0,0,1,0,0,0,1,0,1,1,0,0,0,0,0
+117,"Junior's, Nasty, Bench Trail Loop",baja california sur,8.0,246.0,1,5.0,3,user_134,Courtenay K,5.0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+117,"Junior's, Nasty, Bench Trail Loop",baja california sur,8.0,246.0,1,5.0,3,user_150,Daniel Lees,5.0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+117,"Junior's, Nasty, Bench Trail Loop",baja california sur,8.0,246.0,1,5.0,3,user_164,Debranne Cingari,5.0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+110,Fundidora Park,nuevo león,3.5,41.0,1,4.0,3,user_429,Manuel Solis,5.0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+110,Fundidora Park,nuevo león,3.5,41.0,1,4.0,3,user_13,Alberto R.,2.0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+110,Fundidora Park,nuevo león,3.5,41.0,1,4.0,3,user_429,Manuel Solis,5.0,0,0,0,1,0,1,1,0,0,0,0,0,1,0
+119,K21 Valle de Bravo: Adventure Marathon Series Course,estado de méxico,20.4,960.0,3,5.0,1,user_83,Buzz LightRich,5.0,0,0,0,0,0,1,0,0,1,0,0,1,1,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_333,John Miller,4.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_453,Mat BuenaVista,1.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_208,Eric Gholston,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_516,Pat Ribotto,4.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_380,Ken Burneau,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_72,Breck Tuttle,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_658,yona kopolovich,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_458,Matthew Kent,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_262,Grayson Boyd,5.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,user_591,Steve  Hazlehurst,1.0,1,0,1,1,0,1,0,0,1,1,0,1,0,0
+96,El Chico Hidalgo,estado de hidalgo,3.5,294.0,1,3.0,1,user_276,Hector Rode Haza,3.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_215,Erika Ganey,5.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_621,Venisha Jeff,5.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_87,Callie Houghland,3.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_343,Jorge Carrillo,4.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_390,Lani Elizabeth,5.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_648,martin Banachiewicz,3.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_590,Stephen Strand,4.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_313,Jeff Pulford,4.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_519,Paul Kortman,4.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_59,Ben Debono,5.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,user_547,Rob Cornelius,5.0,0,0,0,1,0,1,0,0,1,1,1,1,0,1
+195,Punta Canoas,baja california,139.5,3233.0,2,5.0,1,user_286,Ivan Alfredo,5.0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_19,Alejandra Flores,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_284,Irma Karns,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_159,David Covarrubias,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_263,Greg Webb,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_602,Teresa M.,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_167,Dennis Galloway,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_300,Janelle Pacheco,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_240,Frank Hands,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_585,Spencer N.,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_614,Tony Sierra,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_614,Tony Sierra,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_231,Fernando Mendez,5.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,user_297,James Y,4.0,0,1,1,1,0,0,0,0,1,0,0,0,1,0
+218,Sendero Cerro Viejo,jalisco,17.9,1137.0,3,5.0,1,user_153,Dany Vic,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+71,Ciclovia Revolucion y Ciclovia Patriotismo,ciudad de méxico,7.7,104.0,1,5.0,1,user_206,Enrique Huato,5.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Carretera La Venta Santa Rosa Loop,ciudad de méxico,7.4,353.0,2,2.0,1,user_83,Buzz LightRich,2.0,0,0,1,0,0,1,0,1,1,0,0,1,1,0
+168,Paseo del Rio Atoyac via Periférico Ecológico,puebla,26.1,442.0,2,5.0,1,user_107,Cesar Pigeon,5.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+82,Cuatro Palos to Mision de Bucareli,querétaro,23.2,1861.0,3,5.0,1,user_190,Eduardo 44,5.0,0,1,1,0,1,1,1,0,1,1,1,1,0,0
+188,Presa El Rejón Scenic Trail,chihuahua,6.6,112.0,2,4.7,3,user_189,Edgar Maldonado,5.0,0,0,0,1,0,1,1,1,0,0,0,0,1,0
+188,Presa El Rejón Scenic Trail,chihuahua,6.6,112.0,2,4.7,3,user_31,Amador Yair,4.0,0,0,0,1,0,1,1,1,0,0,0,0,1,0
+188,Presa El Rejón Scenic Trail,chihuahua,6.6,112.0,2,4.7,3,user_23,Alex Lebaron,5.0,0,0,0,1,0,1,1,1,0,0,0,0,1,0
+206,San Felipe 250 OHV Course,baja california,370.0,5051.0,3,4.0,1,user_258,Gerardo Nuno,4.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+67,Cerro “El Chupón” Hike,nuevo león,4.2,388.0,2,4.0,4,user_183,Dulce Acevedo,2.0,0,1,1,1,0,1,0,0,1,1,1,1,1,0
+67,Cerro “El Chupón” Hike,nuevo león,4.2,388.0,2,4.0,4,user_155,Darren Hughes,4.0,0,1,1,1,0,1,0,0,1,1,1,1,1,0
+67,Cerro “El Chupón” Hike,nuevo león,4.2,388.0,2,4.0,4,user_570,Sandra Mireles,5.0,0,1,1,1,0,1,0,0,1,1,1,1,1,0
+67,Cerro “El Chupón” Hike,nuevo león,4.2,388.0,2,4.0,4,user_346,Jorge Llaguno,5.0,0,1,1,1,0,1,0,0,1,1,1,1,1,0
+59,Cerro de el Mezcalillo,jalisco,10.6,381.0,2,4.0,1,user_190,Eduardo 44,4.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_178,Donald Grimm,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_5,Adriana D.,4.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_78,Brooklynn Jai,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_308,Jay Fuentes,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_477,Miguel Espinoza,4.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_424,Magdalena Esparza Rgz,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_87,Callie Houghland,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_8,Adrián Morales,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_469,Micajah Spoden,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_143,Daniel Chow,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_347,Jorge Quintero,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,user_343,Jorge Carrillo,5.0,0,1,0,0,0,1,0,0,1,0,1,0,1,0
+26,Brecha del Chile y Las Florida ,nuevo león,4.2,298.0,1,4.3,3,user_204,Enjalin Zwanzigmorgan,4.0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+26,Brecha del Chile y Las Florida ,nuevo león,4.2,298.0,1,4.3,3,user_649,miguel velarde,5.0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+26,Brecha del Chile y Las Florida ,nuevo león,4.2,298.0,1,4.3,3,user_340,Jorge Antonio Garza Peña (George,4.0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+136,Malecon Coatza,veracruz de ignacio de la llave,2.7,16.0,1,3.5,2,user_242,Freddy joel  Dominguez carcaño ,3.0,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+136,Malecon Coatza,veracruz de ignacio de la llave,2.7,16.0,1,3.5,2,user_242,Freddy joel  Dominguez carcaño ,4.0,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+28,Camino Cabo Este Scenic Drive,baja california sur,103.6,1508.0,2,5.0,4,user_569,Sandra Koch,5.0,1,0,1,1,1,0,0,0,1,1,0,0,0,0
+28,Camino Cabo Este Scenic Drive,baja california sur,103.6,1508.0,2,5.0,4,user_69,Bill Crain,5.0,1,0,1,1,1,0,0,0,1,1,0,0,0,0
+28,Camino Cabo Este Scenic Drive,baja california sur,103.6,1508.0,2,5.0,4,user_66,Betsy Lynch,5.0,1,0,1,1,1,0,0,0,1,1,0,0,0,0
+28,Camino Cabo Este Scenic Drive,baja california sur,103.6,1508.0,2,5.0,4,user_462,Maxine Gnazzo,5.0,1,0,1,1,1,0,0,0,1,1,0,0,0,0
+53,Cerro Pinacate Loop,sonora,17.1,1008.0,3,5.0,2,user_320,Jesse Boersma,5.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+53,Cerro Pinacate Loop,sonora,17.1,1008.0,3,5.0,2,user_79,Bruno Panara,5.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+241,Trail Mineral del Chico Race Route,estado de hidalgo,20.3,1217.0,3,5.0,1,user_83,Buzz LightRich,5.0,0,0,0,0,0,1,0,0,1,1,0,1,1,0
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_618,V Urena,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_32,Amanda Page,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_293,Jacqueline Cox,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_658,yona kopolovich,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_266,Hai Van,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_520,Paula Valenzuela,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_132,Conner Davis,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_209,Eric Haight,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_132,Conner Davis,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_166,Denise Neves,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,user_587,Steph Connell,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+224,Sendero del Pelado,morelos,12.7,658.0,2,5.0,3,user_188,Edgar Jardon,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+224,Sendero del Pelado,morelos,12.7,658.0,2,5.0,3,user_188,Edgar Jardon,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+224,Sendero del Pelado,morelos,12.7,658.0,2,5.0,3,user_188,Edgar Jardon,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_389,Lamorna Hollingsworth,3.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_249,Gabyotta Snap,5.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_331,John Connie Reimer,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_481,Mike Greschner,5.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_446,Martin Roldan Araujo,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_249,Gabyotta Snap,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_249,Gabyotta Snap,3.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_481,Mike Greschner,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_249,Gabyotta Snap,5.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_529,Phillip Whitley,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_213,Erick R.,4.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,user_139,D Busch,5.0,0,0,0,0,0,1,1,0,1,0,1,1,0,1
+189,Presa Paso de Tablas,querétaro,5.6,167.0,2,4.0,1,user_105,Celeste Aviles,4.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+4,Alameda Central to Chapultepec via Ciclovia Juárez,ciudad de méxico,12.4,265.0,2,5.0,2,user_159,David Covarrubias,5.0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+4,Alameda Central to Chapultepec via Ciclovia Juárez,ciudad de méxico,12.4,265.0,2,5.0,2,user_44,Anthony Virdone,5.0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+249,Volcán Tacaná,chiapas,18.3,2049.0,2,4.0,1,user_442,Mario Gomez,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+17,Blue Bottle Saddle Hike,baja california,13.7,470.0,3,5.0,3,user_415,Lou Zar,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+17,Blue Bottle Saddle Hike,baja california,13.7,470.0,3,5.0,3,user_14,Alberto Rincon Jr,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+17,Blue Bottle Saddle Hike,baja california,13.7,470.0,3,5.0,3,user_179,Donna Miller,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+31,Camino a la Cueva desde los llanos de Lapuente,san luis potosí,2.3,102.0,1,4.0,1,user_475,Michel Rivial,4.0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+169,Paso del Caballero,nuevo león,8.7,507.0,3,5.0,1,user_149,Daniel Hernández-Cantú,5.0,0,1,0,0,0,1,0,0,1,0,0,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_296,James Carfield,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_622,Veronica CoPe,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_397,Leandro da Costa,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_268,Hannah Pinkerton,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_253,George Doran III,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_403,Leticia  Flores,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_546,Rick Glisson,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_608,ToCatchAHacker User,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_465,Megan Lipovsky,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_226,Felix Lustig,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_567,Samantha Bueno,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_76,Brian Schumann,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_214,Erick Rocha,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_45,Antonio Cueto,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_524,Perla Tijerina,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_4,Adela Fernandez,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_193,Eduardo Zarate,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,user_578,Sergio Garca,3.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+15,Batea-Cerro de San Juan,nayarit,4.0,423.0,2,5.0,3,user_63,Bere JV,5.0,0,1,1,1,1,1,0,0,1,1,0,1,1,0
+15,Batea-Cerro de San Juan,nayarit,4.0,423.0,2,5.0,3,user_84,C Hdez V,5.0,0,1,1,1,1,1,0,0,1,1,0,1,1,0
+15,Batea-Cerro de San Juan,nayarit,4.0,423.0,2,5.0,3,user_589,Stephanie Rosales,5.0,0,1,1,1,1,1,0,0,1,1,0,1,1,0
+42,Cañon de la Murcielaguera,veracruz de ignacio de la llave,4.3,182.0,2,4.0,1,user_343,Jorge Carrillo,4.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,user_387,LINDSAY SWIFT,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,user_343,Jorge Carrillo,4.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,user_363,Julien Blaise,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,user_102,Caum Jones,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,user_485,Mikey Swift,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+33,Camino el Chupón,nuevo león,2.1,332.0,1,5.0,1,user_96,Carmen Equihua,5.0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+83,Cuauhtinchan,estado de méxico,1.4,112.0,1,4.5,2,user_229,Fernanda Pdr,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+83,Cuauhtinchan,estado de méxico,1.4,112.0,1,4.5,2,user_236,Francisco Ferrer,4.0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+194,Punta Brava Trail,baja california,1.8,90.0,1,5.0,1,user_179,Donna Miller,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+61,Cerro de la Venta,querétaro,4.5,231.0,2,4.0,1,user_310,Jc Zotomaior,4.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+6,Antenas Cantú Sendero,baja california,19.2,913.0,2,4.5,2,user_381,Ken Tramp,4.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+6,Antenas Cantú Sendero,baja california,19.2,913.0,2,4.5,2,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+238,Tires and Virgin Tail ,ciudad de méxico,14.6,804.0,3,4.0,1,user_212,Erich Lindner,4.0,0,1,0,0,0,1,0,1,1,1,0,1,1,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_178,Donald Grimm,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_530,Priscilla Guerrero,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_147,Daniel Gonzalez,4.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_424,Magdalena Esparza Rgz,4.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_87,Callie Houghland,4.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_239,Francisco S,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_64,Bernardo Cassina,4.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_419,Luis  Salcedo Martinez,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_8,Adrián Morales,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_228,Fermín Montoya Olvera,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_604,The Crazy Seis,4.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,user_469,Micajah Spoden,5.0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+133,Liz's Arroyo to E-Loop Trail,baja california sur,4.7,86.0,2,5.0,1,user_150,Daniel Lees,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+209,San Nicolás Totolapan Trail ,ciudad de méxico,12.4,575.0,2,4.3,3,user_557,Rodrigo Gutierrez Villarreal,4.0,0,0,0,0,0,1,0,1,1,1,0,1,1,0
+209,San Nicolás Totolapan Trail ,ciudad de méxico,12.4,575.0,2,4.3,3,user_192,Eduardo Nevado,5.0,0,0,0,0,0,1,0,1,1,1,0,1,1,0
+209,San Nicolás Totolapan Trail ,ciudad de méxico,12.4,575.0,2,4.3,3,user_105,Celeste Aviles,4.0,0,0,0,0,0,1,0,1,1,1,0,1,1,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_408,Lindsay N,4.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_445,Mark Smith,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_217,Evgenia Kostiaeva,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_639,Zbigniew Lewandowski,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_504,Nicole Bracco,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_404,Lia Winter,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_600,Tee Isais,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_480,Mike Battistel,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_110,Charles  Christman,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_434,Marcus Naidu,4.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,user_612,Tommy Loe,5.0,0,1,1,0,0,1,1,0,1,1,1,1,0,0
+221,Sendero La Cruz,jalisco,0.6,70.0,1,5.0,1,user_562,Rubi Garcia,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_563,Ryan Munson,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_1,Abby  F,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_646,lawrence tafoya,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_282,Ian Barker,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_120,Chris Sherman,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_393,Laura Benjamin,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_207,Enrique Morales,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_323,Jessica Rizo,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_264,Gregg Nordin,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_170,Desiree Macke,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_498,Natalie Whiting,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_582,Silvi Steigerwald,1.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_140,DAWN BULL,3.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_474,Michael Lerner,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_260,Gloria Gamboa,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_125,Clarissa Peterson,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,user_272,Heather Salyer,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,user_178,Donald Grimm,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,user_378,Kelly  Giffin ,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,user_343,Jorge Carrillo,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,user_442,Mario Gomez,4.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,user_106,Cesar Orduna,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_111,Charleyne H.,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_362,Julie Martinez,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_295,Jake Dieffenbach,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_171,Diane Philips,4.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_385,Kurt Bentz,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_71,Bradly Hogan,4.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_452,María Mendoza Arcos,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_605,The Hiking Hiker,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_370,Kalie Olberding,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_329,Joel Hernandez,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_304,Jason R.,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_618,V Urena,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_628,Victoria Arceneaux,4.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_334,Jolina De La Cruz,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_231,Fernando Mendez,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_131,Colemen Wilson,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,user_33,Amy Bullion,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,1
+22,Botanical Garden Trail ,quintana roo,1.8,72.0,1,5.0,1,user_525,Peter M.,5.0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+35,Canyon San Lorenzo,coahuila de zaragoza,7.9,491.0,2,4.8,4,user_50,Arturo Garcia Bobadilla,5.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+35,Canyon San Lorenzo,coahuila de zaragoza,7.9,491.0,2,4.8,4,user_108,Cesar Sanchez,4.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+35,Canyon San Lorenzo,coahuila de zaragoza,7.9,491.0,2,4.8,4,user_40,Andrew Villareal,5.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+35,Canyon San Lorenzo,coahuila de zaragoza,7.9,491.0,2,4.8,4,user_201,Emilio Ortiz,5.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+102,El Paseo Rural,baja california,46.8,648.0,2,4.0,2,user_344,Jorge Chau,3.0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+102,El Paseo Rural,baja california,46.8,648.0,2,4.0,2,user_278,Hike Revolution,5.0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+180,Piedra Herrada,estado de méxico,3.9,323.0,2,4.7,3,user_205,Enrique Horcasitas,4.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+180,Piedra Herrada,estado de méxico,3.9,323.0,2,4.7,3,user_235,Fran Ky,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+180,Piedra Herrada,estado de méxico,3.9,323.0,2,4.7,3,user_24,Alex Lusak,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_312,Jeff Harris,3.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_495,N G,4.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_633,William Masterson,5.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_93,Carlos Schnapauff,4.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_58,Becca Brennan,5.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_95,Carly Baker,5.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,user_114,Chino Lemus,5.0,0,0,1,1,0,0,1,0,1,1,0,1,1,0
+112,Hierve el Agua,oaxaca,2.6,190.0,1,5.0,1,user_497,Nancy G.,5.0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+160,Paricutin,michoacán,21.1,817.0,2,5.0,4,user_423,Maddie Stocker,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+160,Paricutin,michoacán,21.1,817.0,2,5.0,4,user_359,Juan Patiño Flores,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+160,Paricutin,michoacán,21.1,817.0,2,5.0,4,user_515,Pat Buechs,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+160,Paricutin,michoacán,21.1,817.0,2,5.0,4,user_3,Adam Arney,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+178,Pico de Orizaba and Refugio Piedra Grande,puebla,24.5,2226.0,3,5.0,1,user_339,Jordan Goethel,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+163,Parque Jardines de la Hacienda,querétaro,0.6,9.0,1,4.5,2,user_269,Hassan Velázquez,5.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+163,Parque Jardines de la Hacienda,querétaro,0.6,9.0,1,4.5,2,user_520,Paula Valenzuela,4.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+16,"Bench, Nasty, Bluff Trail Loop",baja california sur,9.7,248.0,2,4.7,3,user_150,Daniel Lees,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+16,"Bench, Nasty, Bluff Trail Loop",baja california sur,9.7,248.0,2,4.7,3,user_39,Andrew D.,4.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+16,"Bench, Nasty, Bluff Trail Loop",baja california sur,9.7,248.0,2,4.7,3,user_315,Jeff Schwein,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_113,Chiara Costanzo,3.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_472,Michael Grealy,5.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_124,Chucho Ares,5.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_523,Pedro Perusquia,5.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_523,Pedro Perusquia,1.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,user_523,Pedro Perusquia,5.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+158,Old Port Trail,baja california sur,1.6,132.0,2,3.0,2,user_165,Denise Crain,2.0,0,1,1,0,0,1,0,0,1,1,1,0,0,0
+158,Old Port Trail,baja california sur,1.6,132.0,2,3.0,2,user_69,Bill Crain,4.0,0,1,1,0,0,1,0,0,1,1,1,0,0,0
+84,Cumbres del Ajusco,ciudad de méxico,6.0,648.0,3,4.5,2,user_571,Santiago De León,5.0,0,0,1,0,0,1,0,0,1,1,0,1,1,0
+84,Cumbres del Ajusco,ciudad de méxico,6.0,648.0,3,4.5,2,user_556,Rodolfo Velez,4.0,0,0,1,0,0,1,0,0,1,1,0,1,1,0
+76,Cofre de Perote via El Conejo,veracruz de ignacio de la llave,12.4,893.0,2,5.0,2,user_343,Jorge Carrillo,5.0,0,1,0,1,0,1,0,0,1,1,1,1,0,0
+76,Cofre de Perote via El Conejo,veracruz de ignacio de la llave,12.4,893.0,2,5.0,2,user_407,Liliana Arrazola,5.0,0,1,0,1,0,1,0,0,1,1,1,1,0,0
+235,The Stripe Trail ,nuevo león,1.4,169.0,1,4.5,2,user_30,Alicia Watt,5.0,0,1,0,1,0,1,1,0,1,1,0,0,0,0
+235,The Stripe Trail ,nuevo león,1.4,169.0,1,4.5,2,user_346,Jorge Llaguno,4.0,0,1,0,1,0,1,1,0,1,1,0,0,0,0
+47,Cerritos Corner Beach Walk,baja california sur,3.5,36.0,1,5.0,1,user_69,Bill Crain,5.0,0,1,0,1,0,1,0,0,1,1,0,0,0,0
+92,Dzibilchaltun Ruins,yucatán,2.4,13.0,1,4.0,1,user_426,Manny Delcharco,4.0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+197,Pérez T2 Monte Alto Loop,estado de méxico,15.3,679.0,2,4.0,1,user_472,Michael Grealy,4.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,user_190,Eduardo 44,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,user_456,Matthew Coombs,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,user_533,Rafa Rguez,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,user_533,Rafa Rguez,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,user_533,Rafa Rguez,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_487,Monica Arellano,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_508,Omar Santiago,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_317,Jen Baker,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_521,Paulo Ernesto Moraes,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_416,Louis Murillo,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,user_265,Gustavo Pelosi Ambrozio,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,1
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_303,Jared Beutler,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_298,Jan C.,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_118,Chris Bowler,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_413,Logan Deans,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_49,Arthur Kuritsyn,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,user_336,Jonas Kublickas,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+228,Sotano del Barro,querétaro,9.8,901.0,3,5.0,1,user_343,Jorge Carrillo,5.0,0,1,0,0,1,1,0,0,1,1,1,1,0,0
+164,Parque México,ciudad de méxico,1.3,16.0,1,3.7,3,user_520,Paula Valenzuela,5.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+164,Parque México,ciudad de méxico,1.3,16.0,1,3.7,3,user_520,Paula Valenzuela,5.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+164,Parque México,ciudad de méxico,1.3,16.0,1,3.7,3,user_520,Paula Valenzuela,1.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+162,Parque Hundido,ciudad de méxico,1.4,27.0,1,4.0,1,user_495,N G,4.0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+51,Cerro Grande Trail,baja california,11.3,714.0,2,3.0,1,user_348,Jose Alfredo Quintero,3.0,0,1,1,0,0,1,1,0,1,1,1,0,0,0
+219,Sendero El Descanso,baja california,19.3,438.0,2,4.5,2,user_289,J R,4.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+219,Sendero El Descanso,baja california,19.3,438.0,2,4.5,2,user_406,Lilian Apodaca,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_391,Lara Church,2.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_117,Chris Anderson,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_384,Kirsten Postnikoff,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_394,Laura Dietrich,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_255,George R.,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,user_224,Fee Isabelle,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+25,Brecha del Chile y Camino a Chipinque,nuevo león,7.4,357.0,2,5.0,3,user_432,Marco Garza,5.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+25,Brecha del Chile y Camino a Chipinque,nuevo león,7.4,357.0,2,5.0,3,user_328,Joaquin Beltran,5.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+25,Brecha del Chile y Camino a Chipinque,nuevo león,7.4,357.0,2,5.0,3,user_328,Joaquin Beltran,5.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+198,Rancho Lara Trail ,baja california,4.7,105.0,1,4.0,1,user_535,Ramses Lopez,4.0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+134,Los Ocotillos,jalisco,3.5,317.0,1,4.5,2,user_321,Jessica Gilbert,5.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+134,Los Ocotillos,jalisco,3.5,317.0,1,4.5,2,user_151,Daniel Ochoa,4.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_451,María Fernanda  Rébora Téllez-Sill,4.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_645,kermity boi,4.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_153,Dany Vic,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_460,Mauricio Herrera,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_321,Jessica Gilbert,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,user_246,Gabriel Garcia rulfo,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+141,Mira Cielo de Ruiz,baja california,16.9,1078.0,3,5.0,3,user_47,Arlene Bautista,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+141,Mira Cielo de Ruiz,baja california,16.9,1078.0,3,5.0,3,user_14,Alberto Rincon Jr,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+141,Mira Cielo de Ruiz,baja california,16.9,1078.0,3,5.0,3,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+127,Laguna Salada via Mex 5,baja california,37.7,294.0,2,5.0,1,user_48,Armando Molina,5.0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_126,Clau Esco,5.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_644,francisco otanez,5.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_335,Jon-Mark Overvold,4.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_90,Carlos Morales,4.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_317,Jen Baker,3.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_251,Geo Bru,1.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_611,Tom Werder,4.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_319,Jeremiah Shivers,5.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_128,Claudia Ulloa ,5.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_613,Tony Rdz,5.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,user_581,Shelly Manjarrez,1.0,0,1,0,0,1,1,1,0,0,0,1,0,0,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_203,Emmett Hume,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_479,Miguel Vega,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_343,Jorge Carrillo,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_243,Freeman  Smith,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_494,Mychal Wooldridge,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_168,Dennis Van Laerhoven,4.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_198,Elmer Pinzon,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_343,Jorge Carrillo,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_290,JUAN D.,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_21,Alejandro Reyes Rucker,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_38,Andres Obregon,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_0,Aaron Murray,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_324,Jesus Hache,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_247,Gabrielle Wentling,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_341,Jorge C.,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_531,Rachel Williams,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_205,Enrique Horcasitas,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_484,Mike Pratt,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_336,Jonas Kublickas,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_358,Juan Lopez,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_345,Jorge Gomez,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_640,Zimu Zhou,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,user_254,George Nunes,5.0,0,1,0,0,1,1,0,0,1,1,1,0,1,0
+220,Sendero Jaguar,jalisco,1.4,66.0,2,5.0,2,user_414,Lorie Fischer,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+220,Sendero Jaguar,jalisco,1.4,66.0,2,5.0,2,user_585,Spencer N.,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+205,San Carlos Hot Springs,baja california,2.9,67.0,1,4.5,4,user_179,Donna Miller,5.0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+205,San Carlos Hot Springs,baja california,2.9,67.0,1,4.5,4,user_433,Marcos Guzman,5.0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+205,San Carlos Hot Springs,baja california,2.9,67.0,1,4.5,4,user_179,Donna Miller,5.0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+205,San Carlos Hot Springs,baja california,2.9,67.0,1,4.5,4,user_464,Mayra Reyes,3.0,0,1,0,1,0,1,1,0,0,0,0,0,0,0
+202,Ruiz Summit Trail to Miracielo Mountain,baja california,16.4,1057.0,3,5.0,1,user_14,Alberto Rincon Jr,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+1,"Agave Ridge Trail, Tortilla Rock, Turtle Pond, and Levi's Ridge Loop",jalisco,7.2,490.0,2,3.5,2,user_451,María Fernanda  Rébora Téllez-Sill,2.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+1,"Agave Ridge Trail, Tortilla Rock, Turtle Pond, and Levi's Ridge Loop",jalisco,7.2,490.0,2,3.5,2,user_101,Cassia Johnson,5.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_5,Adriana D.,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_117,Chris Anderson,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_579,Sharon D.,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_68,Bianca Bianca Hawkins,3.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_54,Batya Bejar,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_279,Hillary Clark,3.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_77,Bronwyn Crossman,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_638,Yves Pearson,3.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_638,Yves Pearson,3.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_638,Yves Pearson,3.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,user_480,Mike Battistel,4.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+10,Backside and Coyote Loop Trail,baja california sur,4.3,171.0,2,4.3,4,user_292,Jackie Smith,5.0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+10,Backside and Coyote Loop Trail,baja california sur,4.3,171.0,2,4.3,4,user_69,Bill Crain,4.0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+10,Backside and Coyote Loop Trail,baja california sur,4.3,171.0,2,4.3,4,user_361,Julian Higareda,5.0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+10,Backside and Coyote Loop Trail,baja california sur,4.3,171.0,2,4.3,4,user_473,Michael Laprise,3.0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+113,Isla La Roqueta,estado de guerrero,3.2,90.0,1,5.0,2,user_405,Liam Price,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+113,Isla La Roqueta,estado de guerrero,3.2,90.0,1,5.0,2,user_121,Chris Turner,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+43,Cañón Westman,baja california,6.6,293.0,2,5.0,3,user_283,Ignacio Liera Jr.,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+43,Cañón Westman,baja california,6.6,293.0,2,5.0,3,user_161,David Meakin,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+43,Cañón Westman,baja california,6.6,293.0,2,5.0,3,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+166,Parque Natural Mexiquillo Falls,durango,4.0,112.0,1,4.0,2,user_274,Hector Carrillo,5.0,0,1,0,0,0,1,1,0,1,0,0,1,0,0
+166,Parque Natural Mexiquillo Falls,durango,4.0,112.0,1,4.0,2,user_274,Hector Carrillo,3.0,0,1,0,0,0,1,1,0,1,0,0,1,0,0
+7,Arroyo El Coyote y Rio Grande,tamaulipas,6.1,37.0,1,4.0,2,user_10,Aide Ab,5.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+7,Arroyo El Coyote y Rio Grande,tamaulipas,6.1,37.0,1,4.0,2,user_10,Aide Ab,3.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+78,Copper Canyon via Ruta Lomo y Ruta Canon,chihuahua,10.9,851.0,3,3.0,3,user_159,David Covarrubias,5.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+78,Copper Canyon via Ruta Lomo y Ruta Canon,chihuahua,10.9,851.0,3,3.0,3,user_648,martin Banachiewicz,2.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+78,Copper Canyon via Ruta Lomo y Ruta Canon,chihuahua,10.9,851.0,3,3.0,3,user_648,martin Banachiewicz,2.0,0,0,0,0,0,1,0,0,1,1,1,1,0,0
+77,Copete del Águila Loop,nuevo león,11.6,1169.0,2,4.0,1,user_538,Raquel H,4.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+2,Ajusco (Las Llantas) to 4 Dinamo Loop,ciudad de méxico,23.7,1137.0,2,5.0,1,user_347,Jorge Quintero,5.0,0,0,0,0,0,1,0,1,1,0,1,0,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,user_78,Brooklynn Jai,5.0,0,1,1,1,1,1,0,0,1,1,0,1,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,user_169,Derek K,5.0,0,1,1,1,1,1,0,0,1,1,0,1,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,user_27,Alfredo Ac,5.0,0,1,1,1,1,1,0,0,1,1,0,1,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,user_343,Jorge Carrillo,5.0,0,1,1,1,1,1,0,0,1,1,0,1,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,user_502,Nick Lucero,5.0,0,1,1,1,1,1,0,0,1,1,0,1,0,0
+90,Dona Petra Canyon,baja california,21.4,684.0,2,4.3,3,user_615,Travel Brunch,4.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+90,Dona Petra Canyon,baja california,21.4,684.0,2,4.3,3,user_317,Jen Baker,4.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+90,Dona Petra Canyon,baja california,21.4,684.0,2,4.3,3,user_436,Mariana Espinosa,5.0,0,1,0,0,0,1,0,0,0,1,0,0,0,0
+155,Nevado de Toluca from Parque de los Venados,estado de méxico,23.5,1284.0,3,5.0,3,user_136,Cristina Prieto,5.0,0,0,0,0,0,1,0,1,1,1,1,0,1,0
+155,Nevado de Toluca from Parque de los Venados,estado de méxico,23.5,1284.0,3,5.0,3,user_62,Benjamin Diaz,5.0,0,0,0,0,0,1,0,1,1,1,1,0,1,0
+155,Nevado de Toluca from Parque de los Venados,estado de méxico,23.5,1284.0,3,5.0,3,user_395,Laura Vale,5.0,0,0,0,0,0,1,0,1,1,1,1,0,1,0
+222,Sendero Parque Metropolitano SP-PM-3,baja california,2.1,73.0,1,4.8,4,user_592,Steve Yap,5.0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+222,Sendero Parque Metropolitano SP-PM-3,baja california,2.1,73.0,1,4.8,4,user_53,Barbara Murphy,4.0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+222,Sendero Parque Metropolitano SP-PM-3,baja california,2.1,73.0,1,4.8,4,user_620,Vane Vp,5.0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+222,Sendero Parque Metropolitano SP-PM-3,baja california,2.1,73.0,1,4.8,4,user_489,Monica Vejar Corona,5.0,0,0,0,1,0,1,0,1,1,1,0,1,1,0
+211,Santa Cruz Trail,baja california,8.2,147.0,2,4.5,2,user_230,Fernando Becerra,4.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+211,Santa Cruz Trail,baja california,8.2,147.0,2,4.5,2,user_230,Fernando Becerra,5.0,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_160,David Gonzalez,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_267,Hallie Richmond,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_277,Henry Heyman,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_330,John Berg,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_444,Mariya Santiago,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_391,Lara Church,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_616,Travis Mendoza,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_599,Taylor Moore,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,user_503,Nicolas Sanchez,5.0,0,1,0,0,0,1,0,0,1,1,0,1,1,0
+245,Velo de Novia Trail ,estado de méxico,2.1,124.0,1,3.0,4,user_64,Bernardo Cassina,3.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+245,Velo de Novia Trail ,estado de méxico,2.1,124.0,1,3.0,4,user_523,Pedro Perusquia,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+245,Velo de Novia Trail ,estado de méxico,2.1,124.0,1,3.0,4,user_235,Fran Ky,2.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+245,Velo de Novia Trail ,estado de méxico,2.1,124.0,1,3.0,4,user_554,Roberto Villaseñor,2.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+240,Toniná Pyramid Hike,chiapas,2.9,87.0,2,4.0,1,user_343,Jorge Carrillo,4.0,0,0,0,1,0,1,0,0,1,1,0,0,0,1
+45,Cerrito de La Mina,jalisco,4.8,124.0,2,5.0,1,user_562,Rubi Garcia,5.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,user_437,Mariana Medina,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,user_643,elaine Zuckerman,2.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,user_396,Lawrence Pritika,3.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,user_537,Raquel Goodman,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,user_632,Walter lewis,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+227,Sierra de Las Mitras,nuevo león,3.9,554.0,2,3.3,3,user_631,Víctor Hernández,4.0,0,1,0,0,0,1,0,0,1,1,1,1,0,0
+227,Sierra de Las Mitras,nuevo león,3.9,554.0,2,3.3,3,user_70,Boris Pineda,4.0,0,1,0,0,0,1,0,0,1,1,1,1,0,0
+227,Sierra de Las Mitras,nuevo león,3.9,554.0,2,3.3,3,user_631,Víctor Hernández,2.0,0,1,0,0,0,1,0,0,1,1,1,1,0,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_168,Dennis Van Laerhoven,4.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_343,Jorge Carrillo,4.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_234,Flo Sch,5.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_185,East West Nutrition User,5.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_235,Fran Ky,5.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_135,Craig Minoff,4.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_259,Gilberto Romero,4.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,user_373,Kasia Tadajewska,4.0,0,0,0,0,0,1,1,0,1,0,1,1,1,0
+146,Mission Santa Rosalia de Mulege,baja california sur,0.3,9.0,1,4.0,1,user_272,Heather Salyer,4.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,user_659,yuri rubi felix,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,user_200,Emilio Borraz Ortega,4.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,user_654,saul borbon,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,user_67,Betty Barreiro,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,user_348,Jose Alfredo Quintero,5.0,0,1,0,0,1,1,0,0,1,1,0,1,0,0
+97,El Cienpies,baja california,5.0,154.0,1,4.8,4,user_148,Daniel Gonzalez Castellot,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+97,El Cienpies,baja california,5.0,154.0,1,4.8,4,user_148,Daniel Gonzalez Castellot,4.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+97,El Cienpies,baja california,5.0,154.0,1,4.8,4,user_85,C'sar Saul S,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+97,El Cienpies,baja california,5.0,154.0,1,4.8,4,user_148,Daniel Gonzalez Castellot,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_172,Diego Escobedo,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_12,Alan Hibbard,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_62,Benjamin Diaz,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_540,Raul R,4.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_559,Ronja B.,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_136,Cristina Prieto,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_43,Annabelle Benin,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_407,Liliana Arrazola,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_232,Fernando Oca,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_62,Benjamin Diaz,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_459,Mau Zepe,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_459,Mau Zepe,4.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_83,Buzz LightRich,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_287,Iveth Pompa,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_122,Christine  Paulig,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_73,Brenda Guereca,5.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,user_541,Raul Rivas,4.0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+79,Cora Waterfalls,nayarit,16.6,507.0,2,5.0,1,user_26,Alexandre Mollien,5.0,0,0,1,0,0,1,1,1,0,1,1,1,1,0
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_285,Israel Santillan,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_19,Alejandra Flores,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_372,Karen Wallace,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_607,Tina Lazzarone,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_284,Irma Karns,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_173,Dinorah Inzunza,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,user_244,Gabino Rodriguez,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,1
+74,Coahuila Ruta Circular,nuevo león,47.3,2382.0,3,5.0,1,user_238,Francisco Garza,5.0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+126,La Ventana Beach Walk,baja california sur,4.0,11.0,1,5.0,2,user_69,Bill Crain,5.0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+126,La Ventana Beach Walk,baja california sur,4.0,11.0,1,5.0,2,user_252,Geoffrey Yandl,5.0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+212,Santa Maria Oasis Trail,baja california,54.6,1085.0,3,4.0,2,user_286,Ivan Alfredo,3.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+212,Santa Maria Oasis Trail,baja california,54.6,1085.0,3,4.0,2,user_187,Edgar Garcia,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_652,ramon balderrama,5.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_634,Wilson R.,5.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_127,Claudia Lara,1.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_435,Maria Sandoval,5.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_230,Fernando Becerra,5.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,user_230,Fernando Becerra,4.0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+199,Raul Zertuche,coahuila de zaragoza,8.5,205.0,1,3.0,1,user_542,Raul Zertuche,3.0,0,1,1,1,1,1,0,1,1,1,1,0,0,0
+171,Peña Rosa,estado de hidalgo,3.7,182.0,1,5.0,1,user_113,Chiara Costanzo,5.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+150,Mount Sieani Trail ,baja california,7.4,574.0,2,5.0,1,user_309,Jaydon La Valla,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+13,Banco de Arena de Bahía Adaír,sonora,7.4,39.0,1,4.8,4,user_57,Beau Comeaux,4.0,0,1,1,1,1,1,0,0,1,1,0,0,0,0
+13,Banco de Arena de Bahía Adaír,sonora,7.4,39.0,1,4.8,4,user_369,Kaitlin Simek,5.0,0,1,1,1,1,1,0,0,1,1,0,0,0,0
+13,Banco de Arena de Bahía Adaír,sonora,7.4,39.0,1,4.8,4,user_369,Kaitlin Simek,5.0,0,1,1,1,1,1,0,0,1,1,0,0,0,0
+13,Banco de Arena de Bahía Adaír,sonora,7.4,39.0,1,4.8,4,user_369,Kaitlin Simek,5.0,0,1,1,1,1,1,0,0,1,1,0,0,0,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_12,Alan Hibbard,4.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_74,Brenton Ezeofor,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_360,JuanCarlos Leon,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_154,Danya Sanchez,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_353,Josh Baltzer,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_526,Peter Scholz,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_290,JUAN D.,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_343,Jorge Carrillo,4.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_532,Radka Kleckova,4.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,user_128,Claudia Ulloa ,5.0,0,0,0,1,0,1,1,0,1,1,0,1,1,0
+125,La Raiz Trail,puebla,5.1,186.0,1,5.0,1,user_16,Aldo Iván,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+99,El Mezcalero to La Escondida Loop,chihuahua,10.9,249.0,2,3.7,3,user_623,Veronica Martinez,3.0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+99,El Mezcalero to La Escondida Loop,chihuahua,10.9,249.0,2,3.7,3,user_7,Adrián López,5.0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+99,El Mezcalero to La Escondida Loop,chihuahua,10.9,249.0,2,3.7,3,user_327,Jimmy Steeler,3.0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+131,Las Piedras Niñas y Jiquilpan Jalisco,jalisco,15.6,674.0,2,5.0,2,user_163,David Ramirez,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+131,Las Piedras Niñas y Jiquilpan Jalisco,jalisco,15.6,674.0,2,5.0,2,user_163,David Ramirez,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,user_410,Liz Garcia,5.0,0,1,1,0,0,1,0,0,1,0,1,0,1,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,user_35,Andoni Gonzalez,5.0,0,1,1,0,0,1,0,0,1,0,1,0,1,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,user_641,Zulema Dorame chavez,5.0,0,1,1,0,0,1,0,0,1,0,1,0,1,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,user_316,Jeff Wellman,4.0,0,1,1,0,0,1,0,0,1,0,1,0,1,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,user_401,Leonardo Arrieta,4.0,0,1,1,0,0,1,0,0,1,0,1,0,1,0
+170,Patriotism and Revolution Bicycle Path ,ciudad de méxico,11.1,249.0,1,3.5,2,user_206,Enrique Huato,5.0,0,1,1,1,0,0,0,0,1,0,0,0,0,1
+170,Patriotism and Revolution Bicycle Path ,ciudad de méxico,11.1,249.0,1,3.5,2,user_551,Roberto Albores,2.0,0,1,1,1,0,0,0,0,1,0,0,0,0,1
+62,Cerro del Bachoco,sonora,3.7,266.0,2,4.3,4,user_305,Javier  Vazquez ,5.0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+62,Cerro del Bachoco,sonora,3.7,266.0,2,4.3,4,user_305,Javier  Vazquez ,4.0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+62,Cerro del Bachoco,sonora,3.7,266.0,2,4.3,4,user_152,Daniela Salido,5.0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+62,Cerro del Bachoco,sonora,3.7,266.0,2,4.3,4,user_305,Javier  Vazquez ,3.0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_195,Eileen Rittenhouse,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_142,Dan Klingberg,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_595,Tanya Morosoli,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_281,Holly Vest,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_610,Tom P.,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_392,Laura Balboa,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_368,Kaitlin Haefner,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_42,Anna T,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_404,Lia Winter,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_202,Emily White,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_555,Rodolfo F,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_325,Jesus Ibarra,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_545,Riche W.,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_399,Leo Alcala,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_457,Matthew Cummins,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_153,Dany Vic,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_382,Kevin Casey,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_86,C.  Petersman,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_75,Brian Jesmer,3.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_219,F User,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_123,Christine Wushke,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_338,Jonno Schmidt,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_257,Gerardo Fojo,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_612,Tommy Loe,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_483,Mike Miller,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_593,T Abba,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,user_61,Ben Riordan,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+186,Playa la Cachora Beach Walk,baja california sur,2.4,11.0,1,3.3,3,user_69,Bill Crain,4.0,0,1,1,1,0,1,1,0,1,1,0,0,0,0
+186,Playa la Cachora Beach Walk,baja california sur,2.4,11.0,1,3.3,3,user_165,Denise Crain,2.0,0,1,1,1,0,1,1,0,1,1,0,0,0,0
+186,Playa la Cachora Beach Walk,baja california sur,2.4,11.0,1,3.3,3,user_69,Bill Crain,4.0,0,1,1,1,0,1,1,0,1,1,0,0,0,0
+56,Cerro Zapotecas,puebla,8.5,279.0,2,4.0,3,user_565,Sadie  Birks,2.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+56,Cerro Zapotecas,puebla,8.5,279.0,2,4.0,3,user_46,Ari Gutierrez,5.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+56,Cerro Zapotecas,puebla,8.5,279.0,2,4.0,3,user_51,Arzy KatzLvtrov,5.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+215,Sayulita to Playa Malpasos Loop,nayarit,2.4,54.0,1,4.0,1,user_255,George R.,4.0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+193,Punta Brava,baja california,5.8,239.0,1,4.0,2,user_158,David Coher,4.0,0,1,0,0,1,1,0,0,1,0,0,0,0,0
+193,Punta Brava,baja california,5.8,239.0,1,4.0,2,user_487,Monica Arellano,4.0,0,1,0,0,1,1,0,0,1,0,0,0,0,0
+175,Pico Pirámide,nuevo león,7.4,1380.0,3,4.5,4,user_342,Jorge Camargo,4.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+175,Pico Pirámide,nuevo león,7.4,1380.0,3,4.5,4,user_360,JuanCarlos Leon,5.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+175,Pico Pirámide,nuevo león,7.4,1380.0,3,4.5,4,user_342,Jorge Camargo,5.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+175,Pico Pirámide,nuevo león,7.4,1380.0,3,4.5,4,user_237,Francisco Francisco Bujanos,4.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+116,Juanacatlán a La Manzanilla,jalisco,35.4,1097.0,2,4.0,1,user_190,Eduardo 44,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+52,Cerro Ostotl Tlaxcala,tlaxcala,4.3,214.0,2,2.5,2,user_343,Jorge Carrillo,4.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+52,Cerro Ostotl Tlaxcala,tlaxcala,4.3,214.0,2,2.5,2,user_146,Daniel Gaisbacher,1.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_572,Sara Atlas,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_650,pepe cernicchiaro,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_634,Wilson R.,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_290,JUAN D.,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_634,Wilson R.,4.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_658,yona kopolovich,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_499,Nate Beam,4.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_428,Manuel López,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,user_343,Jorge Carrillo,5.0,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_500,Nelson Gonzalez,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_72,Breck Tuttle,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_500,Nelson Gonzalez,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_468,Mercedes Alejandra López Serrano,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_388,Lachie B,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_494,Mychal Wooldridge,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_17,Aldo Silva,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_129,Claudio Sodi,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_573,Saúl RC,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_343,Jorge Carrillo,4.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_290,JUAN D.,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_629,Vincent Leroy,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_341,Jorge C.,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_514,Para Varios,2.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_619,Valeria  Lopez,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_478,Miguel Gallo,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_413,Logan Deans,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_118,Chris Bowler,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_543,Ricardo Camargo,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_454,Mathieu Roy,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_510,Oscar Josue Flores Villa,4.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_647,luke botanist,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_241,Frank Walsh,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_496,Nabor Contreras,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_417,Lucia CT,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_421,Luis Zepeda,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_571,Santiago De León,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_440,Mariel DoSu,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,user_359,Juan Patiño Flores,5.0,0,1,1,0,1,1,0,0,1,1,1,1,0,0
+120,La Bufadora Paddle,baja california,5.0,31.0,3,5.0,3,user_311,Jeetu J,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+120,La Bufadora Paddle,baja california,5.0,31.0,3,5.0,3,user_197,Elizabeth Navarro,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+120,La Bufadora Paddle,baja california,5.0,31.0,3,5.0,3,user_311,Jeetu J,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+223,Sendero Teinidad de Melina ,nuevo león,12.7,237.0,1,3.0,1,user_28,Alfredo Flores,3.0,0,1,0,0,0,1,0,0,1,1,1,0,0,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_157,David Chong,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_365,Julio Santiago,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_651,quentin jacques,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_225,Felipe Garcia,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_291,Jaciel Castro,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_354,Josue Montiel,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_328,Joaquin Beltran,5.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,user_193,Eduardo Zarate,4.0,0,1,1,0,0,1,0,0,0,1,0,1,1,0
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,user_656,su l.,3.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,user_218,Ezveidy Pastrana,5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,user_306,Javier Alvarez,5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,user_485,Mikey Swift,5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,user_343,Jorge Carrillo,5.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+87,Desierto de los Leones Loop,ciudad de méxico,23.2,1123.0,3,5.0,2,user_528,Petya Lazarova,5.0,0,0,1,0,0,1,0,1,1,0,0,1,1,0
+87,Desierto de los Leones Loop,ciudad de méxico,23.2,1123.0,3,5.0,2,user_356,Juan Hanna,5.0,0,0,1,0,0,1,0,1,1,0,0,1,1,0
+50,Cerro Grande,chihuahua,4.0,369.0,1,5.0,1,user_20,Alejandro Guerra,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+111,Hacienda Tres Rios to Mangrove,quintana roo,9.2,30.0,1,3.7,3,user_133,Corbin Chau,2.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+111,Hacienda Tres Rios to Mangrove,quintana roo,9.2,30.0,1,3.7,3,user_174,Dmitri Kniazev,5.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+111,Hacienda Tres Rios to Mangrove,quintana roo,9.2,30.0,1,3.7,3,user_575,Scott Titterington,4.0,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,user_69,Bill Crain,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,user_164,Debranne Cingari,1.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,user_236,Francisco Ferrer,3.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,user_476,Midori Midori,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,user_18,Alec Michaud,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+93,Ek' Balam,yucatán,1.6,20.0,1,4.5,4,user_574,Scott Densmore,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,0
+93,Ek' Balam,yucatán,1.6,20.0,1,4.5,4,user_256,George Wailand,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,0
+93,Ek' Balam,yucatán,1.6,20.0,1,4.5,4,user_132,Conner Davis,5.0,0,1,0,1,0,1,0,0,1,0,0,1,0,0
+93,Ek' Balam,yucatán,1.6,20.0,1,4.5,4,user_82,Bryana m,3.0,0,1,0,1,0,1,0,0,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,user_586,Ssoleey Tristán,5.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,user_30,Alicia Watt,4.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,user_92,Carlos Ruiz Favela,5.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,user_567,Samantha Bueno,5.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,user_544,Ricardo Del Valle,5.0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+46,Cerritos Beach Walk,baja california sur,13.4,114.0,1,4.7,3,user_602,Teresa M.,5.0,0,1,1,0,0,1,0,0,1,1,0,0,1,0
+46,Cerritos Beach Walk,baja california sur,13.4,114.0,1,4.7,3,user_69,Bill Crain,5.0,0,1,1,0,0,1,0,0,1,1,0,0,1,0
+46,Cerritos Beach Walk,baja california sur,13.4,114.0,1,4.7,3,user_69,Bill Crain,4.0,0,1,1,0,0,1,0,0,1,1,0,0,1,0
+192,Puerto Penasco to Golfo de Santa Clara,sonora,353.9,658.0,2,5.0,1,user_568,Sandra Griffin,5.0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+40,Cascadas de Micos,san luis potosí,4.7,134.0,1,5.0,1,user_625,Victor  Avalos,5.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_443,Mario Ruiz,4.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_112,Charly Barajas,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_91,Carlos Moreno,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_91,Carlos Moreno,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_398,Leo Aguilar,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_438,Marie Barthel,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_55,Beatriz Aragón,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_97,Carol Romero,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_55,Beatriz Aragón,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_34,Ana Segedincev,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_471,Michael Garcia,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_301,Janeth Castro,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_367,Kailee G,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_644,francisco otanez,4.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_128,Claudia Ulloa ,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_439,Mariel Carrasco,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_603,Thalina Irais,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_422,Lupita Real,5.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_317,Jen Baker,4.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_427,Manuel Cabrera,4.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,user_337,Jonathan Gonzalez-Garcia ,4.0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+187,Pozo de Cota Beach Walk,baja california sur,5.5,22.0,1,5.0,1,user_490,Morgan Oakland,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+27,Cabo Banda: Lighthouse Trail,baja california,7.7,246.0,1,4.7,3,user_52,Ashley Mercado,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+27,Cabo Banda: Lighthouse Trail,baja california,7.7,246.0,1,4.7,3,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+27,Cabo Banda: Lighthouse Trail,baja california,7.7,246.0,1,4.7,3,user_179,Donna Miller,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+207,San Juan Amecac a Tecuanipa,puebla,17.4,448.0,2,1.0,1,user_100,Casey  LeTellier,1.0,0,1,0,0,0,1,0,1,1,1,1,1,1,0
+174,Picachos Sendero,baja california,1.8,44.0,2,4.0,1,user_130,Cocko Perez,4.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_172,Diego Escobedo,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_222,Federico Antoni,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_491,Morten Hellberg,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_402,Leslie Patino,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_546,Rick Glisson,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_326,Jesus Levy,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_532,Radka Kleckova,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_478,Miguel Gallo,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_355,José Ignacio Aldama V.,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_653,saul arizmendi martinez,5.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,user_511,Oscar Teuffer,4.0,0,1,1,0,0,1,0,0,1,1,1,1,1,0
+58,Cerro de el Colli [PRIVATE PROPERTY],jalisco,9.7,327.0,2,3.0,2,user_597,Taylor Blackburn,1.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+58,Cerro de el Colli [PRIVATE PROPERTY],jalisco,9.7,327.0,2,3.0,2,user_190,Eduardo 44,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+30,Camino a La Entrega Loop,oaxaca,6.3,175.0,2,4.0,2,user_455,Matt Altschul,3.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+30,Camino a La Entrega Loop,oaxaca,6.3,175.0,2,4.0,2,user_299,Jan Potocki,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_363,Julien Blaise,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_245,Gabriel De Cárcer,4.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_377,Katsuya Imanishi,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_523,Pedro Perusquia,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_523,Pedro Perusquia,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_523,Pedro Perusquia,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,user_523,Pedro Perusquia,5.0,0,0,1,0,0,1,0,1,1,0,1,1,0,0
+54,Cerro Prieto,baja california,2.3,103.0,2,4.7,3,user_583,Sofia Velazquez,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+54,Cerro Prieto,baja california,2.3,103.0,2,4.7,3,user_493,Muddyface D'solis,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+54,Cerro Prieto,baja california,2.3,103.0,2,4.7,3,user_420,Luis Lozano,4.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+190,Puente de Dios via Paso Ancho,san luis potosí,6.1,165.0,2,5.0,1,user_343,Jorge Carrillo,5.0,0,1,0,1,1,1,1,0,1,1,0,1,0,0
+85,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,8.2,377.0,2,3.8,4,user_113,Chiara Costanzo,3.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+85,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,8.2,377.0,2,3.8,4,user_478,Miguel Gallo,5.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+85,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,8.2,377.0,2,3.8,4,user_512,P Carlos LV,4.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+85,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,8.2,377.0,2,3.8,4,user_472,Michael Grealy,3.0,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_504,Nicole Bracco,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_217,Evgenia Kostiaeva,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_449,Mary Humphrey,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_425,Maggie Tilley,4.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_80,Bryan Hindle,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,user_379,Kelly Naff,5.0,0,1,0,1,0,1,1,0,1,1,0,1,0,0
+115,Jicalán,michoacán,2.6,248.0,1,5.0,2,user_411,Liz S. Ortiz,5.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+115,Jicalán,michoacán,2.6,248.0,1,5.0,2,user_411,Liz S. Ortiz,5.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+89,Devils Peak via Devil's Canyon Trail,baja california,52.5,2923.0,3,5.0,1,user_223,Federico Godinez,5.0,0,1,0,0,1,1,0,0,1,0,0,0,0,0
+95,El Charco del Ingenio ,guanajuato,1.6,39.0,1,4.7,3,user_5,Adriana D.,5.0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+95,El Charco del Ingenio ,guanajuato,1.6,39.0,1,4.7,3,user_5,Adriana D.,5.0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+95,El Charco del Ingenio ,guanajuato,1.6,39.0,1,4.7,3,user_194,Edward Hug,4.0,0,0,0,1,0,1,0,0,1,1,0,0,0,0
+157,Old Filters Trail ,michoacán,10.1,441.0,2,4.5,2,user_509,Orlando Torres,5.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+157,Old Filters Trail ,michoacán,10.1,441.0,2,4.5,2,user_522,Pedro Guzman,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+20,Bosque de Chapultepec Loop,ciudad de méxico,4.2,118.0,1,4.0,2,user_64,Bernardo Cassina,3.0,0,0,0,1,0,1,1,0,0,0,0,1,0,0
+20,Bosque de Chapultepec Loop,ciudad de méxico,4.2,118.0,1,4.0,2,user_280,Ho De,5.0,0,0,0,1,0,1,1,0,0,0,0,1,0,0
+103,El Pinal via Brecha El Empalme y Vereda de Cabras,nuevo león,10.8,615.0,2,5.0,3,user_432,Marco Garza,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+103,El Pinal via Brecha El Empalme y Vereda de Cabras,nuevo león,10.8,615.0,2,5.0,3,user_432,Marco Garza,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+103,El Pinal via Brecha El Empalme y Vereda de Cabras,nuevo león,10.8,615.0,2,5.0,3,user_60,Ben Heath,5.0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+167,Paseo de Las Garzas,estado de guerrero,12.6,369.0,1,5.0,1,user_177,Donal Clancy,5.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_363,Julien Blaise,4.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_216,Ernesto Ba,4.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_407,Liliana Arrazola,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_513,Pablo Santos,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_523,Pedro Perusquia,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_523,Pedro Perusquia,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_199,Emiliano Aguilar P.,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_357,Juan Leonardo Gonzalez Gomez,5.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_220,Faafeu Kapeneta,1.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,user_472,Michael Grealy,4.0,0,1,1,0,0,1,0,1,1,1,0,1,1,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,3.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,user_191,Eduardo A Gonzalez M,4.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+140,Milpalta a Tepoztlán,ciudad de méxico,36.2,1356.0,2,5.0,1,user_145,Daniel Escamilla,5.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+214,Sayulita to Playa Malpasos,nayarit,1.3,36.0,1,4.0,1,user_558,Roger R.,4.0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_598,Taylor Elise,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_517,Patricia G.,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_162,David Peña-Chavez,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_243,Freeman  Smith,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_527,Petr Hofman,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_196,Elfa Guirado,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_275,Hector Manuel Perez Sanchez,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_418,Lucio Ramirez,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_109,Cezary Oniszczuk,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_375,Katherine White,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_552,Roberto Rozalen,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_301,Janeth Castro,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_56,Beatriz Martinez,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_116,Chris A,3.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_45,Antonio Cueto,3.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_459,Mau Zepe,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_617,Uriel  Chavez ,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_288,Ixchel Tucker,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_235,Fran Ky,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_549,Robchik Sk,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_518,Patricio Reynaud,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_441,Mario Aguilar Estrada,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_548,Rob Shearer,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_94,Carlos Villarespe,5.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,user_65,Bernat Rubio,4.0,0,1,0,0,0,1,0,0,1,0,1,1,0,1
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_594,Tania Vasco,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_461,Maverikc Vargas,5.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_539,Raul Arellano,5.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_580,Shelby Witherby,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_584,Sonny Cruz,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_409,Lindsey Meere,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_176,Don Wiens,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_364,Julien Roy,5.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_454,Mathieu Roy,5.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,user_25,Alex Quevedo,4.0,0,1,0,0,0,1,1,0,1,1,0,1,1,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,user_386,Kyle Watson,3.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,user_317,Jen Baker,4.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,user_186,Edde Barragan,5.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,user_307,Javier Guadiana,4.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,user_307,Javier Guadiana,4.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+181,Pila Trail,baja california sur,1.3,127.0,2,4.0,1,user_164,Debranne Cingari,4.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+229,Tecolote Beach Walk,baja california sur,2.4,5.0,1,4.3,3,user_69,Bill Crain,4.0,0,1,1,1,0,1,0,0,1,0,0,0,0,0
+229,Tecolote Beach Walk,baja california sur,2.4,5.0,1,4.3,3,user_165,Denise Crain,5.0,0,1,1,1,0,1,0,0,1,0,0,0,0,0
+229,Tecolote Beach Walk,baja california sur,2.4,5.0,1,4.3,3,user_69,Bill Crain,4.0,0,1,1,1,0,1,0,0,1,0,0,0,0,0
+149,Monte Tlaloc via Rio Frio,estado de méxico,21.6,1176.0,3,4.3,3,user_343,Jorge Carrillo,5.0,0,1,1,1,0,1,1,1,1,1,1,1,0,1
+149,Monte Tlaloc via Rio Frio,estado de méxico,21.6,1176.0,3,4.3,3,user_343,Jorge Carrillo,4.0,0,1,1,1,0,1,1,1,1,1,1,1,0,1
+149,Monte Tlaloc via Rio Frio,estado de méxico,21.6,1176.0,3,4.3,3,user_459,Mau Zepe,4.0,0,1,1,1,0,1,1,1,1,1,1,1,0,1
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,user_348,Jose Alfredo Quintero,3.0,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,user_349,Jose Covarrubias,5.0,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,user_349,Jose Covarrubias,5.0,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,user_319,Jeremiah Shivers,3.0,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,user_348,Jose Alfredo Quintero,3.0,0,1,1,0,0,1,0,1,1,1,1,1,1,0
+88,"Devils Canyon, Wall Street, Devil's Peak ",baja california,42.5,3287.0,3,5.0,1,user_85,C'sar Saul S,5.0,1,0,0,0,1,1,0,0,1,1,0,0,0,0
+244,Valle de Guadelupe Hot Springs,baja california,5.8,101.0,1,5.0,3,user_126,Clau Esco,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+244,Valle de Guadelupe Hot Springs,baja california,5.8,101.0,1,5.0,3,user_265,Gustavo Pelosi Ambrozio,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+244,Valle de Guadelupe Hot Springs,baja california,5.8,101.0,1,5.0,3,user_486,Mirna Gonzalez,5.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+217,Sendero Cerra del Borrego ,veracruz de ignacio de la llave,2.4,255.0,1,5.0,1,user_175,Dominic R.,5.0,0,1,0,0,0,1,0,0,1,1,0,1,0,0
+161,Parque Guadiana,durango,2.1,27.0,1,2.0,1,user_11,Alan Chaparro,2.0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+101,El Pabellon - Cerro del Mirador,jalisco,2.9,215.0,2,5.0,1,user_138,César Uyoa,5.0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+122,La Moneda Trail,coahuila de zaragoza,16.1,846.0,2,4.0,1,user_302,Janneth Masters,4.0,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+11,Baker-Milton Trail Loop,sonora,20.0,228.0,2,3.7,3,user_98,Caroline Rohe,5.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+11,Baker-Milton Trail Loop,sonora,20.0,228.0,2,3.7,3,user_450,Mary Raines,4.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+11,Baker-Milton Trail Loop,sonora,20.0,228.0,2,3.7,3,user_606,Timothy Ivey,2.0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+123,La Paz Beachwalk,baja california sur,4.7,27.0,1,4.7,3,user_69,Bill Crain,4.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+123,La Paz Beachwalk,baja california sur,4.7,27.0,1,4.7,3,user_69,Bill Crain,5.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+123,La Paz Beachwalk,baja california sur,4.7,27.0,1,4.7,3,user_165,Denise Crain,5.0,0,1,1,1,0,1,0,0,1,1,0,0,1,0
+109,Fisherman's Beach Walk,baja california sur,5.3,40.0,1,4.0,2,user_69,Bill Crain,4.0,0,1,1,1,0,1,0,0,1,1,0,0,0,0
+109,Fisherman's Beach Walk,baja california sur,5.3,40.0,1,4.0,2,user_165,Denise Crain,4.0,0,1,1,1,0,1,0,0,1,1,0,0,0,0

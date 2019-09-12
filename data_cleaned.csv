@@ -1,0 +1,253 @@
+hikeID,hike_name,region,distance_kms,elevation_mts,difficulty_level,stars,num_reviews,user_ratings,route_type_De punto a punto,route_type_Ida y vuelta,dog_friendly,kid_friendly,camping,trekking,near_water,mountain_biking,great_views,bird_watching,climbing,forests,trail_running,historic_place
+247,Vizcaya de Lado,coahuila de zaragoza,5.6,327.0,1,5.0,1,[{'JuanCarlos Leon': '5'}],0,1,0,1,0,1,0,0,1,1,0,1,1,0
+3,Ajusco via Valle de las Cantimploras Loop,ciudad de méxico,6.4,506.0,3,5.0,1,[{'Jose F.': '5'}],0,0,1,0,0,1,0,0,1,1,0,0,1,0
+130,Las Canastas Loop,chiapas,7.2,341.0,2,5.0,5,"[{'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}, {'David Benjamin ': '5'}]",0,0,0,0,0,1,1,0,1,1,0,1,0,0
+204,Ruta del Peregrino Talpa,jalisco,72.3,2022.0,3,5.0,2,"[{'Dany Vic': '5'}, {'Dany Vic': '5'}]",1,0,0,0,1,1,0,0,1,0,0,0,0,0
+237,"Tierras Altas, Alta Tension, Muro, Disney and F1",ciudad de méxico,23.0,1134.0,3,5.0,1,[{'Pedro Perusquia': '5'}],0,0,0,0,0,1,0,1,1,0,1,1,0,0
+49,Cerro Gordo e Izar Loop,estado de méxico,16.7,862.0,2,5.0,1,[{'Pedro Perusquia': '5'}],0,0,0,0,0,0,0,1,1,1,0,1,0,0
+81,Cuatlapanga via San Jose Teacalco,tlaxcala,5.6,349.0,2,5.0,1,[{'Jorge Carrillo': '5'}],0,1,1,1,0,1,0,0,1,1,1,1,1,1
+5,Alligator Cove,baja california,8.5,263.0,2,4.0,1,[{'Donna Miller': '4'}],0,1,0,0,0,1,0,0,1,1,0,0,0,0
+129,Las Amapas-La Noria,nayarit,14.3,1263.0,3,5.0,2,"[{'C Hdez V': '5'}, {'Adrián Hernández': '5'}]",1,0,1,0,1,1,0,0,1,1,0,1,1,0
+250,Yelapa Upper Cascada Trail,jalisco,7.4,163.0,2,4.7,3,"[{'Sharon D.': '5'}, {'Ross Hutcheon': '4'}, {'Hayley Crabtree': '5'}]",0,1,0,0,0,1,1,0,1,0,0,0,0,0
+246,Villa del Palmar ,baja california sur,9.5,358.0,2,5.0,6,"[{'Martin Ruiz': '5'}, {'Carrie Butler': '5'}, {'Jeff Remillard': '5'}, {'Jeff Remillard': '5'}, {'Teresa Howes': '5'}, {'Teresa Howes': '5'}]",0,0,0,0,0,1,0,0,1,1,1,0,0,0
+226,Sierra Santa Rosa,guanajuato,8.5,353.0,2,4.5,2,"[{'Sergio Cobo': '5'}, {'Jorge Carrillo': '4'}]",0,0,0,1,0,1,1,1,0,1,0,1,0,0
+72,Cima Sur,sonora,3.7,227.0,2,5.0,2,"[{'Andrea Aello': '5'}, {'Daniela Salido': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+69,Chichen Itza and The Sacred Cenote Trail,yucatán,4.7,103.0,1,5.0,5,"[{'Tatiana Ocasio': '5'}, {'Jason R.': '5'}, {'Conner Davis': '5'}, {'Joseph Schimmel': '5'}, {'George Wailand': '5'}]",0,0,0,1,0,1,0,0,1,0,0,0,0,1
+118,Juventino Rosas a Naranjillo,guanajuato,20.9,535.0,2,3.8,12,"[{'Salvador  Pantoja': '4'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '4'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '5'}, {'Salvador  Pantoja': '2'}, {'Salvador  Pantoja': '3'}, {'Salvador  Pantoja': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+242,Ursulo Galvan Canyon,baja california,6.9,107.0,2,4.0,1,[{'sergio chairez': '4'}],0,0,0,0,0,1,0,0,1,0,0,0,0,0
+91,Dona Petra MTB Loop,baja california,6.8,229.0,2,2.0,1,[{'Octavio Guzmán': '2'}],0,0,0,0,0,1,0,1,0,0,0,0,0,0
+196,Punta Gorda,baja california sur,6.0,133.0,2,5.0,1,[{'Monica Crowe': '5'}],0,1,0,0,0,1,0,0,1,1,0,0,0,0
+139,Mega Carrito,michoacán,100.9,869.0,2,5.0,1,[{'Rag Alva': '5'}],0,0,0,0,0,1,0,1,1,0,0,0,0,0
+156,Nicolas Copernico Trail Loop,oaxaca,6.6,299.0,1,4.5,2,"[{'KT M.': '4'}, {'Jose Garcia': '5'}]",0,0,1,1,0,1,0,0,1,0,0,0,1,1
+159,Palm Beach Trail,baja california sur,2.6,19.0,1,4.5,4,"[{'Bill Crain': '5'}, {'Andrew D.': '4'}, {'Bill Crain': '4'}, {'Denise Crain': '5'}]",0,1,1,1,0,1,0,0,1,1,0,1,0,0
+34,Campo 9 to Playa Escondido,baja california,9.8,278.0,2,4.0,3,"[{'Edde Barragan': '4'}, {'Mariel Carrasco': '4'}, {'Donna Miller': '4'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+233,The Jesuit Cave - North Approach,guanajuato,6.9,250.0,2,5.0,3,"[{'Adriana D.': '5'}, {'Olivet Vollmet': '5'}, {'Robert Baines': '5'}]",0,0,1,1,0,1,0,0,1,1,0,1,1,1
+23,Bravo Valley Dam Trail ,estado de méxico,7.6,504.0,2,3.0,1,[{'Caum Jones': '3'}],0,1,0,0,0,1,1,0,1,1,0,1,1,0
+37,Cascada Ensenada,baja california,10.3,460.0,2,3.3,3,"[{'Ken Tramp': '2'}, {'Carlos Morales': '3'}, {'Donna Miller': '5'}]",0,1,0,0,0,1,0,0,1,0,0,1,1,0
+144,Mirador Peña del Cuervo y Dos Aguas,estado de hidalgo,9.3,556.0,2,4.5,2,"[{'Rob Shearer': '5'}, {'Chiara Costanzo': '4'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+208,San Judas Canyon (Huasteca) Pass,nuevo león,12.7,807.0,3,4.0,2,"[{'Manuel Solis': '4'}, {'Marcelo Vasqiez': '4'}]",0,1,0,0,0,1,0,0,1,1,0,1,0,0
+12,Balandra Beach Trail ,baja california sur,4.3,128.0,1,5.0,3,"[{'Randy Rucker': '5'}, {'Maxine Thevenot': '5'}, {'Mike Hart': '5'}]",0,0,0,0,0,1,0,0,1,1,0,0,0,0
+210,Santa Catarina River Trail ,nuevo león,54.4,566.0,2,5.0,1,[{'Douglas Serrano': '5'}],0,1,0,1,0,1,1,1,1,1,0,1,1,0
+100,El Ocotal Loop,ciudad de méxico,3.7,111.0,2,4.3,4,"[{'Miguel Espinoza': '4'}, {'Pablo Santos': '5'}, {'saul arizmendi martinez': '5'}, {'ELI BERLIN': '3'}]",0,0,1,0,0,1,0,0,0,0,0,1,1,0
+132,Liz'a Arroyo Crossing to Fig Tree Trail,baja california sur,1.6,24.0,1,5.0,1,[{'Midori Midori': '5'}],0,1,0,0,0,1,0,0,1,1,0,0,0,0
+225,Sierra Chincua,michoacán,4.2,180.0,1,5.0,1,[{'Alex Lusak': '5'}],0,1,0,0,0,1,0,0,1,1,0,1,0,0
+239,Todos Santos Sugar Port Trail,baja california sur,6.9,268.0,2,4.7,15,"[{'Kathryn User': '4'}, {'Cy Wakeman': '5'}, {'Kha Hoang': '5'}, {'Adventure A.': '5'}, {'Rosina Ebneter': '4'}, {'Doug Garman': '5'}, {'Steph Gregerson': '5'}, {'Bill Crain': '5'}, {'Neset Pirkul': '5'}, {'Alicia Carr': '4'}, {'Andrea Mota': '4'}, {'Chris Lankford': '5'}, {'Heather Mastakas': '5'}, {'Eric Howery': '4'}, {'Bill Crain': '5'}]",0,1,1,1,0,1,0,1,1,0,1,0,1,1
+80,Costa Azul Canyon,baja california sur,4.7,84.0,1,4.0,5,"[{'Todd Boley': '5'}, {'Sebastian  Perezpavon': '5'}, {'Sebastian  Perezpavon': '5'}, {'Fernando Soto': '3'}, {'Xerchx Leon': '2'}]",0,1,1,1,0,1,0,0,1,1,0,0,1,0
+234,The Lioness Waterfall ,ciudad de méxico,8.9,522.0,2,5.0,1,[{'Julien Blaise': '5'}],0,1,0,0,0,1,0,1,1,1,0,1,1,0
+128,Laguna Zempoala,estado de méxico,4.5,265.0,1,5.0,1,[{'Katherine Fisher': '5'}],0,1,0,0,0,1,1,0,1,0,0,0,0,0
+24,Brecha El Empalme,nuevo león,13.4,725.0,2,5.0,1,[{'Douglas Serrano': '5'}],0,0,0,0,0,0,0,1,1,1,0,1,0,0
+145,Mirador Picacho,baja california,8.4,369.0,1,5.0,4,"[{'Lou Zar': '5'}, {'Clau Esco': '5'}, {'Donna Miller': '5'}, {'Gustavo Pelosi Ambrozio': '5'}]",0,1,0,0,0,1,0,0,1,1,0,1,0,0
+203,Ruta Escuelas via Misión Taraumara,chihuahua,7.1,223.0,1,5.0,1,[{'David Covarrubias': '5'}],0,1,1,0,0,1,0,0,1,1,0,1,1,0
+0, Ruta Escénica Isla Cozumel,quintana roo,44.1,835.0,2,4.0,3,"[{'John Miller': '4'}, {'Cecilia Rodriguez': '5'}, {'edgar lorenzana': '3'}]",1,0,0,0,0,0,0,0,1,0,0,0,0,0
+39,Cascada de Tamasopo via Paso Ancho,san luis potosí,5.1,89.0,2,3.0,2,"[{'Alicia Watt': '1'}, {'Jorge Carrillo': '5'}]",0,1,0,0,0,1,1,1,1,1,0,1,0,0
+64,Cerro del Mirador,nuevo león,7.6,432.0,2,5.0,1,[{'Carmen Equihua': '5'}],0,1,0,0,0,1,0,1,1,1,0,0,0,0
+104,El Salto Canyon Trail,baja california,7.9,380.0,3,4.0,4,"[{'Nikole Hendricks': '4'}, {'Fer Ramos': '5'}, {'Melissa Basso': '4'}, {'John Dill': '3'}]",0,0,0,0,1,1,1,0,1,0,1,0,0,0
+44,Cerrito de La Cruz,jalisco,1.0,82.0,1,5.0,3,"[{'Victor Correa': '5'}, {'Gloria Hernandez': '5'}, {'Gloria Hernandez': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,1,0
+41,Cañon de La Zorra,baja california sur,3.2,102.0,2,4.8,10,"[{'Dori Per': '5'}, {'Jen Gubrud': '4'}, {'Dale Borgeson': '5'}, {'Rosina Ebneter': '5'}, {'Yasmin Karimi': '5'}, {'Alex Baum': '5'}, {'Cameron Martin': '5'}, {'Vittorio Callori': '5'}, {'Yannick Ménard': '4'}, {'Chris  Glass': '5'}]",0,1,0,0,0,1,1,0,0,0,0,0,1,0
+184,Playa del Carmen - Climb the Pyramid at Coba,quintana roo,208.1,421.0,2,4.0,4,"[{'Julie Martinez': '5'}, {'Mp Mp': '5'}, {'S Carrizal': '1'}, {'Bryan Sandell': '5'}]",1,0,0,1,0,1,0,0,1,1,0,0,0,0
+63,Cerro del Centinela,baja california,8.0,807.0,3,4.6,7,"[{'Erica Cervantes': '3'}, {'Alberto Rivera': '5'}, {'Angel Molina German': '5'}, {'Fabiola Ibarra': '5'}, {'Memo L': '5'}, {'Gaby Rodriguez': '5'}, {'Gaby Rodriguez': '4'}]",0,1,1,0,0,1,0,0,1,1,1,0,1,0
+213,Santa Rita Hot Springs Loop,baja california sur,1.8,38.0,1,5.0,1,[{'Dori Per': '5'}],0,0,0,0,1,1,0,0,1,1,0,0,0,0
+179,Pico del Águila,ciudad de méxico,6.0,711.0,3,4.1,9,"[{'Kamila  Zakoutska': '4'}, {'Ceci Portillo': '5'}, {'Lizeth Zertuche': '4'}, {'Daniel Després': '5'}, {'Victor Bibbins': '1'}, {'Jonas Kublickas': '5'}, {'Genesis Leang': '5'}, {'Luis Zepeda': '4'}, {'Jaime de la Fuente Valles': '4'}]",0,1,1,0,0,1,0,0,1,1,1,0,1,0
+183,Playa Palmares to El Nogalito ,jalisco,6.4,234.0,2,4.5,6,"[{'Jessica Meyer': '5'}, {'Francisco S': '4'}, {'Manuel de la Serna': '3'}, {'Paula Valenzuela': '5'}, {'Leo W.': '5'}, {'Mary Bayer': '5'}]",0,1,0,0,0,1,0,0,1,0,0,1,0,0
+200,Rio Florido,chihuahua,2.7,25.0,1,5.0,1,[{'Roberto Sanchez': '5'}],0,1,0,0,0,1,1,1,1,0,0,0,0,0
+105,El Salto Loop,baja california,6.1,495.0,2,4.0,5,"[{'w g': '5'}, {'Cameron Birchall': '2'}, {'Michael Cimino': '3'}, {'Veronika Magana': '5'}, {'Claudia Ulloa ': '5'}]",0,0,0,0,0,1,0,0,1,1,0,0,0,0
+248,Volcán Cuautzin,morelos,24.3,742.0,2,5.0,1,[{'Jose F.': '5'}],0,1,0,0,0,1,0,0,1,0,1,0,0,0
+8,Ascenso a la Rumorosa,baja california,11.6,1016.0,3,5.0,1,[{'Alberto Rincon Jr': '5'}],1,0,0,0,0,1,0,0,0,0,0,0,1,0
+57,Cerro de La Silleta,san luis potosí,7.1,692.0,3,4.0,1,[{'Jorge Carrillo': '4'}],0,1,0,0,0,1,1,0,1,1,1,1,0,0
+14,"Barandales, Medio Muro, Punto Rojo, Disney and F1 Loop",ciudad de méxico,10.9,516.0,2,4.0,2,"[{'Katsuya Imanishi': '3'}, {'Hector  Hernandez Pons Riba ': '5'}]",0,0,0,0,0,1,0,1,1,0,0,1,0,0
+121,La Huasteca ,nuevo león,12.9,278.0,1,5.0,3,"[{'Abraham Orozco': '5'}, {'Douglas Serrano': '5'}, {'Douglas Serrano': '5'}]",0,0,0,0,0,1,0,1,1,0,0,0,0,0
+182,Playa Grande a Playa Chica,jalisco,7.2,62.0,1,5.0,2,"[{'Gabyotta Snap': '5'}, {'Gabyotta Snap': '5'}]",0,1,0,0,0,1,0,1,1,0,0,0,0,0
+117,"Junior's, Nasty, Bench Trail Loop",baja california sur,8.0,246.0,1,5.0,3,"[{'Courtenay K': '5'}, {'Daniel Lees': '5'}, {'Debranne Cingari': '5'}]",0,0,0,0,0,1,0,1,0,1,0,0,0,0
+110,Fundidora Park,nuevo león,3.5,41.0,1,4.0,3,"[{'Manuel Solis': '5'}, {'Alberto R.': '2'}, {'Manuel Solis': '5'}]",0,0,0,1,0,1,1,0,0,0,0,0,1,0
+119,K21 Valle de Bravo: Adventure Marathon Series Course,estado de méxico,20.4,960.0,3,5.0,1,[{'Buzz LightRich': '5'}],0,0,0,0,0,1,0,0,1,0,0,1,1,0
+185,Playa del Carmen Day Trip to Tulum,quintana roo,76.0,180.0,1,4.0,10,"[{'John Miller': '4'}, {'Mat BuenaVista': '1'}, {'Eric Gholston': '5'}, {'Pat Ribotto': '4'}, {'Ken Burneau': '5'}, {'Breck Tuttle': '5'}, {'yona kopolovich': '5'}, {'Matthew Kent': '5'}, {'Grayson Boyd': '5'}, {'Steve  Hazlehurst': '1'}]",1,0,1,1,0,1,0,0,1,1,0,1,0,0
+96,El Chico Hidalgo,estado de hidalgo,3.5,294.0,1,3.0,1,[{'Hector Rode Haza': '3'}],0,0,0,0,0,1,1,0,1,0,0,0,0,0
+135,Los Picachos,guanajuato,7.7,387.0,2,4.3,11,"[{'Erika Ganey': '5'}, {'Venisha Jeff': '5'}, {'Callie Houghland': '3'}, {'Jorge Carrillo': '4'}, {'Lani Elizabeth': '5'}, {'martin Banachiewicz': '3'}, {'Stephen Strand': '4'}, {'Jeff Pulford': '4'}, {'Paul Kortman': '4'}, {'Ben Debono': '5'}, {'Rob Cornelius': '5'}]",0,0,0,1,0,1,0,0,1,1,1,1,0,1
+195,Punta Canoas,baja california,139.5,3233.0,2,5.0,1,[{'Ivan Alfredo': '5'}],0,1,0,0,0,0,0,0,1,1,0,0,0,0
+137,Malecón de Mazatlan,sinaloa,9.8,57.0,1,4.5,13,"[{'Alejandra Flores': '5'}, {'Irma Karns': '4'}, {'David Covarrubias': '5'}, {'Greg Webb': '5'}, {'Teresa M.': '5'}, {'Dennis Galloway': '4'}, {'Janelle Pacheco': '4'}, {'Frank Hands': '4'}, {'Spencer N.': '5'}, {'Tony Sierra': '4'}, {'Tony Sierra': '5'}, {'Fernando Mendez': '5'}, {'James Y': '4'}]",0,1,1,1,0,0,0,0,1,0,0,0,1,0
+218,Sendero Cerro Viejo,jalisco,17.9,1137.0,3,5.0,1,[{'Dany Vic': '5'}],0,1,0,0,0,1,0,0,1,0,1,1,0,0
+71,Ciclovia Revolucion y Ciclovia Patriotismo,ciudad de méxico,7.7,104.0,1,5.0,1,[{'Enrique Huato': '5'}],1,0,1,0,0,0,0,0,0,0,0,0,0,0
+36,Carretera La Venta Santa Rosa Loop,ciudad de méxico,7.4,353.0,2,2.0,1,[{'Buzz LightRich': '2'}],0,0,1,0,0,1,0,1,1,0,0,1,1,0
+168,Paseo del Rio Atoyac via Periférico Ecológico,puebla,26.1,442.0,2,5.0,1,[{'Cesar Pigeon': '5'}],0,0,0,0,0,0,1,0,0,0,0,0,1,0
+82,Cuatro Palos to Mision de Bucareli,querétaro,23.2,1861.0,3,5.0,1,[{'Eduardo 44': '5'}],0,1,1,0,1,1,1,0,1,1,1,1,0,0
+188,Presa El Rejón Scenic Trail,chihuahua,6.6,112.0,2,4.7,3,"[{'Edgar Maldonado': '5'}, {'Amador Yair': '4'}, {'Alex Lebaron': '5'}]",0,0,0,1,0,1,1,1,0,0,0,0,1,0
+206,San Felipe 250 OHV Course,baja california,370.0,5051.0,3,4.0,1,[{'Gerardo Nuno': '4'}],0,0,0,0,0,0,0,0,1,0,0,0,0,0
+67,Cerro “El Chupón” Hike,nuevo león,4.2,388.0,2,4.0,4,"[{'Dulce Acevedo': '2'}, {'Darren Hughes': '4'}, {'Sandra Mireles': '5'}, {'Jorge Llaguno': '5'}]",0,1,1,1,0,1,0,0,1,1,1,1,1,0
+59,Cerro de el Mezcalillo,jalisco,10.6,381.0,2,4.0,1,[{'Eduardo 44': '4'}],0,0,0,0,0,1,0,0,1,0,0,1,0,0
+172,Peña de Bernal,querétaro,2.1,198.0,2,4.8,12,"[{'Donald Grimm': '5'}, {'Adriana D.': '4'}, {'Brooklynn Jai': '5'}, {'Jay Fuentes': '5'}, {'Miguel Espinoza': '4'}, {'Magdalena Esparza Rgz': '5'}, {'Callie Houghland': '5'}, {'Adrián Morales': '5'}, {'Micajah Spoden': '5'}, {'Daniel Chow': '5'}, {'Jorge Quintero': '5'}, {'Jorge Carrillo': '5'}]",0,1,0,0,0,1,0,0,1,0,1,0,1,0
+26,Brecha del Chile y Las Florida ,nuevo león,4.2,298.0,1,4.3,3,"[{'Enjalin Zwanzigmorgan': '4'}, {'miguel velarde': '5'}, {'Jorge Antonio Garza Peña (George': '4'}]",0,0,0,0,0,1,0,1,1,1,0,1,0,0
+136,Malecon Coatza,veracruz de ignacio de la llave,2.7,16.0,1,3.5,2,"[{'Freddy joel  Dominguez carcaño ': '3'}, {'Freddy joel  Dominguez carcaño ': '4'}]",0,1,0,0,0,0,0,0,1,1,0,0,1,0
+28,Camino Cabo Este Scenic Drive,baja california sur,103.6,1508.0,2,5.0,4,"[{'Sandra Koch': '5'}, {'Bill Crain': '5'}, {'Betsy Lynch': '5'}, {'Maxine Gnazzo': '5'}]",1,0,1,1,1,0,0,0,1,1,0,0,0,0
+53,Cerro Pinacate Loop,sonora,17.1,1008.0,3,5.0,2,"[{'Jesse Boersma': '5'}, {'Bruno Panara': '5'}]",0,0,0,0,0,1,0,0,1,1,0,1,0,0
+241,Trail Mineral del Chico Race Route,estado de hidalgo,20.3,1217.0,3,5.0,1,[{'Buzz LightRich': '5'}],0,0,0,0,0,1,0,0,1,1,0,1,1,0
+236,The Walled City,quintana roo,1.3,26.0,1,4.6,11,"[{'V Urena': '5'}, {'Amanda Page': '5'}, {'Jacqueline Cox': '4'}, {'yona kopolovich': '5'}, {'Hai Van': '4'}, {'Paula Valenzuela': '5'}, {'Conner Davis': '5'}, {'Eric Haight': '5'}, {'Conner Davis': '5'}, {'Denise Neves': '3'}, {'Steph Connell': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,1
+224,Sendero del Pelado,morelos,12.7,658.0,2,5.0,3,"[{'Edgar Jardon': '5'}, {'Edgar Jardon': '5'}, {'Edgar Jardon': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+108,El Tepalo Loop,jalisco,4.7,339.0,2,4.2,12,"[{'Lamorna Hollingsworth': '3'}, {'Gabyotta Snap': '5'}, {'John Connie Reimer': '4'}, {'Mike Greschner': '5'}, {'Martin Roldan Araujo': '4'}, {'Gabyotta Snap': '4'}, {'Gabyotta Snap': '3'}, {'Mike Greschner': '4'}, {'Gabyotta Snap': '5'}, {'Phillip Whitley': '4'}, {'Erick R.': '4'}, {'D Busch': '5'}]",0,0,0,0,0,1,1,0,1,0,1,1,0,1
+189,Presa Paso de Tablas,querétaro,5.6,167.0,2,4.0,1,[{'Celeste Aviles': '4'}],0,0,0,0,0,1,1,0,1,0,0,0,0,0
+4,Alameda Central to Chapultepec via Ciclovia Juárez,ciudad de méxico,12.4,265.0,2,5.0,2,"[{'David Covarrubias': '5'}, {'Anthony Virdone': '5'}]",0,1,1,0,0,0,1,0,0,0,0,0,0,0
+249,Volcán Tacaná,chiapas,18.3,2049.0,2,4.0,1,[{'Mario Gomez': '4'}],0,0,0,0,0,1,0,0,1,0,0,0,0,0
+17,Blue Bottle Saddle Hike,baja california,13.7,470.0,3,5.0,3,"[{'Lou Zar': '5'}, {'Alberto Rincon Jr': '5'}, {'Donna Miller': '5'}]",0,1,0,0,1,1,0,0,1,1,0,1,0,0
+31,Camino a la Cueva desde los llanos de Lapuente,san luis potosí,2.3,102.0,1,4.0,1,[{'Michel Rivial': '4'}],0,0,0,0,0,1,0,0,0,0,0,1,0,0
+169,Paso del Caballero,nuevo león,8.7,507.0,3,5.0,1,[{'Daniel Hernández-Cantú': '5'}],0,1,0,0,0,1,0,0,1,0,0,1,1,0
+60,Cerro de la Silla (Antenas),nuevo león,10.3,1174.0,3,4.5,18,"[{'James Carfield': '4'}, {'Veronica CoPe': '4'}, {'Leandro da Costa': '5'}, {'Hannah Pinkerton': '5'}, {'George Doran III': '5'}, {'Leticia  Flores': '5'}, {'Rick Glisson': '4'}, {'ToCatchAHacker User': '4'}, {'Megan Lipovsky': '5'}, {'Felix Lustig': '5'}, {'Samantha Bueno': '5'}, {'Brian Schumann': '4'}, {'Erick Rocha': '5'}, {'Antonio Cueto': '4'}, {'Perla Tijerina': '5'}, {'Adela Fernandez': '5'}, {'Eduardo Zarate': '4'}, {'Sergio Garca': '3'}]",0,1,1,0,0,1,0,0,1,1,1,1,1,0
+15,Batea-Cerro de San Juan,nayarit,4.0,423.0,2,5.0,3,"[{'Bere JV': '5'}, {'C Hdez V': '5'}, {'Stephanie Rosales': '5'}]",0,1,1,1,1,1,0,0,1,1,0,1,1,0
+42,Cañon de la Murcielaguera,veracruz de ignacio de la llave,4.3,182.0,2,4.0,1,[{'Jorge Carrillo': '4'}],0,1,0,0,0,1,0,0,1,1,0,1,0,0
+154,Nevado de Toluca Rim Crater Trail,estado de méxico,7.9,679.0,3,4.8,5,"[{'LINDSAY SWIFT': '5'}, {'Jorge Carrillo': '4'}, {'Julien Blaise': '5'}, {'Caum Jones': '5'}, {'Mikey Swift': '5'}]",0,0,0,0,0,1,0,0,1,1,1,1,0,0
+33,Camino el Chupón,nuevo león,2.1,332.0,1,5.0,1,[{'Carmen Equihua': '5'}],0,1,0,0,0,1,0,0,1,0,0,1,0,0
+83,Cuauhtinchan,estado de méxico,1.4,112.0,1,4.5,2,"[{'Fernanda Pdr': '5'}, {'Francisco Ferrer': '4'}]",0,1,0,0,0,1,0,0,0,0,0,0,0,1
+194,Punta Brava Trail,baja california,1.8,90.0,1,5.0,1,[{'Donna Miller': '5'}],0,0,0,0,0,1,0,0,1,0,0,0,0,0
+61,Cerro de la Venta,querétaro,4.5,231.0,2,4.0,1,[{'Jc Zotomaior': '4'}],0,0,0,0,0,1,0,0,1,0,0,0,1,0
+6,Antenas Cantú Sendero,baja california,19.2,913.0,2,4.5,2,"[{'Ken Tramp': '4'}, {'Donna Miller': '5'}]",0,1,0,0,0,1,0,0,1,1,0,0,1,0
+238,Tires and Virgin Tail ,ciudad de méxico,14.6,804.0,3,4.0,1,[{'Erich Lindner': '4'}],0,1,0,0,0,1,0,1,1,1,0,1,1,0
+165,Parque Nacional el Cimatario ,querétaro,6.0,241.0,2,4.6,12,"[{'Donald Grimm': '5'}, {'Priscilla Guerrero': '5'}, {'Daniel Gonzalez': '4'}, {'Magdalena Esparza Rgz': '4'}, {'Callie Houghland': '4'}, {'Francisco S': '5'}, {'Bernardo Cassina': '4'}, {'Luis  Salcedo Martinez': '5'}, {'Adrián Morales': '5'}, {'Fermín Montoya Olvera': '5'}, {'The Crazy Seis': '4'}, {'Micajah Spoden': '5'}]",0,1,0,1,0,1,0,1,1,1,0,1,0,0
+133,Liz's Arroyo to E-Loop Trail,baja california sur,4.7,86.0,2,5.0,1,[{'Daniel Lees': '5'}],0,0,0,0,0,1,0,0,1,1,0,0,0,0
+209,San Nicolás Totolapan Trail ,ciudad de méxico,12.4,575.0,2,4.3,3,"[{'Rodrigo Gutierrez Villarreal': '4'}, {'Eduardo Nevado': '5'}, {'Celeste Aviles': '4'}]",0,0,0,0,0,1,0,1,1,1,0,1,1,0
+19,Boca de Tomatlan to Quimixto Waterfall,jalisco,15.4,486.0,2,4.8,11,"[{'Lindsay N': '4'}, {'Mark Smith': '5'}, {'Evgenia Kostiaeva': '5'}, {'Zbigniew Lewandowski': '5'}, {'Nicole Bracco': '5'}, {'Lia Winter': '5'}, {'Tee Isais': '5'}, {'Mike Battistel': '5'}, {'Charles  Christman': '5'}, {'Marcus Naidu': '4'}, {'Tommy Loe': '5'}]",0,1,1,0,0,1,1,0,1,1,1,1,0,0
+221,Sendero La Cruz,jalisco,0.6,70.0,1,5.0,1,[{'Rubi Garcia': '5'}],0,1,0,0,0,1,0,0,1,0,0,0,0,0
+65,Cerro del Vigía  [PRIVATE PROPERTY],baja california sur,2.6,130.0,2,4.5,66,"[{'Ryan Munson': '5'}, {'Abby  F': '5'}, {'lawrence tafoya': '5'}, {'Ian Barker': '5'}, {'Chris Sherman': '5'}, {'Laura Benjamin': '5'}, {'Enrique Morales': '5'}, {'Jessica Rizo': '5'}, {'Gregg Nordin': '5'}, {'Desiree Macke': '5'}, {'Natalie Whiting': '5'}, {'Silvi Steigerwald': '1'}, {'DAWN BULL': '3'}, {'Michael Lerner': '4'}, {'Gloria Gamboa': '5'}, {'Clarissa Peterson': '5'}, {'Heather Salyer': '5'}]",0,1,0,0,0,1,0,0,1,0,1,1,0,0
+191,Puente de Dios-Rio Escanela,querétaro,6.4,157.0,1,4.8,5,"[{'Donald Grimm': '5'}, {'Kelly  Giffin ': '5'}, {'Jorge Carrillo': '5'}, {'Mario Gomez': '4'}, {'Cesar Orduna': '5'}]",0,1,0,1,0,1,1,0,1,1,0,1,0,0
+75,Coba Ruins,quintana roo,5.8,40.0,1,4.8,17,"[{'Charleyne H.': '5'}, {'Julie Martinez': '5'}, {'Jake Dieffenbach': '5'}, {'Diane Philips': '4'}, {'Kurt Bentz': '5'}, {'Bradly Hogan': '4'}, {'María Mendoza Arcos': '5'}, {'The Hiking Hiker': '5'}, {'Kalie Olberding': '5'}, {'Joel Hernandez': '5'}, {'Jason R.': '5'}, {'V Urena': '5'}, {'Victoria Arceneaux': '4'}, {'Jolina De La Cruz': '5'}, {'Fernando Mendez': '5'}, {'Colemen Wilson': '5'}, {'Amy Bullion': '5'}]",0,1,0,1,0,1,0,0,1,0,0,1,0,1
+22,Botanical Garden Trail ,quintana roo,1.8,72.0,1,5.0,1,[{'Peter M.': '5'}],0,0,0,1,0,1,0,0,0,1,0,1,0,0
+35,Canyon San Lorenzo,coahuila de zaragoza,7.9,491.0,2,4.8,4,"[{'Arturo Garcia Bobadilla': '5'}, {'Cesar Sanchez': '4'}, {'Andrew Villareal': '5'}, {'Emilio Ortiz': '5'}]",0,0,0,0,0,1,0,0,1,0,1,0,0,0
+102,El Paseo Rural,baja california,46.8,648.0,2,4.0,2,"[{'Jorge Chau': '3'}, {'Hike Revolution': '5'}]",1,0,0,0,0,1,0,1,0,0,0,0,0,0
+180,Piedra Herrada,estado de méxico,3.9,323.0,2,4.7,3,"[{'Enrique Horcasitas': '4'}, {'Fran Ky': '5'}, {'Alex Lusak': '5'}]",0,1,0,0,0,1,0,0,1,1,0,1,0,0
+21,Bosque de Chapultepec Main Loop,ciudad de méxico,3.7,77.0,1,4.4,7,"[{'Jeff Harris': '3'}, {'N G': '4'}, {'William Masterson': '5'}, {'Carlos Schnapauff': '4'}, {'Becca Brennan': '5'}, {'Carly Baker': '5'}, {'Chino Lemus': '5'}]",0,0,1,1,0,0,1,0,1,1,0,1,1,0
+112,Hierve el Agua,oaxaca,2.6,190.0,1,5.0,1,[{'Nancy G.': '5'}],0,0,0,1,0,1,0,0,1,0,0,0,0,0
+160,Paricutin,michoacán,21.1,817.0,2,5.0,4,"[{'Maddie Stocker': '5'}, {'Juan Patiño Flores': '5'}, {'Pat Buechs': '5'}, {'Adam Arney': '5'}]",0,0,0,0,0,1,0,0,1,0,1,0,1,0
+178,Pico de Orizaba and Refugio Piedra Grande,puebla,24.5,2226.0,3,5.0,1,[{'Jordan Goethel': '5'}],0,1,0,0,1,1,0,0,1,0,1,0,0,0
+163,Parque Jardines de la Hacienda,querétaro,0.6,9.0,1,4.5,2,"[{'Hassan Velázquez': '5'}, {'Paula Valenzuela': '4'}]",0,0,0,1,0,0,0,0,0,0,0,0,1,0
+16,"Bench, Nasty, Bluff Trail Loop",baja california sur,9.7,248.0,2,4.7,3,"[{'Daniel Lees': '5'}, {'Andrew D.': '4'}, {'Jeff Schwein': '5'}]",0,0,0,0,0,1,0,0,1,1,0,0,0,0
+86,Desierto a Valle del Conejo La Marquesa,ciudad de méxico,28.5,1217.0,2,4.0,6,"[{'Chiara Costanzo': '3'}, {'Michael Grealy': '5'}, {'Chucho Ares': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '1'}, {'Pedro Perusquia': '5'}]",0,1,1,0,0,1,0,1,1,0,0,1,1,0
+158,Old Port Trail,baja california sur,1.6,132.0,2,3.0,2,"[{'Denise Crain': '2'}, {'Bill Crain': '4'}]",0,1,1,0,0,1,0,0,1,1,1,0,0,0
+84,Cumbres del Ajusco,ciudad de méxico,6.0,648.0,3,4.5,2,"[{'Santiago De León': '5'}, {'Rodolfo Velez': '4'}]",0,0,1,0,0,1,0,0,1,1,0,1,1,0
+76,Cofre de Perote via El Conejo,veracruz de ignacio de la llave,12.4,893.0,2,5.0,2,"[{'Jorge Carrillo': '5'}, {'Liliana Arrazola': '5'}]",0,1,0,1,0,1,0,0,1,1,1,1,0,0
+235,The Stripe Trail ,nuevo león,1.4,169.0,1,4.5,2,"[{'Alicia Watt': '5'}, {'Jorge Llaguno': '4'}]",0,1,0,1,0,1,1,0,1,1,0,0,0,0
+47,Cerritos Corner Beach Walk,baja california sur,3.5,36.0,1,5.0,1,[{'Bill Crain': '5'}],0,1,0,1,0,1,0,0,1,1,0,0,0,0
+92,Dzibilchaltun Ruins,yucatán,2.4,13.0,1,4.0,1,[{'Manny Delcharco': '4'}],0,1,0,1,0,0,0,0,0,0,0,0,0,1
+197,Pérez T2 Monte Alto Loop,estado de méxico,15.3,679.0,2,4.0,1,[{'Michael Grealy': '4'}],0,0,0,0,0,1,0,0,1,1,0,1,0,0
+66,"Cerro el Culebreado via Garryson, Glorieta y Toboganes",jalisco,19.3,478.0,2,4.4,5,"[{'Eduardo 44': '4'}, {'Matthew Coombs': '3'}, {'Rafa Rguez': '5'}, {'Rafa Rguez': '5'}, {'Rafa Rguez': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+243,Valle de Guadalupe Hot Springs and Ruins,baja california,8.7,116.0,1,4.5,6,"[{'Monica Arellano': '4'}, {'Omar Santiago': '5'}, {'Jen Baker': '4'}, {'Paulo Ernesto Moraes': '5'}, {'Louis Murillo': '4'}, {'Gustavo Pelosi Ambrozio': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,1
+176,Pico de Orizaba North Face Trail,veracruz de ignacio de la llave,7.1,1311.0,3,5.0,6,"[{'Jared Beutler': '5'}, {'Jan C.': '5'}, {'Chris Bowler': '5'}, {'Logan Deans': '5'}, {'Arthur Kuritsyn': '5'}, {'Jonas Kublickas': '5'}]",0,1,0,0,0,1,0,0,1,0,1,0,0,0
+228,Sotano del Barro,querétaro,9.8,901.0,3,5.0,1,[{'Jorge Carrillo': '5'}],0,1,0,0,1,1,0,0,1,1,1,1,0,0
+164,Parque México,ciudad de méxico,1.3,16.0,1,3.7,3,"[{'Paula Valenzuela': '5'}, {'Paula Valenzuela': '5'}, {'Paula Valenzuela': '1'}]",0,0,0,1,0,0,1,0,0,0,0,0,1,0
+162,Parque Hundido,ciudad de méxico,1.4,27.0,1,4.0,1,[{'N G': '4'}],0,0,1,1,0,0,0,0,0,0,0,0,1,0
+51,Cerro Grande Trail,baja california,11.3,714.0,2,3.0,1,[{'Jose Alfredo Quintero': '3'}],0,1,1,0,0,1,1,0,1,1,1,0,0,0
+219,Sendero El Descanso,baja california,19.3,438.0,2,4.5,2,"[{'J R': '4'}, {'Lilian Apodaca': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+147,Monkey Mountain via Camino Patzcuaro Sur,nayarit,8.0,363.0,2,4.2,6,"[{'Lara Church': '2'}, {'Chris Anderson': '4'}, {'Kirsten Postnikoff': '4'}, {'Laura Dietrich': '5'}, {'George R.': '5'}, {'Fee Isabelle': '5'}]",0,1,0,0,0,1,0,0,1,1,0,1,1,0
+25,Brecha del Chile y Camino a Chipinque,nuevo león,7.4,357.0,2,5.0,3,"[{'Marco Garza': '5'}, {'Joaquin Beltran': '5'}, {'Joaquin Beltran': '5'}]",0,0,0,0,0,1,0,0,1,1,0,1,0,0
+198,Rancho Lara Trail ,baja california,4.7,105.0,1,4.0,1,[{'Ramses Lopez': '4'}],0,0,0,1,0,1,0,1,1,1,0,1,1,0
+134,Los Ocotillos,jalisco,3.5,317.0,1,4.5,2,"[{'Jessica Gilbert': '5'}, {'Daniel Ochoa': '4'}]",0,0,0,0,0,1,0,0,1,0,0,1,0,0
+151,Nevado de Colima ,jalisco,11.1,669.0,3,4.7,6,"[{'María Fernanda  Rébora Téllez-Sill': '4'}, {'kermity boi': '4'}, {'Dany Vic': '5'}, {'Mauricio Herrera': '5'}, {'Jessica Gilbert': '5'}, {'Gabriel Garcia rulfo': '5'}]",0,1,1,0,1,1,0,0,1,1,1,1,0,0
+141,Mira Cielo de Ruiz,baja california,16.9,1078.0,3,5.0,3,"[{'Arlene Bautista': '5'}, {'Alberto Rincon Jr': '5'}, {'Donna Miller': '5'}]",0,1,0,0,0,1,0,0,1,0,1,0,0,0
+127,Laguna Salada via Mex 5,baja california,37.7,294.0,2,5.0,1,[{'Armando Molina': '5'}],1,0,0,0,0,1,0,0,1,0,0,0,0,0
+106,El Salto Waterfall Trail,baja california,3.4,90.0,1,3.8,11,"[{'Clau Esco': '5'}, {'francisco otanez': '5'}, {'Jon-Mark Overvold': '4'}, {'Carlos Morales': '4'}, {'Jen Baker': '3'}, {'Geo Bru': '1'}, {'Tom Werder': '4'}, {'Jeremiah Shivers': '5'}, {'Claudia Ulloa ': '5'}, {'Tony Rdz': '5'}, {'Shelly Manjarrez': '1'}]",0,1,0,0,1,1,1,0,0,0,1,0,0,0
+114,Iztaccihuatl,estado de méxico,13.4,1387.0,3,5.0,23,"[{'Emmett Hume': '5'}, {'Miguel Vega': '5'}, {'Jorge Carrillo': '5'}, {'Freeman  Smith': '5'}, {'Mychal Wooldridge': '5'}, {'Dennis Van Laerhoven': '4'}, {'Elmer Pinzon': '5'}, {'Jorge Carrillo': '5'}, {'JUAN D.': '5'}, {'Alejandro Reyes Rucker': '5'}, {'Andres Obregon': '5'}, {'Aaron Murray': '5'}, {'Jesus Hache': '5'}, {'Gabrielle Wentling': '5'}, {'Jorge C.': '5'}, {'Rachel Williams': '5'}, {'Enrique Horcasitas': '5'}, {'Mike Pratt': '5'}, {'Jonas Kublickas': '5'}, {'Juan Lopez': '5'}, {'Jorge Gomez': '5'}, {'Zimu Zhou': '5'}, {'George Nunes': '5'}]",0,1,0,0,1,1,0,0,1,1,1,0,1,0
+220,Sendero Jaguar,jalisco,1.4,66.0,2,5.0,2,"[{'Lorie Fischer': '5'}, {'Spencer N.': '5'}]",0,0,0,0,0,1,0,0,1,1,1,1,0,0
+205,San Carlos Hot Springs,baja california,2.9,67.0,1,4.5,4,"[{'Donna Miller': '5'}, {'Marcos Guzman': '5'}, {'Donna Miller': '5'}, {'Mayra Reyes': '3'}]",0,1,0,1,0,1,1,0,0,0,0,0,0,0
+202,Ruiz Summit Trail to Miracielo Mountain,baja california,16.4,1057.0,3,5.0,1,[{'Alberto Rincon Jr': '5'}],0,1,0,0,0,1,0,0,1,1,0,1,1,0
+1,"Agave Ridge Trail, Tortilla Rock, Turtle Pond, and Levi's Ridge Loop",jalisco,7.2,490.0,2,3.5,2,"[{'María Fernanda  Rébora Téllez-Sill': '2'}, {'Cassia Johnson': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,1,0
+216,Sayulita to San Pancho,nayarit,6.4,259.0,1,3.7,11,"[{'Adriana D.': '5'}, {'Chris Anderson': '4'}, {'Sharon D.': '4'}, {'Bianca Bianca Hawkins': '3'}, {'Batya Bejar': '5'}, {'Hillary Clark': '3'}, {'Bronwyn Crossman': '4'}, {'Yves Pearson': '3'}, {'Yves Pearson': '3'}, {'Yves Pearson': '3'}, {'Mike Battistel': '4'}]",0,1,0,0,0,1,0,0,1,1,0,1,1,0
+10,Backside and Coyote Loop Trail,baja california sur,4.3,171.0,2,4.3,4,"[{'Jackie Smith': '5'}, {'Bill Crain': '4'}, {'Julian Higareda': '5'}, {'Michael Laprise': '3'}]",0,0,0,0,0,1,0,1,1,0,0,0,1,0
+113,Isla La Roqueta,estado de guerrero,3.2,90.0,1,5.0,2,"[{'Liam Price': '5'}, {'Chris Turner': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+43,Cañón Westman,baja california,6.6,293.0,2,5.0,3,"[{'Ignacio Liera Jr.': '5'}, {'David Meakin': '5'}, {'Donna Miller': '5'}]",0,1,0,0,0,1,0,0,1,0,1,0,0,0
+166,Parque Natural Mexiquillo Falls,durango,4.0,112.0,1,4.0,2,"[{'Hector Carrillo': '5'}, {'Hector Carrillo': '3'}]",0,1,0,0,0,1,1,0,1,0,0,1,0,0
+7,Arroyo El Coyote y Rio Grande,tamaulipas,6.1,37.0,1,4.0,2,"[{'Aide Ab': '5'}, {'Aide Ab': '3'}]",0,0,0,0,0,1,1,0,0,0,0,0,0,0
+78,Copper Canyon via Ruta Lomo y Ruta Canon,chihuahua,10.9,851.0,3,3.0,3,"[{'David Covarrubias': '5'}, {'martin Banachiewicz': '2'}, {'martin Banachiewicz': '2'}]",0,0,0,0,0,1,0,0,1,1,1,1,0,0
+77,Copete del Águila Loop,nuevo león,11.6,1169.0,2,4.0,1,[{'Raquel H': '4'}],0,0,0,0,0,1,0,0,1,1,0,1,0,0
+2,Ajusco (Las Llantas) to 4 Dinamo Loop,ciudad de méxico,23.7,1137.0,2,5.0,1,[{'Jorge Quintero': '5'}],0,0,0,0,0,1,0,1,1,0,1,0,0,0
+142,Mirador Cuatro Palos,querétaro,2.3,105.0,1,5.0,5,"[{'Brooklynn Jai': '5'}, {'Derek K': '5'}, {'Alfredo Ac': '5'}, {'Jorge Carrillo': '5'}, {'Nick Lucero': '5'}]",0,1,1,1,1,1,0,0,1,1,0,1,0,0
+90,Dona Petra Canyon,baja california,21.4,684.0,2,4.3,3,"[{'Travel Brunch': '4'}, {'Jen Baker': '4'}, {'Mariana Espinosa': '5'}]",0,1,0,0,0,1,0,0,0,1,0,0,0,0
+155,Nevado de Toluca from Parque de los Venados,estado de méxico,23.5,1284.0,3,5.0,3,"[{'Cristina Prieto': '5'}, {'Benjamin Diaz': '5'}, {'Laura Vale': '5'}]",0,0,0,0,0,1,0,1,1,1,1,0,1,0
+222,Sendero Parque Metropolitano SP-PM-3,baja california,2.1,73.0,1,4.8,4,"[{'Steve Yap': '5'}, {'Barbara Murphy': '4'}, {'Vane Vp': '5'}, {'Monica Vejar Corona': '5'}]",0,0,0,1,0,1,0,1,1,1,0,1,1,0
+211,Santa Cruz Trail,baja california,8.2,147.0,2,4.5,2,"[{'Fernando Becerra': '4'}, {'Fernando Becerra': '5'}]",0,0,0,0,0,1,0,1,1,0,0,0,0,0
+148,Monkey Mountain via Hiquera Blanca,nayarit,7.4,325.0,2,5.0,9,"[{'David Gonzalez': '5'}, {'Hallie Richmond': '5'}, {'Henry Heyman': '5'}, {'John Berg': '5'}, {'Mariya Santiago': '5'}, {'Lara Church': '5'}, {'Travis Mendoza': '5'}, {'Taylor Moore': '5'}, {'Nicolas Sanchez': '5'}]",0,1,0,0,0,1,0,0,1,1,0,1,1,0
+245,Velo de Novia Trail ,estado de méxico,2.1,124.0,1,3.0,4,"[{'Bernardo Cassina': '3'}, {'Pedro Perusquia': '5'}, {'Fran Ky': '2'}, {'Roberto Villaseñor': '2'}]",0,1,0,1,0,1,1,0,1,1,0,1,0,0
+240,Toniná Pyramid Hike,chiapas,2.9,87.0,2,4.0,1,[{'Jorge Carrillo': '4'}],0,0,0,1,0,1,0,0,1,1,0,0,0,1
+45,Cerrito de La Mina,jalisco,4.8,124.0,2,5.0,1,[{'Rubi Garcia': '5'}],0,0,0,0,0,1,0,0,1,0,1,0,0,0
+68,Cerró de las Torres,baja california sur,5.3,251.0,2,3.8,5,"[{'Mariana Medina': '5'}, {'elaine Zuckerman': '2'}, {'Lawrence Pritika': '3'}, {'Raquel Goodman': '4'}, {'Walter lewis': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+227,Sierra de Las Mitras,nuevo león,3.9,554.0,2,3.3,3,"[{'Víctor Hernández': '4'}, {'Boris Pineda': '4'}, {'Víctor Hernández': '2'}]",0,1,0,0,0,1,0,0,1,1,1,1,0,0
+152,Nevado de Toluca El Fraile Loop Trail,estado de méxico,6.8,644.0,3,4.4,8,"[{'Dennis Van Laerhoven': '4'}, {'Jorge Carrillo': '4'}, {'Flo Sch': '5'}, {'East West Nutrition User': '5'}, {'Fran Ky': '5'}, {'Craig Minoff': '4'}, {'Gilberto Romero': '4'}, {'Kasia Tadajewska': '4'}]",0,0,0,0,0,1,1,0,1,0,1,1,1,0
+146,Mission Santa Rosalia de Mulege,baja california sur,0.3,9.0,1,4.0,1,[{'Heather Salyer': '4'}],0,0,0,1,0,0,0,0,1,0,0,0,0,1
+173,Picacho del Diablo,baja california,31.9,2631.0,3,4.8,5,"[{'yuri rubi felix': '5'}, {'Emilio Borraz Ortega': '4'}, {'saul borbon': '5'}, {'Betty Barreiro': '5'}, {'Jose Alfredo Quintero': '5'}]",0,1,0,0,1,1,0,0,1,1,0,1,0,0
+97,El Cienpies,baja california,5.0,154.0,1,4.8,4,"[{'Daniel Gonzalez Castellot': '5'}, {'Daniel Gonzalez Castellot': '4'}, {""C'sar Saul S"": '5'}, {'Daniel Gonzalez Castellot': '5'}]",0,0,0,0,0,1,0,0,1,0,1,0,1,0
+32,Camino al Convento Trail,ciudad de méxico,9.8,429.0,1,4.8,17,"[{'Diego Escobedo': '5'}, {'Alan Hibbard': '5'}, {'Benjamin Diaz': '5'}, {'Raul R': '4'}, {'Ronja B.': '5'}, {'Cristina Prieto': '5'}, {'Annabelle Benin': '5'}, {'Liliana Arrazola': '5'}, {'Fernando Oca': '5'}, {'Benjamin Diaz': '5'}, {'Mau Zepe': '5'}, {'Mau Zepe': '4'}, {'Buzz LightRich': '5'}, {'Iveth Pompa': '5'}, {'Christine  Paulig': '5'}, {'Brenda Guereca': '5'}, {'Raul Rivas': '4'}]",0,0,0,0,0,1,1,0,1,1,0,1,1,0
+79,Cora Waterfalls,nayarit,16.6,507.0,2,5.0,1,[{'Alexandre Mollien': '5'}],0,0,1,0,0,1,1,1,0,1,1,1,1,0
+98,El Faro Lighthouse,sinaloa,2.4,89.0,2,4.9,7,"[{'Israel Santillan': '5'}, {'Alejandra Flores': '5'}, {'Karen Wallace': '4'}, {'Tina Lazzarone': '5'}, {'Irma Karns': '5'}, {'Dinorah Inzunza': '5'}, {'Gabino Rodriguez': '5'}]",0,1,0,0,0,1,0,0,1,1,0,0,0,1
+74,Coahuila Ruta Circular,nuevo león,47.3,2382.0,3,5.0,1,[{'Francisco Garza': '5'}],0,0,0,0,0,1,0,0,1,0,1,0,1,0
+126,La Ventana Beach Walk,baja california sur,4.0,11.0,1,5.0,2,"[{'Bill Crain': '5'}, {'Geoffrey Yandl': '5'}]",0,1,0,1,0,1,0,0,0,0,0,0,0,0
+212,Santa Maria Oasis Trail,baja california,54.6,1085.0,3,4.0,2,"[{'Ivan Alfredo': '3'}, {'Edgar Garcia': '5'}]",0,1,0,0,0,1,0,0,1,1,0,1,0,0
+94,El Carrizo,baja california,6.1,168.0,2,4.2,6,"[{'ramon balderrama': '5'}, {'Wilson R.': '5'}, {'Claudia Lara': '1'}, {'Maria Sandoval': '5'}, {'Fernando Becerra': '5'}, {'Fernando Becerra': '4'}]",0,0,0,0,0,1,1,1,1,0,0,0,1,0
+199,Raul Zertuche,coahuila de zaragoza,8.5,205.0,1,3.0,1,[{'Raul Zertuche': '3'}],0,1,1,1,1,1,0,1,1,1,1,0,0,0
+171,Peña Rosa,estado de hidalgo,3.7,182.0,1,5.0,1,[{'Chiara Costanzo': '5'}],0,0,0,0,0,1,0,0,1,0,0,1,0,0
+150,Mount Sieani Trail ,baja california,7.4,574.0,2,5.0,1,[{'Jaydon La Valla': '5'}],0,1,0,0,0,1,0,0,1,1,0,1,0,0
+13,Banco de Arena de Bahía Adaír,sonora,7.4,39.0,1,4.8,4,"[{'Beau Comeaux': '4'}, {'Kaitlin Simek': '5'}, {'Kaitlin Simek': '5'}, {'Kaitlin Simek': '5'}]",0,1,1,1,1,1,0,0,1,1,0,0,0,0
+153,Nevado de Toluca Lagoons Loop Trail,estado de méxico,10.6,538.0,2,4.7,10,"[{'Alan Hibbard': '4'}, {'Brenton Ezeofor': '5'}, {'JuanCarlos Leon': '5'}, {'Danya Sanchez': '5'}, {'Josh Baltzer': '5'}, {'Peter Scholz': '5'}, {'JUAN D.': '5'}, {'Jorge Carrillo': '4'}, {'Radka Kleckova': '4'}, {'Claudia Ulloa ': '5'}]",0,0,0,1,0,1,1,0,1,1,0,1,1,0
+125,La Raiz Trail,puebla,5.1,186.0,1,5.0,1,[{'Aldo Iván': '5'}],0,0,0,0,0,1,0,0,1,0,0,0,0,0
+99,El Mezcalero to La Escondida Loop,chihuahua,10.9,249.0,2,3.7,3,"[{'Veronica Martinez': '3'}, {'Adrián López': '5'}, {'Jimmy Steeler': '3'}]",0,0,0,0,0,1,1,0,0,0,0,0,1,0
+131,Las Piedras Niñas y Jiquilpan Jalisco,jalisco,15.6,674.0,2,5.0,2,"[{'David Ramirez': '5'}, {'David Ramirez': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+232,Tetakawi Summit ,sonora,2.1,316.0,3,4.6,5,"[{'Liz Garcia': '5'}, {'Andoni Gonzalez': '5'}, {'Zulema Dorame chavez': '5'}, {'Jeff Wellman': '4'}, {'Leonardo Arrieta': '4'}]",0,1,1,0,0,1,0,0,1,0,1,0,1,0
+170,Patriotism and Revolution Bicycle Path ,ciudad de méxico,11.1,249.0,1,3.5,2,"[{'Enrique Huato': '5'}, {'Roberto Albores': '2'}]",0,1,1,1,0,0,0,0,1,0,0,0,0,1
+62,Cerro del Bachoco,sonora,3.7,266.0,2,4.3,4,"[{'Javier  Vazquez ': '5'}, {'Javier  Vazquez ': '4'}, {'Daniela Salido': '5'}, {'Javier  Vazquez ': '3'}]",0,1,0,0,0,1,0,0,1,1,1,0,0,0
+18,Boca de Tomatlan Trail,jalisco,8.0,247.0,2,4.9,27,"[{'Eileen Rittenhouse': '5'}, {'Dan Klingberg': '5'}, {'Tanya Morosoli': '5'}, {'Holly Vest': '5'}, {'Tom P.': '5'}, {'Laura Balboa': '5'}, {'Kaitlin Haefner': '5'}, {'Anna T': '5'}, {'Lia Winter': '5'}, {'Emily White': '5'}, {'Rodolfo F': '5'}, {'Jesus Ibarra': '5'}, {'Riche W.': '4'}, {'Leo Alcala': '5'}, {'Matthew Cummins': '5'}, {'Dany Vic': '5'}, {'Kevin Casey': '5'}, {'C.  Petersman': '4'}, {'Brian Jesmer': '3'}, {'F User': '5'}, {'Christine Wushke': '5'}, {'Jonno Schmidt': '5'}, {'Gerardo Fojo': '5'}, {'Tommy Loe': '5'}, {'Mike Miller': '5'}, {'T Abba': '5'}, {'Ben Riordan': '5'}]",0,1,0,0,0,1,0,0,1,1,0,0,0,0
+186,Playa la Cachora Beach Walk,baja california sur,2.4,11.0,1,3.3,3,"[{'Bill Crain': '4'}, {'Denise Crain': '2'}, {'Bill Crain': '4'}]",0,1,1,1,0,1,1,0,1,1,0,0,0,0
+56,Cerro Zapotecas,puebla,8.5,279.0,2,4.0,3,"[{'Sadie  Birks': '2'}, {'Ari Gutierrez': '5'}, {'Arzy KatzLvtrov': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,1,0
+215,Sayulita to Playa Malpasos Loop,nayarit,2.4,54.0,1,4.0,1,[{'George R.': '4'}],0,0,0,0,0,1,0,0,1,0,0,1,0,0
+193,Punta Brava,baja california,5.8,239.0,1,4.0,2,"[{'David Coher': '4'}, {'Monica Arellano': '4'}]",0,1,0,0,1,1,0,0,1,0,0,0,0,0
+175,Pico Pirámide,nuevo león,7.4,1380.0,3,4.5,4,"[{'Jorge Camargo': '4'}, {'JuanCarlos Leon': '5'}, {'Jorge Camargo': '5'}, {'Francisco Francisco Bujanos': '4'}]",0,1,0,0,0,1,0,0,1,1,0,0,1,0
+116,Juanacatlán a La Manzanilla,jalisco,35.4,1097.0,2,4.0,1,[{'Eduardo 44': '4'}],0,1,0,0,0,1,0,0,1,0,0,0,0,0
+52,Cerro Ostotl Tlaxcala,tlaxcala,4.3,214.0,2,2.5,2,"[{'Jorge Carrillo': '4'}, {'Daniel Gaisbacher': '1'}]",0,0,0,0,0,1,0,0,1,1,0,1,0,0
+177,Pico de Orizaba South Face Trail,veracruz de ignacio de la llave,3.9,848.0,3,4.8,9,"[{'Sara Atlas': '5'}, {'pepe cernicchiaro': '5'}, {'Wilson R.': '5'}, {'JUAN D.': '5'}, {'Wilson R.': '4'}, {'yona kopolovich': '5'}, {'Nate Beam': '4'}, {'Manuel López': '5'}, {'Jorge Carrillo': '5'}]",0,1,0,0,1,1,0,0,1,0,1,0,0,0
+138,Malinche,tlaxcala,12.2,1275.0,3,4.8,29,"[{'Nelson Gonzalez': '5'}, {'Breck Tuttle': '5'}, {'Nelson Gonzalez': '5'}, {'Mercedes Alejandra López Serrano': '5'}, {'Lachie B': '5'}, {'Mychal Wooldridge': '5'}, {'Aldo Silva': '5'}, {'Claudio Sodi': '5'}, {'Saúl RC': '5'}, {'Jorge Carrillo': '4'}, {'JUAN D.': '5'}, {'Vincent Leroy': '5'}, {'Jorge C.': '5'}, {'Para Varios': '2'}, {'Valeria  Lopez': '5'}, {'Miguel Gallo': '5'}, {'Logan Deans': '5'}, {'Chris Bowler': '5'}, {'Ricardo Camargo': '5'}, {'Mathieu Roy': '5'}, {'Oscar Josue Flores Villa': '4'}, {'luke botanist': '5'}, {'Frank Walsh': '5'}, {'Nabor Contreras': '5'}, {'Lucia CT': '5'}, {'Luis Zepeda': '5'}, {'Santiago De León': '5'}, {'Mariel DoSu': '5'}, {'Juan Patiño Flores': '5'}]",0,1,1,0,1,1,0,0,1,1,1,1,0,0
+120,La Bufadora Paddle,baja california,5.0,31.0,3,5.0,3,"[{'Jeetu J': '5'}, {'Elizabeth Navarro': '5'}, {'Jeetu J': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+223,Sendero Teinidad de Melina ,nuevo león,12.7,237.0,1,3.0,1,[{'Alfredo Flores': '3'}],0,1,0,0,0,1,0,0,1,1,1,0,0,0
+143,Mirador El Pinal,nuevo león,10.0,612.0,3,4.9,8,"[{'David Chong': '5'}, {'Julio Santiago': '5'}, {'quentin jacques': '5'}, {'Felipe Garcia': '5'}, {'Jaciel Castro': '5'}, {'Josue Montiel': '5'}, {'Joaquin Beltran': '5'}, {'Eduardo Zarate': '4'}]",0,1,1,0,0,1,0,0,0,1,0,1,1,0
+230,Teotihuacán Pyramids via Camino de Los Muertos,estado de méxico,4.8,74.0,1,4.6,5,"[{'su l.': '3'}, {'Ezveidy Pastrana': '5'}, {'Javier Alvarez': '5'}, {'Mikey Swift': '5'}, {'Jorge Carrillo': '5'}]",0,0,0,1,0,0,0,0,1,0,0,0,0,1
+87,Desierto de los Leones Loop,ciudad de méxico,23.2,1123.0,3,5.0,2,"[{'Petya Lazarova': '5'}, {'Juan Hanna': '5'}]",0,0,1,0,0,1,0,1,1,0,0,1,1,0
+50,Cerro Grande,chihuahua,4.0,369.0,1,5.0,1,[{'Alejandro Guerra': '5'}],0,0,0,0,0,1,0,0,1,0,0,0,0,0
+111,Hacienda Tres Rios to Mangrove,quintana roo,9.2,30.0,1,3.7,3,"[{'Corbin Chau': '2'}, {'Dmitri Kniazev': '5'}, {'Scott Titterington': '4'}]",0,1,0,0,0,1,0,0,1,1,0,0,1,0
+9,Backside and Bench Trail,baja california sur,6.9,270.0,2,3.4,5,"[{'Bill Crain': '4'}, {'Debranne Cingari': '1'}, {'Francisco Ferrer': '3'}, {'Midori Midori': '4'}, {'Alec Michaud': '5'}]",0,1,0,0,0,1,0,0,1,1,0,0,0,0
+93,Ek' Balam,yucatán,1.6,20.0,1,4.5,4,"[{'Scott Densmore': '5'}, {'George Wailand': '5'}, {'Conner Davis': '5'}, {'Bryana m': '3'}]",0,1,0,1,0,1,0,0,1,0,0,1,0,0
+70,"Chile, Deslavada, Ozelote, Coati II y Coat I",nuevo león,14.3,759.0,2,4.8,5,"[{'Ssoleey Tristán': '5'}, {'Alicia Watt': '4'}, {'Carlos Ruiz Favela': '5'}, {'Samantha Bueno': '5'}, {'Ricardo Del Valle': '5'}]",0,0,0,0,0,1,0,1,1,0,0,1,0,0
+46,Cerritos Beach Walk,baja california sur,13.4,114.0,1,4.7,3,"[{'Teresa M.': '5'}, {'Bill Crain': '5'}, {'Bill Crain': '4'}]",0,1,1,0,0,1,0,0,1,1,0,0,1,0
+192,Puerto Penasco to Golfo de Santa Clara,sonora,353.9,658.0,2,5.0,1,[{'Sandra Griffin': '5'}],0,0,0,0,0,0,0,0,1,1,0,0,0,0
+40,Cascadas de Micos,san luis potosí,4.7,134.0,1,5.0,1,[{'Victor  Avalos': '5'}],0,0,0,0,0,1,1,0,0,0,0,0,0,0
+48,Cerro El Coronel,baja california,4.5,359.0,3,4.8,26,"[{'Mario Ruiz': '4'}, {'Charly Barajas': '5'}, {'Carlos Moreno': '5'}, {'Carlos Moreno': '5'}, {'Leo Aguilar': '5'}, {'Marie Barthel': '5'}, {'Beatriz Aragón': '5'}, {'Carol Romero': '5'}, {'Beatriz Aragón': '5'}, {'Ana Segedincev': '5'}, {'Michael Garcia': '5'}, {'Janeth Castro': '5'}, {'Kailee G': '5'}, {'francisco otanez': '4'}, {'Claudia Ulloa ': '5'}, {'Mariel Carrasco': '5'}, {'Thalina Irais': '5'}, {'Lupita Real': '5'}, {'Jen Baker': '4'}, {'Manuel Cabrera': '4'}, {'Jonathan Gonzalez-Garcia ': '4'}]",0,1,0,0,0,1,0,0,1,0,0,0,1,0
+187,Pozo de Cota Beach Walk,baja california sur,5.5,22.0,1,5.0,1,[{'Morgan Oakland': '5'}],0,1,0,0,0,1,0,0,1,0,0,0,0,0
+27,Cabo Banda: Lighthouse Trail,baja california,7.7,246.0,1,4.7,3,"[{'Ashley Mercado': '4'}, {'Donna Miller': '5'}, {'Donna Miller': '5'}]",0,1,0,0,0,1,0,0,1,0,0,0,0,0
+207,San Juan Amecac a Tecuanipa,puebla,17.4,448.0,2,1.0,1,[{'Casey  LeTellier': '1'}],0,1,0,0,0,1,0,1,1,1,1,1,1,0
+174,Picachos Sendero,baja california,1.8,44.0,2,4.0,1,[{'Cocko Perez': '4'}],0,1,0,0,0,1,0,0,1,0,1,0,0,0
+107,El San Miguel,ciudad de méxico,14.0,758.0,3,4.5,11,"[{'Diego Escobedo': '4'}, {'Federico Antoni': '5'}, {'Morten Hellberg': '4'}, {'Leslie Patino': '5'}, {'Rick Glisson': '4'}, {'Jesus Levy': '5'}, {'Radka Kleckova': '4'}, {'Miguel Gallo': '5'}, {'José Ignacio Aldama V.': '5'}, {'saul arizmendi martinez': '5'}, {'Oscar Teuffer': '4'}]",0,1,1,0,0,1,0,0,1,1,1,1,1,0
+58,Cerro de el Colli [PRIVATE PROPERTY],jalisco,9.7,327.0,2,3.0,2,"[{'Taylor Blackburn': '1'}, {'Eduardo 44': '5'}]",0,1,0,0,0,1,0,0,1,1,0,0,0,0
+30,Camino a La Entrega Loop,oaxaca,6.3,175.0,2,4.0,2,"[{'Matt Altschul': '3'}, {'Jan Potocki': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+73,Circuito San Miguel,ciudad de méxico,27.2,1274.0,3,4.9,7,"[{'Julien Blaise': '5'}, {'Gabriel De Cárcer': '4'}, {'Katsuya Imanishi': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}]",0,0,1,0,0,1,0,1,1,0,1,1,0,0
+54,Cerro Prieto,baja california,2.3,103.0,2,4.7,3,"[{'Sofia Velazquez': '5'}, {""Muddyface D'solis"": '5'}, {'Luis Lozano': '4'}]",0,0,0,0,0,1,0,0,1,1,0,0,0,0
+190,Puente de Dios via Paso Ancho,san luis potosí,6.1,165.0,2,5.0,1,[{'Jorge Carrillo': '5'}],0,1,0,1,1,1,1,0,1,1,0,1,0,0
+85,Desierto Leones a Manantiales Rincón San Miguel,ciudad de méxico,8.2,377.0,2,3.8,4,"[{'Chiara Costanzo': '3'}, {'Miguel Gallo': '5'}, {'P Carlos LV': '4'}, {'Michael Grealy': '3'}]",0,1,1,0,0,1,0,1,1,0,0,1,1,0
+251,Yelapa Waterfall Trail ,jalisco,4.0,110.0,1,4.8,6,"[{'Nicole Bracco': '5'}, {'Evgenia Kostiaeva': '5'}, {'Mary Humphrey': '5'}, {'Maggie Tilley': '4'}, {'Bryan Hindle': '5'}, {'Kelly Naff': '5'}]",0,1,0,1,0,1,1,0,1,1,0,1,0,0
+115,Jicalán,michoacán,2.6,248.0,1,5.0,2,"[{'Liz S. Ortiz': '5'}, {'Liz S. Ortiz': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,1,0
+89,Devils Peak via Devil's Canyon Trail,baja california,52.5,2923.0,3,5.0,1,[{'Federico Godinez': '5'}],0,1,0,0,1,1,0,0,1,0,0,0,0,0
+95,El Charco del Ingenio ,guanajuato,1.6,39.0,1,4.7,3,"[{'Adriana D.': '5'}, {'Adriana D.': '5'}, {'Edward Hug': '4'}]",0,0,0,1,0,1,0,0,1,1,0,0,0,0
+157,Old Filters Trail ,michoacán,10.1,441.0,2,4.5,2,"[{'Orlando Torres': '5'}, {'Pedro Guzman': '4'}]",0,1,0,0,0,1,1,0,1,1,0,1,1,0
+20,Bosque de Chapultepec Loop,ciudad de méxico,4.2,118.0,1,4.0,2,"[{'Bernardo Cassina': '3'}, {'Ho De': '5'}]",0,0,0,1,0,1,1,0,0,0,0,1,0,0
+103,El Pinal via Brecha El Empalme y Vereda de Cabras,nuevo león,10.8,615.0,2,5.0,3,"[{'Marco Garza': '5'}, {'Marco Garza': '5'}, {'Ben Heath': '5'}]",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+167,Paseo de Las Garzas,estado de guerrero,12.6,369.0,1,5.0,1,[{'Donal Clancy': '5'}],0,1,0,0,0,1,0,0,1,0,0,0,0,0
+124,La Pila ,ciudad de méxico,19.8,823.0,3,4.3,10,"[{'Julien Blaise': '4'}, {'Ernesto Ba': '4'}, {'Liliana Arrazola': '5'}, {'Pablo Santos': '5'}, {'Pedro Perusquia': '5'}, {'Pedro Perusquia': '5'}, {'Emiliano Aguilar P.': '5'}, {'Juan Leonardo Gonzalez Gomez': '5'}, {'Faafeu Kapeneta': '1'}, {'Michael Grealy': '4'}]",0,1,1,0,0,1,0,1,1,1,0,1,1,0
+29,Camino Colonia Mexico,chihuahua,15.3,187.0,2,4.6,7,"[{'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '3'}, {'Eduardo A Gonzalez M': '5'}, {'Eduardo A Gonzalez M': '4'}]",0,1,0,0,0,1,0,0,1,0,1,0,0,0
+140,Milpalta a Tepoztlán,ciudad de méxico,36.2,1356.0,2,5.0,1,[{'Daniel Escamilla': '5'}],0,1,0,0,0,1,0,0,1,0,1,0,0,0
+214,Sayulita to Playa Malpasos,nayarit,1.3,36.0,1,4.0,1,[{'Roger R.': '4'}],0,1,0,0,0,1,0,0,1,0,0,0,0,0
+231,Tepozteco,morelos,2.1,263.0,2,4.6,25,"[{'Taylor Elise': '5'}, {'Patricia G.': '5'}, {'David Peña-Chavez': '5'}, {'Freeman  Smith': '4'}, {'Petr Hofman': '5'}, {'Elfa Guirado': '5'}, {'Hector Manuel Perez Sanchez': '5'}, {'Lucio Ramirez': '5'}, {'Cezary Oniszczuk': '5'}, {'Katherine White': '5'}, {'Roberto Rozalen': '5'}, {'Janeth Castro': '4'}, {'Beatriz Martinez': '5'}, {'Chris A': '3'}, {'Antonio Cueto': '3'}, {'Mau Zepe': '5'}, {'Uriel  Chavez ': '5'}, {'Ixchel Tucker': '5'}, {'Fran Ky': '5'}, {'Robchik Sk': '5'}, {'Patricio Reynaud': '4'}, {'Mario Aguilar Estrada': '5'}, {'Rob Shearer': '4'}, {'Carlos Villarespe': '5'}, {'Bernat Rubio': '4'}]",0,1,0,0,0,1,0,0,1,0,1,1,0,1
+201,Rio Grande de Santiago via La Barranca ,jalisco,10.5,651.0,2,4.4,10,"[{'Tania Vasco': '4'}, {'Maverikc Vargas': '5'}, {'Raul Arellano': '5'}, {'Shelby Witherby': '4'}, {'Sonny Cruz': '4'}, {'Lindsey Meere': '4'}, {'Don Wiens': '4'}, {'Julien Roy': '5'}, {'Mathieu Roy': '5'}, {'Alex Quevedo': '4'}]",0,1,0,0,0,1,1,0,1,1,0,1,1,0
+38,Cascada Ensenada Ruta Circular,baja california,15.4,772.0,2,4.0,5,"[{'Kyle Watson': '3'}, {'Jen Baker': '4'}, {'Edde Barragan': '5'}, {'Javier Guadiana': '4'}, {'Javier Guadiana': '4'}]",0,0,0,0,0,1,1,0,1,0,0,0,0,0
+181,Pila Trail,baja california sur,1.3,127.0,2,4.0,1,[{'Debranne Cingari': '4'}],0,1,0,0,0,1,0,0,1,1,0,0,0,0
+229,Tecolote Beach Walk,baja california sur,2.4,5.0,1,4.3,3,"[{'Bill Crain': '4'}, {'Denise Crain': '5'}, {'Bill Crain': '4'}]",0,1,1,1,0,1,0,0,1,0,0,0,0,0
+149,Monte Tlaloc via Rio Frio,estado de méxico,21.6,1176.0,3,4.3,3,"[{'Jorge Carrillo': '5'}, {'Jorge Carrillo': '4'}, {'Mau Zepe': '4'}]",0,1,1,1,0,1,1,1,1,1,1,1,0,1
+55,Cerro San Isidro,baja california,7.2,505.0,2,3.8,5,"[{'Jose Alfredo Quintero': '3'}, {'Jose Covarrubias': '5'}, {'Jose Covarrubias': '5'}, {'Jeremiah Shivers': '3'}, {'Jose Alfredo Quintero': '3'}]",0,1,1,0,0,1,0,1,1,1,1,1,1,0
+88,"Devils Canyon, Wall Street, Devil's Peak ",baja california,42.5,3287.0,3,5.0,1,"[{""C'sar Saul S"": '5'}]",1,0,0,0,1,1,0,0,1,1,0,0,0,0
+244,Valle de Guadelupe Hot Springs,baja california,5.8,101.0,1,5.0,3,"[{'Clau Esco': '5'}, {'Gustavo Pelosi Ambrozio': '5'}, {'Mirna Gonzalez': '5'}]",0,1,0,0,0,1,0,0,0,0,0,0,0,0
+217,Sendero Cerra del Borrego ,veracruz de ignacio de la llave,2.4,255.0,1,5.0,1,[{'Dominic R.': '5'}],0,1,0,0,0,1,0,0,1,1,0,1,0,0
+161,Parque Guadiana,durango,2.1,27.0,1,2.0,1,[{'Alan Chaparro': '2'}],0,0,1,1,0,0,0,0,0,0,0,0,1,0
+101,El Pabellon - Cerro del Mirador,jalisco,2.9,215.0,2,5.0,1,[{'César Uyoa': '5'}],0,1,0,0,0,1,0,0,1,1,0,0,0,0
+122,La Moneda Trail,coahuila de zaragoza,16.1,846.0,2,4.0,1,[{'Janneth Masters': '4'}],0,1,0,0,0,1,0,0,1,0,1,0,0,0
+11,Baker-Milton Trail Loop,sonora,20.0,228.0,2,3.7,3,"[{'Caroline Rohe': '5'}, {'Mary Raines': '4'}, {'Timothy Ivey': '2'}]",0,0,0,0,0,1,0,0,1,1,0,0,0,0
+123,La Paz Beachwalk,baja california sur,4.7,27.0,1,4.7,3,"[{'Bill Crain': '4'}, {'Bill Crain': '5'}, {'Denise Crain': '5'}]",0,1,1,1,0,1,0,0,1,1,0,0,1,0
+109,Fisherman's Beach Walk,baja california sur,5.3,40.0,1,4.0,2,"[{'Bill Crain': '4'}, {'Denise Crain': '4'}]",0,1,1,1,0,1,0,0,1,1,0,0,0,0
