@@ -26,6 +26,8 @@ However, calculating similarity scores based on the distances have an inherent p
 
 ## Learning and conclusion
 
-The hiking recommendation system in Mexico was implemented by just using pandas and a basic math library functions. In addition, it was a nice training to get to know the intuition behind recommendation engines. Naturally, there is a vast field to the recommendation engines than these aforementioned, and of course not just the ratings. Furthermore
+The hiking recommendation system in Mexico was implemented by just using pandas and a basic math library functions. In addition, it was a nice training to get to know the intuition behind recommendation engines. Naturally, there is a vast field to the recommendation engines than these aforementioned, and of course not just the ratings. In fact, the use of other features applied in this model helped to do a more accurate recommendation of the route.
+
+Next steps, is the aplication of these tools to a web page.
 
 
